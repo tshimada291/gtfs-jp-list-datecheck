@@ -35,10 +35,10 @@ jobs:
       - name: Run script
         run: |
           python gtfs-checkurl-zip.py
-      #- name: git settings
-        #run: |
-        #  git config --global user.email ${{ secrets.SECRET_MAIL }}
-        #  git config --global user.name ${{ secrets.SECRET_NAME }}
+      - name: git settings
+        run: |
+          git config --global user.email ${{ secrets.SECRET_MAIL }}
+          git config --global user.name ${{ secrets.SECRET_NAME }}
       - name: CSV commit
         run: |
           git add .
@@ -48,7 +48,6 @@ jobs:
       # Runs a single command using the runners shell
       #- name: Run a one-line script
       #  run: echo Hello, world!
-
       # Runs a set of commands using the runners shell
       #- name: Run a multi-line script
       #  run: |
