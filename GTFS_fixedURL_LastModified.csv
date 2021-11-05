@@ -1,7 +1,7 @@
-label,url,Last-Modified-GMT
-(HODaP) 道南バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/a70d369c-405c-4c25-996c-c70aa53682bc/download/dounan_bus.zip,
-北海道拓殖バス　一般路線、コミュニティバス（音更町・新得町・清水町）,https://www.takubus.com/app/download/10941479479/GTFS_regular_line.zip,
-北海道拓殖バス 都市間高速バス・帯広空港連絡バス,https://www.takubus.com/app/download/11008674479/GTFS_highway_line.zip,
-(HODaP) 北海道拓殖バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/3870b272-dabb-4527-9d51-67afc2c9a2d5/download/takushoku_bus.zip,
-(HODaP) 十勝バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/9ad9de7f-73a9-4695-858f-c09cdf13437a/download/tokachi_bus.zip,
-［HODaP］ 網走バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/c84abf64-f7ba-4d22-8cc1-acac7adbdc6f/download/abashiri_bus.zip,
+label,Last-Modified-GMT,url
+(HODaP) 道南バス,2021-09-02 10:48:45,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/a70d369c-405c-4c25-996c-c70aa53682bc/download/dounan_bus.zip
+北海道拓殖バス　一般路線、コミュニティバス（音更町・新得町・清水町）,2021-10-26 02:57:44,https://www.takubus.com/app/download/10941479479/GTFS_regular_line.zip
+北海道拓殖バス 都市間高速バス・帯広空港連絡バス,2021-10-26 02:50:02,https://www.takubus.com/app/download/11008674479/GTFS_highway_line.zip
+(HODaP) 北海道拓殖バス,2021-09-02 10:53:12,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/3870b272-dabb-4527-9d51-67afc2c9a2d5/download/takushoku_bus.zip
+(HODaP) 十勝バス,2021-08-19 08:53:05,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/9ad9de7f-73a9-4695-858f-c09cdf13437a/download/tokachi_bus.zip
+［HODaP］ 網走バス,2021-11-04 09:40:08,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/c84abf64-f7ba-4d22-8cc1-acac7adbdc6f/download/abashiri_bus.zip
