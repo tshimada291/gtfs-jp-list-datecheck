@@ -4,10 +4,7 @@ f0100201,北海道拓殖バス　一般路線、コミュニティバス（音�
 f0100202,北海道拓殖バス 都市間高速バス・帯広空港連絡バス,https://www.takubus.com/app/download/11008674479/GTFS_highway_line.zip,GTFS_highway_line
 f0100203,(HODaP) 北海道拓殖バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/3870b272-dabb-4527-9d51-67afc2c9a2d5/download/takushoku_bus.zip,takushoku_bus
 f0100302,(HODaP) 十勝バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/9ad9de7f-73a9-4695-858f-c09cdf13437a/download/tokachi_bus.zip,tokachi_bus.zip
-f0100401,網走バス　観光施設めぐり,https://www.abashiribus.com/open_data/AbashiriBusShisetsuMeguri_current_data.zip,AbashiriBusShisetsuMeguri
-f0100402,網走バス　郊外線・市内線,https://www.abashiribus.com/open_data/abashiribus_current_data.zip,abashiribus
 f0100403,［HODaP］ 網走バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/c84abf64-f7ba-4d22-8cc1-acac7adbdc6f/download/abashiri_bus.zip,abashiri_bus
-f0100404,網走バス　女満別空港線,https://www.abashiribus.com/open_data/Memanbetsu_Airport_Line_current_data.zip,Memanbetsu_Airport_Line
 f0100501,網走観光交通バス,http://www.abashiri-kk.com/wp/wp-content/uploads/2019/11/abashirikankokotu.zip,abashirikankokotu
 f0100601,北海道北見バス　一般路線,https://drive.google.com/uc?export=view&id=13MQ00Oq6pJgHpB2jz5nG1iay0fEyXpAj,GTFS-JP_kitamibus
 f0100602,北海道北見バス　女満別空港線,https://drive.google.com/uc?export=view&id=1Pekt6M8SaXCS4iX8Q8u-Q6pRBbKyeqqU,GTFS-JP_kitamibus_m
@@ -30,6 +27,7 @@ f0102101,［HODaP］ 奈井江町コミュニティ,https://ckan.hoda.jp/dataset
 f0102201,［HODaP］ 中標津町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/75e1e2db-ab48-4dfb-9514-1ebbc898791a/download/nakashibetsucho_com.zip,nakashibetsucho_com
 f0102301,［HODaP］ 名寄市コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/4abe45b3-7390-4d7d-8bf1-e8c7230ab962/download/nayoroshi_com.zip,nayoroshi_com
 f0102401,［HODaP］ 根室交通,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/8b9cb94b-beb4-4b57-9096-5140ef6f2333/download/nemuro_kotu.zip,nemuro_kotu
+f0102402,根室交通,https://www.nemurokotsu.com/manage/wp-content/uploads/2021/10/nemuro-gtfs-saishin.zip,nemuro-gtfs-saishin
 f0102501,［HODaP］ 斜里町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/e59d88f1-2236-41bb-ba8c-75fd4754af1a/download/sharicho_com.zip,sharicho_com
 f0102601,［HODaP］ 士幌町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/3c8f82fe-c997-45c8-9307-c904b206a450/download/shihorocho_com.zip,shihorocho_com
 f0102701,［HODaP］ 空知中央バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/671debb1-44c5-4dea-99eb-be693911c50c/download/sorachi_chuo_bus.zip,sorachi_chuo_bus
@@ -149,6 +147,7 @@ f1003701,高速バス【群馬】,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.000
 f1200101,千葉市若葉区泉地域コミュニティバス　さらしなバス,https://www.city.chiba.jp/toshi/toshi/kotsu/documents/sarashinabus-gtfs.zip,sarashinabus-gtfs
 f1200102,千葉市若葉区泉地域コミュニティバス　おまごバス,https://www.city.chiba.jp/toshi/toshi/kotsu/documents/omagobus-gtfs.zip,omagobus-gtfs
 f1200103,千葉市若葉区泉地域コミュニティバス　いずみバス,https://www.city.chiba.jp/toshi/toshi/kotsu/documents/izumibus-gtfs.zip,izumibus-gtfs
+f1200201,京成トランジットバス,https://www.transitbus.co.jp/web/archive/KeiseiTransitBus_gtfs_jp.zip,KeiseiTransitBus_gtfs_jp
 f1202801,我孫子市　あびバス（新木ルート、栄・泉・並木ルート、船戸・台田ルート、布施ルート）,https://www.city.abiko.chiba.jp/shisei/opendata/GTFS-JP.files/gtfs_Abibus_other_root.zip,gtfs_Abibus_other_root
 f1202802,我孫子市　あびバス（根戸ルート）,https://www.city.abiko.chiba.jp/shisei/opendata/GTFS-JP.files/gtfs_Abibus_nedo_root.zip,gtfs_Abibus_nedo_root
 f1202803,我孫子市　アイバス,https://www.city.abiko.chiba.jp/shisei/opendata/GTFS-JP.files/gtfs_Aibus.zip,gtfs_Aibus
@@ -183,7 +182,8 @@ f1700503,珠洲市営バス　若山線,https://www.city.suzu.lg.jp/data/open/cn
 f1700504,珠洲市営バス　まちなかバス すずらん,https://www.city.suzu.lg.jp/data/open/cnt/3/2185/1/gtfs-SuzuranLine.zip,gtfs-SuzuranLine
 f1700601,羽咋市　市内循環バス「るんるんバス」,https://www.city.hakui.lg.jp/material/files/group/1/rosen_bus.zip,rosen_bus_hakui
 f1701402,金沢ふらっとバス,https://www4.city.kanazawa.lg.jp/data/open/cnt/3/24011/1/flatbus.zip,flatbus
-f1800101,鯖江市　つつじバス,https://www.city.sabae.fukui.jp/xml/gtfs/gtfs_sabae.zip,gtfs_sabae
+f1800101,鯖江市　つつじバス（市カタログサイト）,https://www.city.sabae.fukui.jp/xml/gtfs/gtfs_sabae.zip,gtfs_sabae0
+f1800102,鯖江市　つつじバス,https://www.pref.fukui.lg.jp/doc/toukei-jouhou/opendata/gtfs_jp_d/fil/gtfs_sabae.zip,gtfs_sabae
 f1800201,福井市　海岸地域バス,https://www.pref.fukui.lg.jp/doc/toukei-jouhou/opendata/gtfs_jp_d/fil/kaigan_bus.zip,kaigan_bus
 f1800202,福井市　清水地域バス,https://www.pref.fukui.lg.jp/doc/toukei-jouhou/opendata/gtfs_jp_d/fil/simizu_bus.zip,simizu_bus
 f1800204,福井市　乗合タクシー　高屋・本郷ルート,https://www.pref.fukui.lg.jp/doc/toukei-jouhou/opendata/gtfs_jp_d/fil/noriaitaxi.zip,noriaitaxi
@@ -212,6 +212,8 @@ f1900001,山梨交通・富士急行・山梨県内コミュニティバス,http
 f2000101,南木曽町　地域バス,https://www.rosenzu.com/~gtfs/nagiso/nagiso_GTFS.zip,nagiso_GTFS
 f2100101,中津川市コミュニティバス,https://www.rosenzu.com/~gtfs/nakatsugawa/nakatsugawa_GTFS.zip,nakatsugawa_GTFS
 f2100201,北恵那バス（北恵那交通）,https://www.rosenzu.com/~gtfs/kitaena/kitaena_GTFS.zip,kitaena_GTFS
+f2100301,可児市　さつきバス・Ｋバス,https://www.city.kani.lg.jp/secure/12816/satukik.zip,satukik
+f2100302,可児市　YAOバス,https://www.city.kani.lg.jp/secure/12816/yao.zip,yao
 f2100401,恵那市自主運行バス,https://www.rosenzu.com/~gtfs/ena/ena_GTFS.zip,ena_GTFS
 f2100601,本巣市営バス,https://www.rosenzu.com/~gtfs/motosu/motosu_GTFS.zip,motosu_GTFS
 f2100701,海津市コミュニティバス,https://www.rosenzu.com/~gtfs/kaizu/kaizu_GTFS.zip,kaizu_GTFS
@@ -233,6 +235,7 @@ f2301801,豊山町　とよやまタウンバス,https://www.rosenzu.com/~gtfs/t
 f2302001,刈谷市公共施設連絡バス かりまる,https://www.rosenzu.com/~gtfs/kariya/kariya_GTFS.zip,kariya_GTFS
 f2302101,豊明市　ひまわりバス,https://www.city.toyoake.lg.jp/secure/5217/toyoake.zip,toyoake
 f2304401,東海市　らんらんバス(循環バス),http://www.city.tokai.aichi.jp/secure/47255/gtfs.zip,gtfs_tokaicity
+f2304501,大府市　ふれあいバス,obu-gtfs-current-data.zip,obu-gtfs-current-data
 f2400101,津ベルライン（津エアポートライン）,https://www.rosenzu.com/~gtfs/tsuairportline/tsuairportline_GTFS.zip,tsuairportline_GTFS
 f2400201,桑名市　K-バス,https://www.rosenzu.com/~gtfs/kuwana/kuwana_GTFS.zip,kuwana_GTFS
 f2400301,伊勢市コミュニティバス（おかげバス、沼木バス）,https://www.rosenzu.com/~gtfs/ise/ise_GTFS.zip,ise_GTFS
@@ -287,6 +290,7 @@ f3600702,徳島市営バス,http://www.city.tokushima.tokushima.jp/shisei/open-d
 f3700101,西讃観光　高松空港リムジンバス,https://www.rosenzu.com/~gtfs/seisankanko/seisankanko_GTFS.zip,seisankanko_GTFS
 f3700201,高松琴平電鉄（ことでん）,https://www.kotoden.co.jp/publichtm/gtfs/gtfsdata/latest/gtfs_kd.zip,gtfs_kd
 f3700303,ことでんバス　一般路線・リムジンバス,https://www.kotoden.co.jp/publichtm/gtfs/gtfsdata/latest/gtfs_kb.zip,gtfs_kb
+f3800801,伊予市コミュニティバス「あいくる」,https://www.city.iyo.lg.jp/keizaikoyou/matidukuri/documents/gtfs.zip,iyoshi_gtfs
 f3900101,宿毛市　はなちゃんバス,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Sukumo-Hanachan.zip,GTFSJP-Sukumo-Hanachan
 f3900102,宿毛市　沖の島循環バス（ゆるりんバス）,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Sukumo-Yururin-Bus.zip,GTFSJP-Sukumo-Yururin-Bus
 f3900103,宿毛市　沖の島航路（市営定期船「すくも」）,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Sukumo-Ferry.zip,GTFSJP-Sukumo-Ferry
