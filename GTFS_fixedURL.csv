@@ -4,4 +4,106 @@ f0100201,北海道拓殖バス　一般路線、コミュニティバス（音�
 f0100202,北海道拓殖バス 都市間高速バス・帯広空港連絡バス,https://www.takubus.com/app/download/11008674479/GTFS_highway_line.zip,GTFS_highway_line
 f0100203,(HODaP) 北海道拓殖バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/3870b272-dabb-4527-9d51-67afc2c9a2d5/download/takushoku_bus.zip,takushoku_bus
 f0100302,(HODaP) 十勝バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/9ad9de7f-73a9-4695-858f-c09cdf13437a/download/tokachi_bus.zip,tokachi_bus.zip
+f0100401,網走バス　観光施設めぐり,https://www.abashiribus.com/open_data/AbashiriBusShisetsuMeguri_current_data.zip,AbashiriBusShisetsuMeguri
+f0100402,網走バス　郊外線・市内線,https://www.abashiribus.com/open_data/abashiribus_current_data.zip,abashiribus
 f0100403,［HODaP］ 網走バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/c84abf64-f7ba-4d22-8cc1-acac7adbdc6f/download/abashiri_bus.zip,abashiri_bus
+f0100404,網走バス　女満別空港線,https://www.abashiribus.com/open_data/Memanbetsu_Airport_Line_current_data.zip,Memanbetsu_Airport_Line
+f0100501,網走観光交通バス,http://www.abashiri-kk.com/wp/wp-content/uploads/2019/11/abashirikankokotu.zip,abashirikankokotu
+f0100601,北海道北見バス　一般路線,https://drive.google.com/uc?export=view&id=13MQ00Oq6pJgHpB2jz5nG1iay0fEyXpAj,GTFS-JP_kitamibus
+f0100602,北海道北見バス　女満別空港線,https://drive.google.com/uc?export=view&id=1Pekt6M8SaXCS4iX8Q8u-Q6pRBbKyeqqU,GTFS-JP_kitamibus_m
+f0100603,(HODaP) 北海道北見バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/ae0e85ab-b317-4acd-b982-2ceda019309f/download/kitami_bus.zip,kitami_bus
+f0100701,阿寒バス　一般路線,http://www.akanbus.co.jp/gtfs/GTFS-JP-akanbus.zip,GTFS-JP-akanbus
+f0100702,(HODaP) 阿寒バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/e3bb6e27-d2bb-4925-a42c-adb5f49bb924/download/akan_bus.zip,akan_bus
+f0100901,［HODaP］ 旭川電気軌道,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/41ea2ac6-c6e4-47b2-9c1c-b482feaee17c/download/asahikawa_denki.zip,asahikawa_denki
+f0101001,［HODaP］ あつまバス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/40e699d6-03c7-4191-b328-5e9c13841ab2/download/atsuma_bus.zip,atsuma_bus
+f0101101,［HODaP］ 札幌ばんけい,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/889906b8-eb1a-41c3-a7b3-75cd69aa891f/download/bankei_bus.zip,bankei_bus
+f0101201,［HODaP］ 沿岸バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/0dd30c37-4d45-4a23-8f86-12b74f6e65e1/download/engan_bus.zip,engan_bus
+f0101301,(HODaP) 恵庭市コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/5f05a49e-1bf0-4de3-918e-de6a1c6255b8/download/gtfs_eniwashi_com.zip,gtfs_eniwashi_com
+f0101401,［HODaP］ ふらのバス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/3623aa5b-7d0b-4621-a3c8-b09e55863d27/download/furano_bus.zip,furano_bus
+f0101501,［HODaP］ 羽幌町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/635cdd26-246c-4bd7-a095-6705c1eebb91/download/haborocho_com.zip,haborocho_com
+f0101601,［HODaP］ 北海道中央バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/dbadfccc-670e-49b9-be77-c3f346ee3160/download/hokkaido_chuo.zip,hokkaido_chuo
+f0101701,［HODaP］ じょうてつ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/fef98fef-6fe2-472f-bde3-9d4f0a509a4a/download/joutetsu.zip,joutetsu
+f0101801,［HODaP］ くしろバス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/dd2557d2-39f9-4e03-8703-117c64eaabe2/download/kushiro_bus.zip,kushiro_bus
+f0101901,［HODaP］ 名士バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/4bddd9a6-5edf-4887-82aa-b61cb93afc9e/download/meishi_bus.zip,meishi_bus
+f0102001,［HODaP］ 芽室町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/2a15bf71-a472-4e7b-9722-1e304ba8e400/download/memurocho_com.zip,memurocho_com
+f0102101,［HODaP］ 奈井江町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/af325038-7d05-485d-9b71-85c19a3d96e7/download/naiecho_com.zip,naiecho_com
+f0102201,［HODaP］ 中標津町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/75e1e2db-ab48-4dfb-9514-1ebbc898791a/download/nakashibetsucho_com.zip,nakashibetsucho_com
+f0102301,［HODaP］ 名寄市コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/4abe45b3-7390-4d7d-8bf1-e8c7230ab962/download/nayoroshi_com.zip,nayoroshi_com
+f0102401,［HODaP］ 根室交通,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/8b9cb94b-beb4-4b57-9096-5140ef6f2333/download/nemuro_kotu.zip,nemuro_kotu
+f0102501,［HODaP］ 斜里町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/e59d88f1-2236-41bb-ba8c-75fd4754af1a/download/sharicho_com.zip,sharicho_com
+f0102601,［HODaP］ 士幌町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/3c8f82fe-c997-45c8-9307-c904b206a450/download/shihorocho_com.zip,shihorocho_com
+f0102701,［HODaP］ 空知中央バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/671debb1-44c5-4dea-99eb-be693911c50c/download/sorachi_chuo_bus.zip,sorachi_chuo_bus
+f0102801,［HODaP］ 斜里バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/d93cb12c-390f-4215-891d-c250db8f26d0/download/syari_bus.zip,syari_bus
+f0102901,［HODaP］ 当別町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/a3603010-da90-4228-8095-a42a31adf855/download/tobetsucho_com.zip,tobetsucho_com
+f0103001,［HODaP］ 夕鉄バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/594c9dd3-d356-4445-98e2-c480d49c9d65/download/yutetsu_bus.zip,yutetsu_bus
+f0103101,［HODaP］ 深川市コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/2d439886-69ec-4bf9-9a12-9ee4014e3f3c/download/fukagawashi_com.zip,fukagawashi_com
+f0103201,［HODaP］ 三笠市コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/b529697a-82c2-4f78-b6b1-19fce6c9c3dc/download/mikasashi_com.zip,mikasashi_com
+f0103301,(HODaP) ハートランドフェリー,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/677e45d0-45d1-4eaf-a679-319cdbfaa89e/download/heart-land-ferry.zip,heart-land-ferry
+f0103401,(HODaP) 羽幌沿海フェリー,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/b1535cdf-9798-4990-afe2-5c5c5bcdfdfa/download/haboro-enkai-ferry.zip,haboro-enkai-ferry
+f0103501,［HODaP］ 道北バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/a89a7707-f346-45e7-8f98-0da0f3332531/download/douhoku_bus.zip,douhoku_bus
+f0103601,［HODaP］ 北紋バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/226fe0ae-79af-4971-b15f-332770cdc9c1/download/hokumon_bus.zip,hokumon_bus.zip
+f0103701,［HODaP］ 宗谷バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/04e3efd7-29fd-4295-ab8d-d27933f94bbc/download/soya_bus.zip,soya_bus
+f0103801,［HODaP］ 北見市コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/d4ecb0d3-4b28-4fff-897f-f56979e9b5c9/download/kitamishi_com.zip,kitamishi_com
+f0103901,［HODaP］ 蘭越町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/595f0db5-9e55-43a5-8b85-74c3edcd7da7/download/rankoshicho_com.zip,rankoshicho_com
+f0104001,［HODaP］ 岩内町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/a3be17ab-40ab-4b7d-9051-03562baf2ed4/download/iwanaicho_com.zip,iwanaicho_com
+f0104101,［HODaP］ 白老町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/120a024f-c2b5-4183-aa90-802398e010fd/download/shiraoicho_com.zip,shiraoicho_com
+f0104201,［HODaP］ 白糠町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/f4f6deb3-e9ad-469e-aa39-38279bdbfeb0/download/shiranukacho_com.zip,shiranukacho_com
+f0104301,［HODaP］ 豊浦町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/c9fe757b-0756-424b-a8da-e3438798dd55/download/toyouracho_com.zip,toyouracho_com
+f0104401,［HODaP］ 長沼町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/16e0d070-789e-41ae-bc2a-0d0f7f63c80f/download/naganumacho_com.zip,naganumacho_com
+f0104501,［HODaP］ 興部町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/9f741a86-60e2-42b2-89d8-384be8bf50ba/download/okoppecho_com.zip,okoppecho_com
+f0104601,［HODaP］ 大樹町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/aa50ca49-dc3b-4c34-89ca-79749aeaaa21/download/taikicho_com.zip,taikicho_com
+f0104701,［HODaP］ 上川町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/59c9f350-2419-46ce-9bab-4e86e21f396b/download/hokkaido_kamikawacho_com.zip,hokkaido_kamikawacho_com
+f0104801,［HODaP］ 幕別町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/95c715ca-21de-4206-a345-b781e0952dd0/download/makubetsucho_com.zip,makubetsucho_com
+f0104901,［HODaP］ 音更町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/2d430e06-7e0b-4ef7-86f3-64ccb709d270/download/otofukecho_com.zip,otofukecho_com
+f0105001,［HODaP］ ひがし北海道エクスプレスバス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/4215a2dd-3491-4005-bf66-10fda633d1af/download/easthokkaido_expressbus.zip,easthokkaido_expressbus
+f0105101,［HODaP］ 高速バス（北海道内）,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/ccfd2358-c804-4cfe-b4fe-278c3f035c64/download/hokkaido-express_bus.zip,hokkaido-express_bus
+f0105301,［HODaP］ ニセコバス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/c46f9cd8-4c92-42eb-89a5-26e3fabb1dce/download/niseko_bus.zip,niseko_bus
+f0105401,［HODaP］ おびうん観光,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/edc6b615-7308-4bd0-bfe4-6b3a510f9fc0/download/obiun-kanko.zip,obiun-kanko
+f0105801,［HODaP］ 空知交通,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/9a28fbf9-69fe-4a5c-8d26-b12fc2440074/download/sorachi_kotsu.zip,sorachi_kotsu
+f0105901,［HODaP］ 倶知安町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/bd408ce3-8910-48bc-bf4c-1135cac7070a/download/kutchancho_com.zip,kutchancho_com
+f0106001,［HODaP］ 安平町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/7f011237-1284-4063-8c55-ba4945031793/download/abiracho_com.zip,abiracho_com
+f0106101,［HODaP］ 遠軽町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/cc6d76a4-3576-480e-a073-ef1bfa62eafa/download/engarucho_com.zip,engarucho_com
+f0106301,［HODaP］ 北海道バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/19e47509-3dac-4607-a595-61447226fa3b/download/hokkaido_bus.zip,hokkaido_bus
+f0106401,［HODaP］ 下川町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/fc98f52c-5dd9-4c55-b089-288eeba92044/download/shimokawacho_com.zip,shimokawacho_com
+f0106501,［HODaP］ 別海町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/469a1a00-020d-49f7-b5c1-e52dc9a6961e/download/betsukaicho_com.zip,betsukaicho_com
+f0106601,［HODaP］ 喜茂別町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/7727a55e-856d-4a49-aaa4-4ae4a605ba47/download/kimobetsucho_com.zip,kimobetsucho_com
+f0106701,［HODaP］ 月形町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/d5e7795d-6c36-4468-ac2c-245e7f3378e1/download/tsukigatacho_com.zip,tsukigatacho_com
+f0106801,［HODaP］ 佐呂間町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/be66e348-db27-423f-8668-8b90b828c871/download/saromacho_com.zip,saromacho_com.zip
+f0106901,(HODaP) 青函フェリー,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/16a31295-1709-4e5e-abcf-fa17ae7853b7/download/seikan_ferry.zip,seikan_ferry
+f0200101,青森市営バス,https://www.city.aomori.aomori.jp/kotsu-kanri/koutsu/oshirase/documents/gtfs-aomoricitybus.zip,gtfs-aomoricitybus
+f0200102,青森市市バス,https://www.city.aomori.aomori.jp/toshi-seisaku/opendata/documents/shibus_current.zip,shibus_current
+f0200103,あおもりシャトルdeルートバス（ねぶたん号）,https://www.city.aomori.aomori.jp/toshi-seisaku/opendata/documents/nebutango_current.zip,nebutango_current
+f0200104,浪岡地区コミュニティバス,https://www.city.aomori.aomori.jp/n-somu/documents/namioka_current.zip,namioka_current
+f0200201,外ヶ浜町営バス,http://www.town.sotogahama.lg.jp/gyosei/jouhou/files/sotogahama_bus_gtfs.zip,sotogahama_bus_gtfs
+f0401201,仙台市営バス,http://www.city.sendai.jp/joho-kikaku/shise/security/kokai/documents/gtfs-jp_sendaicitybus_current_data.zip,gtfs-jp_sendaicitybus_current_data
+f0600102,酒田市　るんるんバス（県サイト）,https://www.pref.yamagata.jp/documents/20978/sakata_gtfs.zip,sakata_gtfs
+f0600202,大江町営バス,https://www.pref.yamagata.jp/documents/20978/oe_gtfs.zip,oe_gtfs
+f0600302,鶴岡市　羽黒地域市営バス、朝日地域市営バス,https://www.pref.yamagata.jp/documents/20978/tsuruoka_gtfs.zip,tsuruoka_gtfs
+f0600402,山形市　ベニちゃんバス、コミュニティバス高瀬線、地域交流バス南部線,https://www.pref.yamagata.jp/documents/20978/yamagata_gtfs.zip,yamagata_gtfs
+f0600502,東根市　市民バス,https://www.pref.yamagata.jp/documents/20978/higashine_gtfs.zip,higashine_gtfs
+f0600602,河北町路線バス,https://www.pref.yamagata.jp/documents/20978/kahoku_gtfs.zip,kahoku_gtfs
+f0600702,南陽市　市内循環バス,https://www.pref.yamagata.jp/documents/20978/nanyo_gtfs.zip,nanyo_gtfs
+f0600802,大蔵町　肘折ゆけむりライン,https://www.pref.yamagata.jp/documents/20978/ohkura_gtfs.zip,ohkura_gtfs
+f0600902,鮭川村村営バス,https://www.pref.yamagata.jp/documents/20978/sakegawa_gtfs.zip,sakegawa_gtfs
+f0601002,金山町町営バス,https://www.pref.yamagata.jp/documents/20978/kaneyama_gtfs.zip,kaneyama_gtfs
+f0601102,山辺町　やまのべコミュニティバス,https://www.pref.yamagata.jp/documents/20978/yamanobe_gtfs.zip,yamanobe_gtfs
+f0601202,上山市営バス,https://www.pref.yamagata.jp/documents/20978/kaminoyama_gtfs.zip,kaminoyama_gtfs
+f0601302,真室川町路線バス,https://www.pref.yamagata.jp/documents/20978/mamurogawa_gtfs.zip,mamurogawa_gtfs
+f0601402,村山市　市営バス,https://www.pref.yamagata.jp/documents/20978/murayama_gtfs.zip,murayama_gtfs
+f0601502,長井市営バス,https://www.pref.yamagata.jp/documents/20978/nagai_gtfs.zip,nagai_gtfs
+f0601602,新庄市　市営バス,https://www.pref.yamagata.jp/documents/20978/shinjo_gtfs.zip,shinjo_gtfs
+f0601702,庄内町　町営バス,https://www.pref.yamagata.jp/documents/20978/shonai_gtfs.zip,shonai_gtfs
+f0601801,寒河江市内循環バス「スマイル号」,https://www.pref.yamagata.jp/documents/20978/sagae_gtfs.zip,sagae_gtfs
+f0601901,天童市　市営バス,https://www.pref.yamagata.jp/documents/20978/tendo_gtfs.zip,tendo_gtfs
+f0602001,尾花沢市路線バス,https://www.pref.yamagata.jp/documents/20978/obanazawa_gtfs.zip,obanazawa_gtfs
+f0602101,中山町　町営バス,https://www.pref.yamagata.jp/documents/20978/nakayama_gtfs.zip,nakayama_gtfs
+f0602201,小国町営バス,https://www.pref.yamagata.jp/documents/20978/oguni_gtfs.zip,oguni_gtfs
+f0602301,白鷹町　町営バス,https://www.pref.yamagata.jp/documents/20978/shirataka_gtfs.zip,shirataka_gtfs
+f0602501,戸沢村　村営バス,https://www.pref.yamagata.jp/documents/20978/tozawa_gtfs.zip,tozawa_gtfs
+f0602601,山形鉄道,https://www.pref.yamagata.jp/documents/20978/flower-liner_gtfs.zip,flower-liner_gtfs
+f0602701,最上川交通,https://www.pref.yamagata.jp/documents/20978/mogamigawakotsu_gtfs.zip,mogamigawakotsu_gtfs
+f0602801,山交バス,https://www.pref.yamagata.jp/documents/20978/yamakobus_gtfs.zip,yamakobus_gtfs
+f0602901,庄内交通,https://www.pref.yamagata.jp/documents/20978/shonaikotsu_gtfs.zip,shonaikotsu_gtfs
+f0603001,朝日町路線バス,https://www.pref.yamagata.jp/documents/20978/asahi_gtfs.zip,asahi_gtfs
+f0603101,米沢市　市民バス,https://www.pref.yamagata.jp/documents/20978/yonezawa_gtfs.zip,yonezawa_gtfs
+f0603201,西川町路線バス,https://www.pref.yamagata.jp/documents/20978/nishikawa_gtfs.zip,nishikawa_gtfs
