@@ -36,9 +36,9 @@ jobs:
         run: |
           python gtfs-checkurl-zip.py
       - name: git settings
-        run: |
-          git config --global user.email ${{ secrets.SECRET_MAIL }}
-          git config --global user.name ${{ secrets.SECRET_NAME }}
+        #run: |
+        #  git config --global user.email ${{ secrets.SECRET_MAIL }}
+        #  git config --global user.name ${{ secrets.SECRET_NAME }}
       - name: CSV commit
         run: |
           git add .
