@@ -8,7 +8,7 @@ def checkURL(url):
     with urllib.request.urlopen(url) as res:
       #print ("OK: " + url )
       fdate = res.info()['Last-Modified']
-      #timestamp = datetime.datetime.strptime(fdate, "%a, %d %b %Y %H:%M:%S GMT")
+      timestamp = datetime.datetime.strptime(fdate, "%a, %d %b %Y %H:%M:%S GMT")
       print(url, fdate, timestamp)
       return timestamp
   except urllib.error.HTTPError as err:
@@ -27,14 +27,14 @@ if __name__ == '__main__':
     
     with open('GTFS_fixedURL_LastModified.csv', 'w', newline='', encoding='utf-8') as wf:
       writer = csv.writer(wf)
-      writer.writerow(['label', 'url', 'Last-Modified-GMT'])
+      writer.writerow(['label', 'Last-Modified-GMT', 'url'])
       for row in line:
         url = row['fixed_current_url']
-        res = checkURL(url)
-        #print(res)
+        stmp = checkURL(url)
+        print(stmp)
         #if res is not None:
         label = row['label']
-        writer.writerow([label, url, res])
+        writer.writerow([label, stmp, url])
   
   print("Finished.")
 
