@@ -35,7 +35,7 @@ jobs:
       - name: Run script
         run: |
           python gtfs-checkurl-zip.py
-      - name: git settings
+      #- name: git settings
         #run: |
         #  git config --global user.email ${{ secrets.SECRET_MAIL }}
         #  git config --global user.name ${{ secrets.SECRET_NAME }}
