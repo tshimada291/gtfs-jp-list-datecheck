@@ -35,11 +35,12 @@ jobs:
       - name: Run script
         run: |
           python gtfs-checkurl-zip.py
-
-      - name: CSV commit
+      - name: git settings
         run: |
           git config user.email ${{ secrets.SECRET_MAIL }}
           git config user.name ${{ secrets.SECRET_NAME }}
+      - name: CSV commit
+        run: |
           git add .
           git commit -m "Update csv file"
           git push origin main
