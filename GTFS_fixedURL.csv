@@ -235,7 +235,7 @@ f2301801,豊山町　とよやまタウンバス,https://www.rosenzu.com/~gtfs/t
 f2302001,刈谷市公共施設連絡バス かりまる,https://www.rosenzu.com/~gtfs/kariya/kariya_GTFS.zip,kariya_GTFS
 f2302101,豊明市　ひまわりバス,https://www.city.toyoake.lg.jp/secure/5217/toyoake.zip,toyoake
 f2304401,東海市　らんらんバス(循環バス),http://www.city.tokai.aichi.jp/secure/47255/gtfs.zip,gtfs_tokaicity
-f2304501,大府市　ふれあいバス,obu-gtfs-current-data.zip,obu-gtfs-current-data
+f2304501,大府市　ふれあいバス,https://www.city.obu.aichi.jp/_res/projects/default_project/_page_/001/017/133/obu-gtfs-current-data.zip,obu-gtfs-current-data
 f2400101,津ベルライン（津エアポートライン）,https://www.rosenzu.com/~gtfs/tsuairportline/tsuairportline_GTFS.zip,tsuairportline_GTFS
 f2400201,桑名市　K-バス,https://www.rosenzu.com/~gtfs/kuwana/kuwana_GTFS.zip,kuwana_GTFS
 f2400301,伊勢市コミュニティバス（おかげバス、沼木バス）,https://www.rosenzu.com/~gtfs/ise/ise_GTFS.zip,ise_GTFS
