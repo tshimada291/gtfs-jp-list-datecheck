@@ -9,13 +9,13 @@ def checkURL(url):
       #print ("OK: " + url )
       fdate = res.info()['Last-Modified']
       timestamp = datetime.datetime.strptime(fdate, "%a, %d %b %Y %H:%M:%S GMT")
-      print(url, fdate, timestamp)
+      #print(url, fdate, timestamp)
       return timestamp
   except urllib.error.HTTPError as err:
-    print("HTTPError: ", err.code)
+    #print("HTTPError: ", err.code)
     return None
   except urllib.error.URLError as err:
-    print("URLError: ",err.reason)
+    #print("URLError: ",err.reason)
     return None
   except:
     return None
@@ -31,7 +31,7 @@ if __name__ == '__main__':
       for row in line:
         url = row['fixed_current_url']
         res = checkURL(url)
-        print(res)
+        #print(res)
         #if res is not None:
         label = row['label']
         writer.writerow([label, url, res])
