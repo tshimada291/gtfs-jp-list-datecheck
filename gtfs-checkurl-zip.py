@@ -8,7 +8,7 @@ def checkURL(url):
     with urllib.request.urlopen(url) as res:
       #print ("OK: " + url )
       fdate = res.info()['Last-Modified']
-      timestamp = datetime.datetime.strptime(fdate, "%a, %d %b %Y %H:%M:%S GMT")
+      #timestamp = datetime.datetime.strptime(fdate, "%a, %d %b %Y %H:%M:%S GMT")
       print(url, fdate, timestamp)
       return timestamp
   except urllib.error.HTTPError as err:
