@@ -38,8 +38,8 @@ jobs:
 
       - name: CSV commit
         run: |
-          git config --global user.email ${{ secrets.EMAIL }}
-          git config --global user.name ${{ secrets.NAME }}
+          git config --global user.email ${{ secrets.GITHUB_MAIL }}
+          git config --global user.name ${{ secrets.GITHUB_NAME }}
           git add .
           git commit -m "Update csv file"
           git push origin main
