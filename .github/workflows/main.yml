@@ -7,8 +7,8 @@ on:
   #schedule:
   #  - cron: '0 24 * * *'
   # Triggers the workflow on push or pull request events but only for the main branch
-  push:
-    branches: [ main ]
+  #push:
+  #  branches: [ main ]
   #pull_request:
   #  branches: [ main ]
   
