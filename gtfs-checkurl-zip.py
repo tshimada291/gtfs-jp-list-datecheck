@@ -2,6 +2,7 @@
 import urllib.request, urllib.error
 import csv
 import datetime
+import time
 
 def checkURL(url):
   try:
@@ -35,6 +36,7 @@ if __name__ == '__main__':
         #if res is not None:
         label = row['label']
         writer.writerow([label, stmp, url])
+        time.sleep(1)
   
   print("Finished.")
 
