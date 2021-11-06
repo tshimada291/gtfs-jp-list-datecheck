@@ -111,25 +111,25 @@ label,Last-Modified-GMT,url
 日本中央バス（奥多野線）,2021-08-31 15:00:13,https://ncb.jp/route/GTFS/GTFS(OT).zip
 日本中央バス（前橋近郊路線、空港バス、高速バス）,2021-10-09 05:38:00,https://ncb.jp/route/GTFS/GTFS(MB).zip
 上信電鉄（バス）,2021-09-14 07:02:33,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1013.joshin_bus.zip
-関越交通,,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1001.kanetsu_kotu.zip
-群馬バス,,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1007.gunma_bus.zip
+関越交通,2021-10-27 04:20:27,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1001.kanetsu_kotu.zip
+群馬バス,2021-08-18 06:48:24,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1007.gunma_bus.zip
 矢島タクシー,2020-09-29 08:08:00,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1017.yajima_taxi.zip
-草軽交通,,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.2002.kusakaru.zip
+草軽交通,2021-11-04 00:22:31,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.2002.kusakaru.zip
 国際十王交通（伊勢崎営業所）,2021-09-01 00:49:20,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1103.kokusai_juuou.GMA.zip
 JRバス関東（長野原支店）,2021-10-14 07:40:46,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1302.jr_bus_kanto.GMA.zip
 西武観光バス（軽井沢営業所）,2021-11-04 02:20:15,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1115.seibu_kanko.GMA.zip
 朝日バス（本庄営業所・太田営業所）,2021-02-03 04:52:22,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1106.asahi_bus.GMA.zip
 前橋市内コミュニティバス（マイバス、その他）,2021-08-18 08:14:19,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1019.maebashishi_com.zip
-高崎市内循環バス「ぐるりん」・はるバス・よしいバス,,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1020.takasakishi_com.zip
-桐生市　おりひめバス,,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1025.kiryushi_com.zip
+高崎市内循環バス「ぐるりん」・はるバス・よしいバス,2021-08-05 08:54:25,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1020.takasakishi_com.zip
+桐生市　おりひめバス,2021-03-31 01:11:28,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1025.kiryushi_com.zip
 太田市　シティライナーおおた・市営無料バス,2021-03-30 02:15:32,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1027.otashi_com.zip
 沼田市路線バス,2021-05-19 02:12:50,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1021.numatashi_com.zip
 館林市内路線バス,2021-04-01 00:19:32,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1024.tatebayashishi_com.zip
 渋川市内バス（市内路線・伊香保タウンバス）,2021-08-18 07:42:35,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1018.shibukawashi_com.zip
 藤岡市　めぐるん,2021-10-13 05:13:44,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1028.fujiokashi_com.zip
 みどり市　東町路線バス,2020-09-24 08:03:02,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1031.midorishi_com.zip
-上野村乗合タクシー,,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1034.uenomura_com.zip
-中之条町　六合地区路線バス,,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1038.nakanojomachi_com.zip
+上野村乗合タクシー,2020-09-24 08:09:02,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1034.uenomura_com.zip
+中之条町　六合地区路線バス,2020-09-24 08:25:03,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1038.nakanojomachi_com.zip
 高山村　たかやまバス,2019-10-10 02:36:50,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1040.gunma_takayamamura_com.zip
 東吾妻町乗合バス,2021-01-13 01:36:25,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1041.higashiagatsumamachi_com.zip
 川場村循環バス,2021-04-01 00:35:28,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1042.kawabamura_com.zip
@@ -139,7 +139,7 @@ JRバス関東（長野原支店）,2021-10-14 07:40:46,https://gma.jcld.jp/GMA_
 邑楽町　広域公共バス,2021-08-05 08:56:15,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1049.oramachi_com.zip
 下仁田町　しもにたバス,2020-09-24 08:12:04,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1036.shimonitamachi_com.zip
 安中市乗合バス,2021-06-09 06:33:59,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1030.annakashi_com.zip
-富岡市乗合タクシー,,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1029.tomiokashi_com.zip
+富岡市乗合タクシー,2020-12-24 08:38:10,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1029.tomiokashi_com.zip
 伊勢崎市　いせさきしコミュニティバス「あおぞら」,2021-02-10 02:24:26,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1026.isesakishi_com.zip
 南牧村　南牧バス,2021-11-04 02:08:19,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1037.nanmokumura_com.zip
 空港バス【群馬】,2021-10-28 02:33:45,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.0003.lim.GMA.zip
@@ -235,7 +235,7 @@ JRバス関東（長野原支店）,2021-10-14 07:40:46,https://gma.jcld.jp/GMA_
 刈谷市公共施設連絡バス かりまる,2021-07-31 15:04:34,https://www.rosenzu.com/~gtfs/kariya/kariya_GTFS.zip
 豊明市　ひまわりバス,2021-06-07 05:33:59,https://www.city.toyoake.lg.jp/secure/5217/toyoake.zip
 東海市　らんらんバス(循環バス),2021-07-05 06:12:10,http://www.city.tokai.aichi.jp/secure/47255/gtfs.zip
-大府市　ふれあいバス,,https://www.city.obu.aichi.jp/_res/projects/default_project/_page_/001/017/133/obu-gtfs-current-data.zip
+大府市　ふれあいバス,2021-10-27 03:05:34,https://www.city.obu.aichi.jp/_res/projects/default_project/_page_/001/017/133/obu-gtfs-current-data.zip
 津ベルライン（津エアポートライン）,2021-10-31 15:05:02,https://www.rosenzu.com/~gtfs/tsuairportline/tsuairportline_GTFS.zip
 桑名市　K-バス,2021-08-10 15:59:09,https://www.rosenzu.com/~gtfs/kuwana/kuwana_GTFS.zip
 伊勢市コミュニティバス（おかげバス、沼木バス）,2021-05-31 18:17:03,https://www.rosenzu.com/~gtfs/ise/ise_GTFS.zip
@@ -325,7 +325,7 @@ JR四国バス（高知支店）　大栃線,,https://www.pref.kochi.lg.jp/opend
 芸西村　おでかけバス,,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Geisei-Village.zip
 糸島市営渡船ひめしま,2021-08-26 05:14:52,https://data.bodik.jp/dataset/2a380e2b-f584-425b-9385-24926b328296/resource/53252038-b26e-49c1-9de1-1fec6811e01a/download/402303tosengtfs.zip
 嘉麻市バス,2021-10-05 02:59:54,https://data.bodik.jp/dataset/7f08da86-1670-4ab3-9dfe-72d9c739f680/resource/4431bc03-7466-44e7-a337-3d93cb8fa7ab/download/current_data.zip
-北九州市　おでかけ交通・八幡東区田代・河内地区,2020-03-10 00:13:20,https://ckan.open-governmentdata.org/dataset/42e62bc8-cfe8-4f66-9e89-decffff56f23/resource/41dfa7d1-cb07-47b4-b509-5fcbe5c79765/download/401005_odekakekotsugtfs_tashirokawachi.zip
+北九州市　おでかけ交通・八幡東区田代・河内地区,,https://ckan.open-governmentdata.org/dataset/42e62bc8-cfe8-4f66-9e89-decffff56f23/resource/41dfa7d1-cb07-47b4-b509-5fcbe5c79765/download/401005_odekakekotsugtfs_tashirokawachi.zip
 北九州市　おでかけ交通・八幡東区枝光地区,2020-01-23 06:51:15,https://ckan.open-governmentdata.org/dataset/468dc771-10a2-4bab-aad2-191b0fdaffa0/resource/bdbf46fd-870b-4064-9e7f-7bcedf97b526/download/401005_odekakekotsugtfs_edamitsu.zip
 北九州市　おでかけ交通・門司区恒見・喜多久地区,2019-11-06 07:06:54,https://ckan.open-governmentdata.org/dataset/6d387baa-dcfd-431d-a229-13b8670e07bf/resource/eaa79093-a1f8-4dbe-9bfd-ca7183419c72/download/401005_odekakekotsugtfs_tsunemikitaku.zip
 北九州市　おでかけ交通・小倉南区平尾台地区,2019-11-06 06:47:47,https://ckan.open-governmentdata.org/dataset/6d3d2393-ed7b-46eb-9340-dfb45ffc279d/resource/7ea49d9e-be72-4e86-849e-d160ae45bd3c/download/401005_odekakekotsugtfs_hiraodai.zip
@@ -333,7 +333,7 @@ JR四国バス（高知支店）　大栃線,,https://www.pref.kochi.lg.jp/opend
 北九州市　おでかけ交通・小倉南区合馬・道原地区,2019-11-06 06:44:57,https://ckan.open-governmentdata.org/dataset/ccbc3e6b-d85f-4541-8d6f-2c40d065f836/resource/8d32347f-00a4-497c-b88e-51f413b4b49e/download/401005_odekakekotsugtfs_omadobaru.zip
 北九州市　おでかけ交通・八幡西区木屋瀬・楠橋・星ヶ丘地区,2019-12-23 01:26:12,https://ckan.open-governmentdata.org/dataset/e3689c3c-d7e4-40a8-9d21-89aa95311bb8/resource/6185c93d-76cd-4287-a306-428216f7a285/download/401005_odekakekotsugtfs_koyanosekusubashihoshigaoka.zip
 宮若市・飯塚市共同運行コミュニティバス,2021-04-20 00:35:57,https://data.bodik.jp/dataset/341b6046-0030-4a78-a54d-87b1a1335563/resource/5627c6c0-533f-4d4a-926d-a60ec5c9d139/download/27miyawakaiizuka_gtfs-jp.zip
-佐賀県内バス路線,2021-11-04 18:04:51,http://opendata.sagabus.info/saga-current.zip
+佐賀県内バス路線,2021-11-05 18:04:42,http://opendata.sagabus.info/saga-current.zip
 九州産交バス・産交バス,,http://km.bus-vision.jp/gtfs/sankobus/gtfsFeed
 熊本電鉄バス,,http://km.bus-vision.jp/gtfs/dentetsu/gtfsFeed
 熊本バス,,http://km.bus-vision.jp/gtfs/kumabus/gtfsFeed
@@ -347,8 +347,8 @@ JR四国バス（高知支店）　大栃線,,https://www.pref.kochi.lg.jp/opend
 中津市コミュニティバス　耶馬溪地域　川原口線,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/Y010_Kawaraguchi.zip
 中津市コミュニティバス　耶馬溪地域　樋山路鎌城線（樋山路行）,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/Y031_Hiyamaji_Kamagi_for_Hiyamaji.zip
 中津市コミュニティバス　耶馬溪地域　樋山路鎌城線（鎌城行）,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/Y032_Hiyamaji_Kamagi_for_Kamagi.zip
-中津市コミュニティバス　耶馬溪地域　深耶馬東線,,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/YSW1_Shinyabahigashi.zip
-中津市コミュニティバス　耶馬溪地域　深耶馬西線,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/Y080_Shin-Yaba_West.zip
+中津市コミュニティバス　耶馬溪地域　深耶馬東線,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/YSW1_Shinyabahigashi.zip
+中津市コミュニティバス　耶馬溪地域　深耶馬西線,,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/Y080_Shin-Yaba_West.zip
 中津市コミュニティバス　耶馬溪地域　上ノ川内柾木線（柾木行）,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/Y021_Kaminogouchi_Masaki_for_Masaki.zip
 中津市コミュニティバス　耶馬溪地域　上ノ川内柾木線（上ノ川内行）,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/Y022_Kaminogouchi_Masaki_for_Kaminogouchi.zip
 中津市コミュニティバス　耶馬溪地域　大島台金吉線（金吉行）,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/Y051_Ohshimadai_Kanayoshi_for_Kanayoshi.zip
