@@ -109,7 +109,7 @@ label,Last-Modified-GMT,url
 永井バス（永井運輸）（補助路線）,2021-09-26 05:25:00,https://www.nagai-unyu.net/rosen/GTFS/aux/GTFS-JP_nbaux-gunma-jp.zip
 玉村町乗合タクシー　たまりん,2021-03-31 13:41:00,https://www.nagai-unyu.net/rosen/GTFS/tamarin/GTFS-JP_tamarin-gunma-jp.zip
 日本中央バス（奥多野線）,2021-08-31 15:00:13,https://ncb.jp/route/GTFS/GTFS(OT).zip
-日本中央バス（前橋近郊路線、空港バス、高速バス）,2021-10-09 05:38:00,https://ncb.jp/route/GTFS/GTFS(MB).zip
+日本中央バス（前橋近郊路線、空港バス、高速バス）,2021-11-09 11:03:00,https://ncb.jp/route/GTFS/GTFS(MB).zip
 上信電鉄（バス）,2021-09-14 07:02:33,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1013.joshin_bus.zip
 関越交通,2021-10-27 04:20:27,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1001.kanetsu_kotu.zip
 群馬バス,2021-08-18 06:48:24,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1007.gunma_bus.zip
@@ -181,7 +181,7 @@ JRバス関東（長野原支店）,2021-10-14 07:40:46,https://gma.jcld.jp/GMA_
 珠洲市営バス　若山線,2021-09-02 06:16:20,https://www.city.suzu.lg.jp/data/open/cnt/3/2185/1/gtfs-WakayamaLine.zip
 珠洲市営バス　まちなかバス すずらん,2021-09-02 06:16:20,https://www.city.suzu.lg.jp/data/open/cnt/3/2185/1/gtfs-SuzuranLine.zip
 羽咋市　市内循環バス「るんるんバス」,2021-04-28 00:04:28,https://www.city.hakui.lg.jp/material/files/group/1/rosen_bus.zip
-金沢ふらっとバス,2021-10-26 07:04:01,https://www4.city.kanazawa.lg.jp/data/open/cnt/3/24011/1/flatbus.zip
+金沢ふらっとバス,2021-10-26 07:04:23,https://www4.city.kanazawa.lg.jp/data/open/cnt/3/24011/1/flatbus.zip
 鯖江市　つつじバス（市カタログサイト）,2021-04-20 08:17:54,https://www.city.sabae.fukui.jp/xml/gtfs/gtfs_sabae.zip
 鯖江市　つつじバス,2021-11-08 06:45:13,https://www.pref.fukui.lg.jp/doc/toukei-jouhou/opendata/gtfs_jp_d/fil/gtfs_sabae.zip
 福井市　海岸地域バス,2021-11-08 06:45:13,https://www.pref.fukui.lg.jp/doc/toukei-jouhou/opendata/gtfs_jp_d/fil/kaigan_bus.zip
@@ -333,7 +333,7 @@ JR四国バス（高知支店）　大栃線,,https://www.pref.kochi.lg.jp/opend
 北九州市　おでかけ交通・小倉南区合馬・道原地区,2019-11-06 06:44:57,https://ckan.open-governmentdata.org/dataset/ccbc3e6b-d85f-4541-8d6f-2c40d065f836/resource/8d32347f-00a4-497c-b88e-51f413b4b49e/download/401005_odekakekotsugtfs_omadobaru.zip
 北九州市　おでかけ交通・八幡西区木屋瀬・楠橋・星ヶ丘地区,2019-12-23 01:26:12,https://ckan.open-governmentdata.org/dataset/e3689c3c-d7e4-40a8-9d21-89aa95311bb8/resource/6185c93d-76cd-4287-a306-428216f7a285/download/401005_odekakekotsugtfs_koyanosekusubashihoshigaoka.zip
 宮若市・飯塚市共同運行コミュニティバス,2021-04-20 00:35:57,https://data.bodik.jp/dataset/341b6046-0030-4a78-a54d-87b1a1335563/resource/5627c6c0-533f-4d4a-926d-a60ec5c9d139/download/27miyawakaiizuka_gtfs-jp.zip
-佐賀県内バス路線,2021-11-08 18:04:50,http://opendata.sagabus.info/saga-current.zip
+佐賀県内バス路線,2021-11-09 18:04:58,http://opendata.sagabus.info/saga-current.zip
 九州産交バス・産交バス,,http://km.bus-vision.jp/gtfs/sankobus/gtfsFeed
 熊本電鉄バス,,http://km.bus-vision.jp/gtfs/dentetsu/gtfsFeed
 熊本バス,,http://km.bus-vision.jp/gtfs/kumabus/gtfsFeed
@@ -342,20 +342,20 @@ JR四国バス（高知支店）　大栃線,,https://www.pref.kochi.lg.jp/opend
 中津市コミュニティバス　中津地域　三保線,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/M1_Miho.zip
 中津市コミュニティバス　中津地域　豊前・中津線,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/B01_Buzen_Nakatsu.zip
 中津市コミュニティバス　本耶馬渓地域　屋形コース,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/HYYakata.zip
-中津市コミュニティバス　本耶馬渓地域　東谷コース,,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/HEHigashitani.zip
+中津市コミュニティバス　本耶馬渓地域　東谷コース,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/HEHigashitani.zip
 中津市コミュニティバス　本耶馬渓地域　西谷コース,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/HWNishitani.zip
 中津市コミュニティバス　耶馬溪地域　川原口線,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/Y010_Kawaraguchi.zip
 中津市コミュニティバス　耶馬溪地域　樋山路鎌城線（樋山路行）,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/Y031_Hiyamaji_Kamagi_for_Hiyamaji.zip
 中津市コミュニティバス　耶馬溪地域　樋山路鎌城線（鎌城行）,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/Y032_Hiyamaji_Kamagi_for_Kamagi.zip
-中津市コミュニティバス　耶馬溪地域　深耶馬東線,,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/YSW1_Shinyabahigashi.zip
+中津市コミュニティバス　耶馬溪地域　深耶馬東線,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/YSW1_Shinyabahigashi.zip
 中津市コミュニティバス　耶馬溪地域　深耶馬西線,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/Y080_Shin-Yaba_West.zip
 中津市コミュニティバス　耶馬溪地域　上ノ川内柾木線（柾木行）,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/Y021_Kaminogouchi_Masaki_for_Masaki.zip
-中津市コミュニティバス　耶馬溪地域　上ノ川内柾木線（上ノ川内行）,,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/Y022_Kaminogouchi_Masaki_for_Kaminogouchi.zip
+中津市コミュニティバス　耶馬溪地域　上ノ川内柾木線（上ノ川内行）,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/Y022_Kaminogouchi_Masaki_for_Kaminogouchi.zip
 中津市コミュニティバス　耶馬溪地域　大島台金吉線（金吉行）,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/Y051_Ohshimadai_Kanayoshi_for_Kanayoshi.zip
 中津市コミュニティバス　耶馬溪地域　大島台金吉線（大島台行）,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/Y052_Ohshimadai_Kanayoshi_for_Ohshimadai.zip
 中津市コミュニティバス　耶馬溪地域　大島伊福線,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/Y060_Ohshima_Ifuku.zip
 中津市コミュニティバス　耶馬溪地域　山移北線,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/Y090_Yamautsuri_North.zip
-中津市コミュニティバス　耶馬溪地域　山移南線,,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/Y100_Yamautsuri_South.zip
+中津市コミュニティバス　耶馬溪地域　山移南線,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/Y100_Yamautsuri_South.zip
 中津市コミュニティバス　耶馬溪地域　津民線,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/Y110_Tsutami.zip
 中津市コミュニティバス　耶馬溪地域　裏耶馬渓線（柿坂行）,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/Y121_Urayabakei_for_Kakisaka.zip
 中津市コミュニティバス　耶馬溪地域　裏耶馬渓線（樋山路行）,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/Y122_Urayabakei_for_Hiyamaji.zip
@@ -364,10 +364,10 @@ JR四国バス（高知支店）　大栃線,,https://www.pref.kochi.lg.jp/opend
 中津市コミュニティバス　山国地域　市平・奥谷線,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/YK03_Ichibira_Okudani.zip
 中津市コミュニティバス　山国地域　長尾野線,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/YK04_Nagaono.zip
 中津市コミュニティバス　山国地域　フケ原・大石峠線,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/YK05_Fukebaru_Ohishitohge.zip
-中津市コミュニティバス　山国地域　両宮線,,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/YK06_Moromiya.zip
+中津市コミュニティバス　山国地域　両宮線,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/YK06_Moromiya.zip
 中津市コミュニティバス　三光地域　西秣線（長谷寺行）,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/SNH01_Chokokuji.zip
 中津市コミュニティバス　三光地域　西秣線（西秣公民館行）,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/SNN01_Nishimagusakouminkan.zip
-中津市コミュニティバス　耶馬溪地域　城井線,,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/YKK1_Kii.zip
+中津市コミュニティバス　耶馬溪地域　城井線,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/YKK1_Kii.zip
 マルエーフェリー　鹿児島航路　フェリーあけぼの,,https://api3.ottop.org/download/gtfs/ooXuXei4op7y/5340001010554
 マリックスライン　クイーンコーラルプラス・クイーンコーラル８,,https://api3.ottop.org/download/gtfs/ooXuXei4op7y/9340001004024
 やんばる急行バス,2021-09-22 04:50:39,https://yanbaru-expressbus.com/wp-content/themes/ykb/download/gtfs/statics.zip
