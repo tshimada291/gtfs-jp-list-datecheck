@@ -35,7 +35,8 @@ if __name__ == '__main__':
         print(stmp)
         #if res is not None:
         label = row['label']
-        writer.writerow([label, stmp, url])
+        license = row['license_name']
+        writer.writerow([label, stmp, url, license])
         time.sleep(1)
   
   print("Finished.")
