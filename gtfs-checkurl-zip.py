@@ -28,7 +28,7 @@ if __name__ == '__main__':
     
     with open('GTFS_fixedURL_LastModified.csv', 'w', newline='', encoding='utf-8') as wf:
       writer = csv.writer(wf)
-      writer.writerow(['label', 'Last-Modified-GMT', 'url'])
+      writer.writerow(['label', 'Last-Modified-GMT', 'url', 'license_name'])
       for row in line:
         url = row['fixed_current_url']
         stmp = checkURL(url)
