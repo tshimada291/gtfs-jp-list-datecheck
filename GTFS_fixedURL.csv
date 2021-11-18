@@ -28,7 +28,6 @@ f0102101,［HODaP］ 奈井江町コミュニティ,https://ckan.hoda.jp/dataset
 f0102201,［HODaP］ 中標津町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/75e1e2db-ab48-4dfb-9514-1ebbc898791a/download/nakashibetsucho_com.zip,nakashibetsucho_com,CC BY 4.0
 f0102301,［HODaP］ 名寄市コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/4abe45b3-7390-4d7d-8bf1-e8c7230ab962/download/nayoroshi_com.zip,nayoroshi_com,CC BY 4.0
 f0102401,［HODaP］ 根室交通,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/8b9cb94b-beb4-4b57-9096-5140ef6f2333/download/nemuro_kotu.zip,nemuro_kotu,CC BY 4.0
-f0102402,根室交通,https://www.nemurokotsu.com/manage/wp-content/uploads/2021/10/nemuro-gtfs-saishin.zip,nemuro-gtfs-saishin,CopyRight
 f0102501,［HODaP］ 斜里町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/e59d88f1-2236-41bb-ba8c-75fd4754af1a/download/sharicho_com.zip,sharicho_com,CC BY 4.0
 f0102601,［HODaP］ 士幌町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/3c8f82fe-c997-45c8-9307-c904b206a450/download/shihorocho_com.zip,shihorocho_com,CC BY 4.0
 f0102701,［HODaP］ 空知中央バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/671debb1-44c5-4dea-99eb-be693911c50c/download/sorachi_chuo_bus.zip,sorachi_chuo_bus,CC BY 4.0
@@ -324,6 +323,7 @@ f3902601,県交北部交通,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anz
 f3902701,JR四国バス（高知支店）　大栃線,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-JRbus_Localbus.zip,GTFSJP-JRbus_Localbus,CC BY 4.0
 f3902801,高知観光コンベンション協会　MY遊バス,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-KVCA_MY-YUbus.zip,GTFSJP-KVCA_MY-Yubus,CC BY 4.0
 f3902901,芸西村　おでかけバス,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Geisei-Village.zip,GTFSJP-Geisei-Village,CC BY 4.0
+f3903001,室戸市コミュニティバス,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Muroto-City.zip,GTFSJP-Muroto-City.zip,CC BY 4.0
 f4000401,糸島市営渡船ひめしま,https://data.bodik.jp/dataset/2a380e2b-f584-425b-9385-24926b328296/resource/53252038-b26e-49c1-9de1-1fec6811e01a/download/402303tosengtfs.zip,402303tosengtfs,CC BY 4.0
 f4000601,嘉麻市バス,https://data.bodik.jp/dataset/7f08da86-1670-4ab3-9dfe-72d9c739f680/resource/4431bc03-7466-44e7-a337-3d93cb8fa7ab/download/current_data.zip,kamacitybus_gtfs-jp,CC BY 4.0
 f4000701,北九州市　おでかけ交通・八幡東区田代・河内地区,https://ckan.open-governmentdata.org/dataset/42e62bc8-cfe8-4f66-9e89-decffff56f23/resource/41dfa7d1-cb07-47b4-b509-5fcbe5c79765/download/401005_odekakekotsugtfs_tashirokawachi.zip,401005_odekakekotsugtfs_tashirokawachi,CC BY 2.1
