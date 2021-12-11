@@ -143,7 +143,7 @@ JRバス関東（長野原支店）,2021-10-14 07:40:46,https://gma.jcld.jp/GMA_
 伊勢崎市　いせさきしコミュニティバス「あおぞら」,2021-02-10 02:24:26,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1026.isesakishi_com.zip,CC BY 4.0
 南牧村　南牧バス,2021-11-04 02:08:19,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1037.nanmokumura_com.zip,CC BY 4.0
 空港バス【群馬】,2021-10-28 02:33:45,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.0003.lim.GMA.zip,CC BY 4.0
-高速バス【群馬】,2021-11-25 02:04:20,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.0002.express.GMA.zip,CC BY 4.0
+高速バス【群馬】,2021-12-09 08:51:06,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.0002.express.GMA.zip,CC BY 4.0
 千葉市若葉区泉地域コミュニティバス　さらしなバス,2020-12-28 02:00:05,https://www.city.chiba.jp/toshi/toshi/kotsu/documents/sarashinabus-gtfs.zip,CC BY 2.1
 千葉市若葉区泉地域コミュニティバス　おまごバス,2020-12-28 02:00:05,https://www.city.chiba.jp/toshi/toshi/kotsu/documents/omagobus-gtfs.zip,CC BY 2.1
 千葉市若葉区泉地域コミュニティバス　いずみバス,2020-12-28 02:00:05,https://www.city.chiba.jp/toshi/toshi/kotsu/documents/izumibus-gtfs.zip,CC BY 2.1
@@ -167,7 +167,7 @@ JRバス関東（長野原支店）,2021-10-14 07:40:46,https://gma.jcld.jp/GMA_
 滑川市　のる my car,2021-06-21 00:05:31,https://www.city.namerikawa.toyama.jp/material/files/group/10/city_namerikawa_gtfs.zip,CC 0
 砺波市　砺波市営バス,2021-09-01 08:54:51,http://opendata.pref.toyama.jp/files/city_tonami_gtfs.zip,CC 0
 入善町　入善町営バス「のらんマイ・カー」,2020-11-18 08:51:55,https://www.town.nyuzen.toyama.jp/material/files/group/3/town_nyuzen_noran_gtfs.zip,CC 0
-富山地鉄バス（富山地方鉄道）,2021-11-01 08:00:06,http://opendata.pref.toyama.jp/files/chitetsu_gtfs.zip,CC 0
+富山地鉄バス（富山地方鉄道）,2021-12-10 07:15:41,http://opendata.pref.toyama.jp/files/chitetsu_gtfs.zip,CC 0
 富山地鉄バス　富山港線フィーダーバス,2021-03-15 08:58:54,http://opendata.pref.toyama.jp/files/chitetsu_feeder_gtfs.zip,CC 0
 西日本ジェイアールバス　名金線,2021-09-17 07:33:07,http://opendata.pref.toyama.jp/files/nishinihonjr_gtfs.zip,CC 0
 加越能バス　一般路線,2021-12-01 10:45:33,http://opendata.pref.toyama.jp/files/kaetsunou_gtfs_ippan.zip,CC 0
@@ -334,7 +334,7 @@ JR四国バス（高知支店）　大栃線,,https://www.pref.kochi.lg.jp/opend
 北九州市　おでかけ交通・小倉南区合馬・道原地区,2019-11-06 06:44:57,https://ckan.open-governmentdata.org/dataset/ccbc3e6b-d85f-4541-8d6f-2c40d065f836/resource/8d32347f-00a4-497c-b88e-51f413b4b49e/download/401005_odekakekotsugtfs_omadobaru.zip,CC BY 2.1
 北九州市　おでかけ交通・八幡西区木屋瀬・楠橋・星ヶ丘地区,2019-12-23 01:26:12,https://ckan.open-governmentdata.org/dataset/e3689c3c-d7e4-40a8-9d21-89aa95311bb8/resource/6185c93d-76cd-4287-a306-428216f7a285/download/401005_odekakekotsugtfs_koyanosekusubashihoshigaoka.zip,CC BY 2.1
 宮若市・飯塚市共同運行コミュニティバス,2021-04-20 00:35:57,https://data.bodik.jp/dataset/341b6046-0030-4a78-a54d-87b1a1335563/resource/5627c6c0-533f-4d4a-926d-a60ec5c9d139/download/27miyawakaiizuka_gtfs-jp.zip,CC BY 4.0
-佐賀県内バス路線,2021-12-09 18:04:09,http://opendata.sagabus.info/saga-current.zip,CC BY 4.0
+佐賀県内バス路線,2021-12-10 18:04:51,http://opendata.sagabus.info/saga-current.zip,CC BY 4.0
 九州産交バス・産交バス,,http://km.bus-vision.jp/gtfs/sankobus/gtfsFeed,CC BY 4.0
 熊本電鉄バス,,http://km.bus-vision.jp/gtfs/dentetsu/gtfsFeed,CC BY 4.0
 熊本バス,,http://km.bus-vision.jp/gtfs/kumabus/gtfsFeed,CC BY 4.0
@@ -358,20 +358,20 @@ JR四国バス（高知支店）　大栃線,,https://www.pref.kochi.lg.jp/opend
 中津市コミュニティバス　耶馬溪地域　山移北線,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/Y090_Yamautsuri_North.zip,CC BY 4.0
 中津市コミュニティバス　耶馬溪地域　山移南線,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/Y100_Yamautsuri_South.zip,CC BY 4.0
 中津市コミュニティバス　耶馬溪地域　津民線,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/Y110_Tsutami.zip,CC BY 4.0
-中津市コミュニティバス　耶馬溪地域　裏耶馬渓線（柿坂行）,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/Y121_Urayabakei_for_Kakisaka.zip,CC BY 4.0
-中津市コミュニティバス　耶馬溪地域　裏耶馬渓線（樋山路行）,,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/Y122_Urayabakei_for_Hiyamaji.zip,CC BY 4.0
+中津市コミュニティバス　耶馬溪地域　裏耶馬渓線（柿坂行）,,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/Y121_Urayabakei_for_Kakisaka.zip,CC BY 4.0
+中津市コミュニティバス　耶馬溪地域　裏耶馬渓線（樋山路行）,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/Y122_Urayabakei_for_Hiyamaji.zip,CC BY 4.0
 中津市コミュニティバス　山国地域　槻木線,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/YK01_Tsukinoki.zip,CC BY 4.0
 中津市コミュニティバス　山国地域　所小野線,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/YK02_Tokoro-ono.zip,CC BY 4.0
 中津市コミュニティバス　山国地域　市平・奥谷線,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/YK03_Ichibira_Okudani.zip,CC BY 4.0
-中津市コミュニティバス　山国地域　長尾野線,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/YK04_Nagaono.zip,CC BY 4.0
-中津市コミュニティバス　山国地域　フケ原・大石峠線,,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/YK05_Fukebaru_Ohishitohge.zip,CC BY 4.0
+中津市コミュニティバス　山国地域　長尾野線,,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/YK04_Nagaono.zip,CC BY 4.0
+中津市コミュニティバス　山国地域　フケ原・大石峠線,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/YK05_Fukebaru_Ohishitohge.zip,CC BY 4.0
 中津市コミュニティバス　山国地域　両宮線,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/YK06_Moromiya.zip,CC BY 4.0
 中津市コミュニティバス　三光地域　西秣線（長谷寺行）,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/SNH01_Chokokuji.zip,CC BY 4.0
 中津市コミュニティバス　三光地域　西秣線（西秣公民館行）,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/SNN01_Nishimagusakouminkan.zip,CC BY 4.0
-中津市コミュニティバス　耶馬溪地域　城井線,2021-08-24 00:20:27,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/YKK1_Kii.zip,CC BY 4.0
+中津市コミュニティバス　耶馬溪地域　城井線,,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/YKK1_Kii.zip,CC BY 4.0
 マルエーフェリー　鹿児島航路　フェリーあけぼの,,https://api3.ottop.org/download/gtfs/ooXuXei4op7y/5340001010554,CC BY 4.0
 マリックスライン　クイーンコーラルプラス・クイーンコーラル８,,https://api3.ottop.org/download/gtfs/ooXuXei4op7y/9340001004024,CC BY 4.0
-やんばる急行バス,2021-11-23 03:29:54,https://yanbaru-expressbus.com/wp-content/themes/ykb/download/gtfs/statics.zip,CC BY 4.0
+やんばる急行バス,2021-12-10 08:27:19,https://yanbaru-expressbus.com/wp-content/themes/ykb/download/gtfs/statics.zip,CC BY 4.0
 やんばる急行バス（OTTOP掲載版）,,https://api3.ottop.org/download/gtfs/ooXuXei4op7y/1360003007856,CC BY 4.0
 沖縄エアポートシャトルLLP,,https://api3.ottop.org/download/gtfs/ooXuXei4op7y/360005005779,CC BY 4.0
 与那国生活路線バス,,https://api3.ottop.org/download/gtfs/ooXuXei4op7y/7000020473821,CC BY 4.0
