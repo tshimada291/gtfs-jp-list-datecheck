@@ -33,7 +33,7 @@ if __name__ == '__main__':
       for row in line:
         url = row['fixed_current_url']
         stmp = checkURL(url)
-        print(stmp)
+        #print(stmp)
         #if res is not None:
         label = row['label']
         license = row['license_name']
