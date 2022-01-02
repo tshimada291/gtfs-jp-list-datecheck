@@ -3,7 +3,7 @@ f0100102,(HODaP) 道南バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b4
 f0100201,北海道拓殖バス　一般路線、コミュニティバス（音更町・新得町・清水町）,https://www.takubus.com/app/download/10941479479/GTFS_regular_line.zip,GTFS_regular_line,CC BY 4.0
 f0100202,北海道拓殖バス 都市間高速バス・帯広空港連絡バス,https://www.takubus.com/app/download/11008674479/GTFS_highway_line.zip,GTFS_highway_line,CC BY 4.0
 f0100203,(HODaP) 北海道拓殖バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/3870b272-dabb-4527-9d51-67afc2c9a2d5/download/takushoku_bus.zip,takushoku_bus,CC BY 4.0
-f0100302,(HODaP) 十勝バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/9ad9de7f-73a9-4695-858f-c09cdf13437a/download/tokachi_bus.zip,tokachi_bus.zip,CC BY 4.0
+f0100302,(HODaP) 十勝バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/9ad9de7f-73a9-4695-858f-c09cdf13437a/download/tokachi_bus.zip,tokachi_bus,CC BY 4.0
 f0100403,［HODaP］ 網走バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/c84abf64-f7ba-4d22-8cc1-acac7adbdc6f/download/abashiri_bus.zip,abashiri_bus,CC BY 4.0
 f0100405,網走バス,https://www.abashiribus.com/open_data/gtfs_abashiribus_current_data.zip,gtfs_abashiribus_current_data,CC BY 4.0
 f0100501,網走観光交通バス,http://www.abashiri-kk.com/wp/wp-content/uploads/2019/11/abashirikankokotu.zip,abashirikankokotu,CC BY 4.0
@@ -39,7 +39,7 @@ f0103201,［HODaP］ 三笠市コミュニティ,https://ckan.hoda.jp/dataset/24
 f0103301,(HODaP) ハートランドフェリー,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/677e45d0-45d1-4eaf-a679-319cdbfaa89e/download/heart-land-ferry.zip,heart-land-ferry,CC BY 4.0
 f0103401,(HODaP) 羽幌沿海フェリー,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/b1535cdf-9798-4990-afe2-5c5c5bcdfdfa/download/haboro-enkai-ferry.zip,haboro-enkai-ferry,CC BY 4.0
 f0103501,［HODaP］ 道北バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/a89a7707-f346-45e7-8f98-0da0f3332531/download/douhoku_bus.zip,douhoku_bus,CC BY 4.0
-f0103601,［HODaP］ 北紋バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/226fe0ae-79af-4971-b15f-332770cdc9c1/download/hokumon_bus.zip,hokumon_bus.zip,CC BY 4.0
+f0103601,［HODaP］ 北紋バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/226fe0ae-79af-4971-b15f-332770cdc9c1/download/hokumon_bus.zip,hokumon_bus,CC BY 4.0
 f0103701,［HODaP］ 宗谷バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/04e3efd7-29fd-4295-ab8d-d27933f94bbc/download/soya_bus.zip,soya_bus,CC BY 4.0
 f0103801,［HODaP］ 北見市コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/d4ecb0d3-4b28-4fff-897f-f56979e9b5c9/download/kitamishi_com.zip,kitamishi_com,CC BY 4.0
 f0103901,［HODaP］ 蘭越町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/595f0db5-9e55-43a5-8b85-74c3edcd7da7/download/rankoshicho_com.zip,rankoshicho_com,CC BY 4.0
@@ -74,6 +74,8 @@ f0200103,あおもりシャトルdeルートバス（ねぶたん号）,https://
 f0200104,浪岡地区コミュニティバス,https://www.city.aomori.aomori.jp/n-somu/documents/namioka_current.zip,namioka_current,CC BY 4.0
 f0200201,外ヶ浜町営バス,http://www.town.sotogahama.lg.jp/gyosei/jouhou/files/sotogahama_bus_gtfs.zip,sotogahama_bus_gtfs,CC BY 4.0
 f0401201,仙台市営バス,http://www.city.sendai.jp/joho-kikaku/shise/security/kokai/documents/gtfs-jp_sendaicitybus_current_data.zip,gtfs-jp_sendaicitybus_current_data,CC BY 2.1
+f0500102,秋田市マイタウン・バス、中心市街地循環バス（ぐるる）（県バス協会掲載版）,https://www.akita-bus.or.jp/gtfs_jp/bus-akitacity.zip,bus-akitacity,CC BY 4.0
+f0500201,仙北市　市民バス（たっこちゃんバス・スマイルバス）,https://www.akita-bus.or.jp/~akita-gtfs/bus-city-semboku.zip,bus-city-semboku,CC BY 4.0
 f0600102,酒田市　るんるんバス（県サイト）,https://www.pref.yamagata.jp/documents/20978/sakata_gtfs.zip,sakata_gtfs,CC BY 2.1
 f0600202,大江町営バス,https://www.pref.yamagata.jp/documents/20978/oe_gtfs.zip,oe_gtfs,CC BY 2.1
 f0600302,鶴岡市　羽黒地域市営バス、朝日地域市営バス,https://www.pref.yamagata.jp/documents/20978/tsuruoka_gtfs.zip,tsuruoka_gtfs,CC BY 2.1
@@ -108,6 +110,7 @@ f0603201,西川町路線バス,https://www.pref.yamagata.jp/documents/20978/nish
 f1000101,永井バス（永井運輸）（自主路線）,https://www.nagai-unyu.net/rosen/GTFS/nagai/GTFS-JP_nagaibus-gunma-jp.zip,GTFS-JP_nagaibus-gunma-jp,CC BY 4.0
 f1000102,永井バス（永井運輸）（補助路線）,https://www.nagai-unyu.net/rosen/GTFS/aux/GTFS-JP_nbaux-gunma-jp.zip,GTFS-JP_nbaux-gunma-jp,CC BY 4.0
 f1000103,玉村町乗合タクシー　たまりん,https://www.nagai-unyu.net/rosen/GTFS/tamarin/GTFS-JP_tamarin-gunma-jp.zip,GTFS-JP_tamarin-gunma-jp,CC BY 4.0
+f1000104,永井バス（永井運輸）（補助路線）（独自拡張版GTFS）,https://www.nagai-unyu.net/rosen/GTFS/aux/GTFS-JP_nbaux-gunma-jp_gyomu.zip,GTFS-JP_nbaux-gunma-jp_gyomu.zip,CC BY 4.0
 f1000201,日本中央バス（奥多野線）,https://ncb.jp/route/GTFS/GTFS(OT).zip,GTFS_OT,CC BY 4.0
 f1000202,日本中央バス（前橋近郊路線、空港バス、高速バス）,https://ncb.jp/route/GTFS/GTFS(MB).zip,GTFS_MB,CC BY 4.0
 f1000301,上信電鉄（バス）,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1013.joshin_bus.zip,gtfs.1013.joshin_bus,CC BY 4.0
@@ -224,7 +227,8 @@ f2101801,東鉄バス（東濃鉄道）,https://www.rosenzu.com/~gtfs/tohtetsu/t
 f2101901,御嵩町　ふれあいバス,https://www.rosenzu.com/~gtfs/mitake/mitake_GTFS.zip,mitake_GTFS,CC BY 4.0
 f2102001,美濃加茂市コミュニティバス「あい愛バス」,https://www.rosenzu.com/~gtfs/minokamo/minokamo_GTFS.zip,minokamo_GTFS,CC BY 4.0
 f2102101,土岐市　市民バス,https://www.rosenzu.com/~gtfs/toki/toki_GTFS.zip,toki_GTFS,CC BY 4.0
-f2300101,くるりんばす（日進市巡回バス）,http://www.city.nisshin.lg.jp/material/files/group/108/kururin-gtfs.zip,kururin-gtfs,CC BY 4.0
+f2300101,日進市巡回バス　くるりんばす（市サイト）,http://www.city.nisshin.lg.jp/material/files/group/108/kururin-gtfs.zip,kururin-gtfs,CC BY 4.0
+f2300102,日進市巡回バス　くるりんばす,https://www.rosenzu.com/~gtfs/nisshin/nisshin_GTFS.zip,nisshin_GTFS,CC BY 4.0
 f2300401,碧南市　くるくるバス,https://www.city.hekinan.lg.jp/material/files/group/3/GTFS.zip,GTFS_hekinan,CC BY 4.0
 f2300601,豊田市　とよたおいでんバス,https://www.rosenzu.com/~gtfs/toyota/toyota_kikan_GTFS.zip,toyota_kikan_GTFS,CC BY 4.0
 f2300602,豊田市　地域バス,https://www.rosenzu.com/~gtfs/toyota_chiiki/toyota_chiiki_GTFS.zip,toyota_chiiki_GTFS,CC BY 4.0
@@ -268,6 +272,7 @@ f3200109,松江市コミュニティバス　八雲コミュニティバス,http
 f3200110,松江市コミュニティバス　八束コミュニティバス,http://www.docodemo-bus.net/opendata/%E5%85%AB%E6%9D%9Fzip.zip,matsue_yatsuka_gtfs,CC BY 4.0
 f3200111,松江市コミュニティバス　本庄・持田コミュニティバス,http://www.docodemo-bus.net/opendata/%E6%9C%AC%E5%BA%84%E3%83%BB%E6%8C%81%E7%94%B0zip.zip,matsue_honjo_gtfs,CC BY 4.0
 f3300101,宇野バス（宇野自動車）,http://www3.unobus.co.jp/opendata/GTFS-JP.zip,UnobusGTFS-JP,CC 0
+f3300102,宇野バス（宇野自動車）（独自拡張版）,http://www3.unobus.co.jp/opendata/GTFS-JP-GYOUMU.zip,GTFS-JP-GYOUMU,CC 0
 f3300201,下電バス（下津井電鉄）,http://shimoden.net/busmada/opendata/GTFS-JP.zip,ShimodenGTFS-JP,CC BY 4.0
 f3300301,両備バス,http://loc.bus-vision.jp/gtfs/ryobi/gtfsFeed,ryobi,CC BY 4.0
 f3300401,岡電バス（岡山電気軌道）,http://loc.bus-vision.jp/gtfs/okaden/gtfsFeed,okaden,CC BY 4.0
@@ -303,6 +308,7 @@ f3900602,四万十交通,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_
 f3900603,四万十交通　川奥～佐賀線,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Shimanto-Traffic_Feeder.zip,GTFSJP-Shimanto-Traffic_Feeder,CC BY 4.0
 f3900701,高知県　県営渡船,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Pref-Ferry.zip,GTFSJP-Pref-Ferry,CC BY 4.0
 f3900802,中土佐町コミュニティバス,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Nakatosa-Town.zip,GTFSJP-Nakatosa-Town,CC BY 4.0
+f3900902,南国市　NACOバス,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Nankoku-City.zip,GTFSJP-Nankoku-City.zip,CC BY 4.0
 f3901202,安芸市　元気バス,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Aki-Genkibus.zip,GTFSJP-Aki-Genkibus,CC BY 4.0
 f3901402,"田野町　	たのくるバス",https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Tano-Town.zip,GTFSJP-Tano-Town,CC BY 4.0
 f3901601,高知西南交通　一般路線,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Seinan-Localbus.zip,GTFSJP-Seinan-Localbus,CC BY 4.0
@@ -324,7 +330,7 @@ f3902601,県交北部交通,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anz
 f3902701,JR四国バス（高知支店）　大栃線,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-JRbus_Localbus.zip,GTFSJP-JRbus_Localbus,CC BY 4.0
 f3902801,高知観光コンベンション協会　MY遊バス,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-KVCA_MY-YUbus.zip,GTFSJP-KVCA_MY-Yubus,CC BY 4.0
 f3902901,芸西村　おでかけバス,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Geisei-Village.zip,GTFSJP-Geisei-Village,CC BY 4.0
-f3903001,室戸市コミュニティバス,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Muroto-City.zip,GTFSJP-Muroto-City.zip,CC BY 4.0
+f3903001,室戸市コミュニティバス,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Muroto-City.zip,GTFSJP-Muroto-City,CC BY 4.0
 f4000401,糸島市営渡船ひめしま,https://data.bodik.jp/dataset/2a380e2b-f584-425b-9385-24926b328296/resource/53252038-b26e-49c1-9de1-1fec6811e01a/download/402303tosengtfs.zip,402303tosengtfs,CC BY 4.0
 f4000601,嘉麻市バス,https://data.bodik.jp/dataset/7f08da86-1670-4ab3-9dfe-72d9c739f680/resource/4431bc03-7466-44e7-a337-3d93cb8fa7ab/download/current_data.zip,kamacitybus_gtfs-jp,CC BY 4.0
 f4000701,北九州市　おでかけ交通・八幡東区田代・河内地区,https://ckan.open-governmentdata.org/dataset/42e62bc8-cfe8-4f66-9e89-decffff56f23/resource/41dfa7d1-cb07-47b4-b509-5fcbe5c79765/download/401005_odekakekotsugtfs_tashirokawachi.zip,401005_odekakekotsugtfs_tashirokawachi,CC BY 2.1
@@ -336,7 +342,8 @@ f4000706,北九州市　おでかけ交通・小倉南区合馬・道原地区,h
 f4000707,北九州市　おでかけ交通・八幡西区木屋瀬・楠橋・星ヶ丘地区,https://ckan.open-governmentdata.org/dataset/e3689c3c-d7e4-40a8-9d21-89aa95311bb8/resource/6185c93d-76cd-4287-a306-428216f7a285/download/401005_odekakekotsugtfs_koyanosekusubashihoshigaoka.zip,401005_odekakekotsugtfs_koyanosekusubashihoshigaoka,CC BY 2.1
 f4001202,宮若市・飯塚市共同運行コミュニティバス,https://data.bodik.jp/dataset/341b6046-0030-4a78-a54d-87b1a1335563/resource/5627c6c0-533f-4d4a-926d-a60ec5c9d139/download/27miyawakaiizuka_gtfs-jp.zip,27miyawakaiizuka_gtfs-jp,CC BY 4.0
 f4100001,佐賀県内バス路線,http://opendata.sagabus.info/saga-current.zip,saga-current,CC BY 4.0
-f4200401,五島産業汽船 鯛ノ浦～長崎航路,https://data.bodik.jp/dataset/80da3e1f-5e26-4b85-a9f1-61fa560b91b1/resource/5acda669-d9be-4610-9df0-0d82a098b579/download/tainoura-nagasaki_gtfs.zip,tainoura-nagasaki_gtfs.zip,CC BY 4.0
+f4200302,長崎県営バス（BODIK掲載）,https://data.bodik.jp/dataset/9ccf45a4-2601-41ae-9bc1-63098ce55dff/resource/0d206caa-9e1b-46fa-8b88-21276b067764/download/gtfs.zip,gtfs,CC BY 4.0
+f4200401,五島産業汽船 鯛ノ浦～長崎航路,https://data.bodik.jp/dataset/80da3e1f-5e26-4b85-a9f1-61fa560b91b1/resource/5acda669-d9be-4610-9df0-0d82a098b579/download/tainoura-nagasaki_gtfs.zip,tainoura-nagasaki_gtfs,CC BY 4.0
 f4300101,九州産交バス・産交バス,http://km.bus-vision.jp/gtfs/sankobus/gtfsFeed,sankobus,CC BY 4.0
 f4300201,熊本電鉄バス,http://km.bus-vision.jp/gtfs/dentetsu/gtfsFeed,dentetsu,CC BY 4.0
 f4300301,熊本バス,http://km.bus-vision.jp/gtfs/kumabus/gtfsFeed,kumabus,CC BY 4.0
