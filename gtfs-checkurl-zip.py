@@ -1,16 +1,23 @@
 #-*- using:utf-8 -*-
 import urllib.request, urllib.error
 import csv
-import datetime
 import time
+from datetime import datetime, timedelta, timezone
+import pytz
 
 def checkURL(url):
   try:
     with urllib.request.urlopen(url) as res:
-      #print ("OK: " + url )
-      fdate = res.info()['Last-Modified']
-      timestamp = datetime.datetime.strptime(fdate, "%a, %d %b %Y %H:%M:%S GMT")
-      #print(url, fdate, timestamp)
+      headers = res.info()
+      print(headers)
+      if 'Last-Modified' in headers:
+        gmt_str = datetime.strptime(headers['Last-Modified'], "%a, %d %b %Y %H:%M:%S %Z").replace(tzinfo=pytz.utc)
+        gmt = gmt_str.timestamp()
+        tz = timezone(timedelta(hours=+9), 'JST')
+        timestamp = str(datetime.fromtimestamp(gmt, tz))[:-9]
+        #print(url, gmt, gmt_str, timestamp)
+      else:
+        timestamp = ""
       return timestamp
   except urllib.error.HTTPError as err:
     print("HTTPError: ", err.code, url)
@@ -18,8 +25,8 @@ def checkURL(url):
   except urllib.error.URLError as err:
     print("URLError: ",err.reason, url)
     return None
-  except:
-    print("Error: ",url)
+  except Exception as err:
+    print("Error: ",err,url)
     return None
 
 if __name__ == '__main__':
@@ -29,7 +36,7 @@ if __name__ == '__main__':
     
     with open('GTFS_fixedURL_LastModified.csv', 'w', newline='', encoding='utf-8') as wf:
       writer = csv.writer(wf)
-      writer.writerow(['label', 'Last-Modified-GMT', 'url', 'license_name'])
+      writer.writerow(['label', 'Last-Modified-JST', 'url', 'license_name'])
       for row in line:
         url = row['fixed_current_url']
         stmp = checkURL(url)
