@@ -9,7 +9,7 @@ def checkURL(url):
   try:
     with urllib.request.urlopen(url) as res:
       headers = res.info()
-      print(headers)
+      #print(headers)
       if 'Last-Modified' in headers:
         gmt_str = datetime.strptime(headers['Last-Modified'], "%a, %d %b %Y %H:%M:%S %Z").replace(tzinfo=pytz.utc)
         gmt = gmt_str.timestamp()
