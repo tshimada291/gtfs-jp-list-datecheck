@@ -150,7 +150,7 @@ f1003701,高速バス【群馬】,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.000
 f1200101,千葉市若葉区泉地域コミュニティバス　さらしなバス,https://www.city.chiba.jp/toshi/toshi/kotsu/documents/sarashinabus-gtfs.zip,sarashinabus-gtfs,CC BY 2.1
 f1200102,千葉市若葉区泉地域コミュニティバス　おまごバス,https://www.city.chiba.jp/toshi/toshi/kotsu/documents/omagobus-gtfs.zip,omagobus-gtfs,CC BY 2.1
 f1200103,千葉市若葉区泉地域コミュニティバス　いずみバス,https://www.city.chiba.jp/toshi/toshi/kotsu/documents/izumibus-gtfs.zip,izumibus-gtfs,CC BY 2.1
-f1200201,京成トランジットバス,https://www.transitbus.co.jp/web/archive/KeiseiTransitBus_gtfs_jp.zip,KeiseiTransitBus_gtfs_jp,CC BY 4.0
+f1200201,京成トランジットバス,http://www.transitbus.co.jp/web/archive/KeiseiTransitBus_gtfs_jp.zip,KeiseiTransitBus_gtfs_jp,CC BY 4.0
 f1202801,我孫子市　あびバス（新木ルート、栄・泉・並木ルート、船戸・台田ルート、布施ルート）,https://www.city.abiko.chiba.jp/shisei/opendata/GTFS-JP.files/gtfs_Abibus_other_root.zip,gtfs_Abibus_other_root,CC BY 4.0
 f1202802,我孫子市　あびバス（根戸ルート）,https://www.city.abiko.chiba.jp/shisei/opendata/GTFS-JP.files/gtfs_Abibus_nedo_root.zip,gtfs_Abibus_nedo_root,CC BY 4.0
 f1202803,我孫子市　アイバス,https://www.city.abiko.chiba.jp/shisei/opendata/GTFS-JP.files/gtfs_Aibus.zip,gtfs_Aibus,CC BY 4.0
@@ -279,8 +279,8 @@ f3300401,岡電バス（岡山電気軌道）,http://loc.bus-vision.jp/gtfs/okad
 f3300501,中鉄バス,http://loc.bus-vision.jp/gtfs/chutetsu/gtfsFeed,chutetsu,CC BY 4.0
 f3300601,赤磐市広域路線バス・市民バス,https://www.city.akaiwa.lg.jp/material/files/group/5/GTFS.zip,akaiwa_GTFS-JP,CC 0
 f3400102,江田島バス（広島県バス協会サイト掲載版）,https://gtfs-st.busit.jp/api/etajimabus,etajima,CC 0
-f3400201,芸陽バス,http://www.geiyo.co.jp/Unyu/gtfs/GTFS-JPgeiyobus.zip,GTFS-Jpgeiyobus,CC BY 4.0
 f3400202,芸陽バス（広島県バス協会サイト掲載版）,https://ajt-mobusta-gtfs.mcapps.jp/static/11/current_data.zip,geiyo,CC 0
+f3400203,芸陽バス（サイネージ用）,http://www.geiyo.co.jp/Unyu/gtfs/GTFS-JPgeiyobus.zip,GTFS-Jpgeiyobus,CC BY 4.0
 f3400901,広島電鉄バス,https://ajt-mobusta-gtfs.mcapps.jp/static/8/current_data.zip,hiroden,CC 0
 f3401001,広島バス,https://ajt-mobusta-gtfs.mcapps.jp/static/9/current_data.zip,hirobus,CC 0
 f3401101,広島交通,https://ajt-mobusta-gtfs.mcapps.jp/static/10/current_data.zip,hiroko,CC 0
@@ -342,7 +342,6 @@ f4000706,北九州市　おでかけ交通・小倉南区合馬・道原地区,h
 f4000707,北九州市　おでかけ交通・八幡西区木屋瀬・楠橋・星ヶ丘地区,https://ckan.open-governmentdata.org/dataset/e3689c3c-d7e4-40a8-9d21-89aa95311bb8/resource/6185c93d-76cd-4287-a306-428216f7a285/download/401005_odekakekotsugtfs_koyanosekusubashihoshigaoka.zip,401005_odekakekotsugtfs_koyanosekusubashihoshigaoka,CC BY 2.1
 f4001202,宮若市・飯塚市共同運行コミュニティバス,https://data.bodik.jp/dataset/341b6046-0030-4a78-a54d-87b1a1335563/resource/5627c6c0-533f-4d4a-926d-a60ec5c9d139/download/27miyawakaiizuka_gtfs-jp.zip,27miyawakaiizuka_gtfs-jp,CC BY 4.0
 f4100001,佐賀県内バス路線,http://opendata.sagabus.info/saga-current.zip,saga-current,CC BY 4.0
-f4200302,長崎県営バス（BODIK掲載）,https://data.bodik.jp/dataset/9ccf45a4-2601-41ae-9bc1-63098ce55dff/resource/0d206caa-9e1b-46fa-8b88-21276b067764/download/gtfs.zip,gtfs,CC BY 4.0
 f4200401,五島産業汽船 鯛ノ浦～長崎航路,https://data.bodik.jp/dataset/80da3e1f-5e26-4b85-a9f1-61fa560b91b1/resource/5acda669-d9be-4610-9df0-0d82a098b579/download/tainoura-nagasaki_gtfs.zip,tainoura-nagasaki_gtfs,CC BY 4.0
 f4300101,九州産交バス・産交バス,http://km.bus-vision.jp/gtfs/sankobus/gtfsFeed,sankobus,CC BY 4.0
 f4300201,熊本電鉄バス,http://km.bus-vision.jp/gtfs/dentetsu/gtfsFeed,dentetsu,CC BY 4.0
