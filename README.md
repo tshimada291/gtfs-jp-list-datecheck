@@ -1,6 +1,8 @@
 # gtfs-jp-list-datecheck
 GTFS/GTFS-JP固定URLデータ　日付チェック
 
+* 不具合が発生しているため、調整中です。（2021.1.21）
+
 日本国内で公開されているGTFS / GTFS-JP データのうち、固定URLで公開されている静的データの更新日をチェックします。
 * 毎朝1回、リスト（GTFS_fixedURL.csv）に登録されているURLを自動でチェックし、結果を GTFS_fixedURL_LastModified.csv に書き込みします。
   * 2021.12現在、毎朝4:30～40ごろに内容確定
