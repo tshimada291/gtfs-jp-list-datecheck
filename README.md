@@ -21,3 +21,8 @@ https://tshimada291.github.io/gtfs-jp-list-datecheck/GTFS_fixedURL_LastModified.
 * 2021.11.05 運用開始
 * 2021.12.13 チェック開始時間変更（JST 9:00 → 4:00）
 * 2022.01.21 JST対応
+
+## References
+* [指定したURLのリンクが有効かどうかをチェックするpythonスクリプトを作成（Qiita @Seigot）](https://qiita.com/seigot/items/534ca3089d217200a1d6)
+* [Requests の使い方 (Python Library)（Qiita @sqrtxx）](https://qiita.com/sqrtxx/items/49beaa3795925e7de666)
+* [GitHub ActionsでPythonスクリプトを実行する（Helve Tech Blog）](https://helve-blog.com/posts/git/github-actions-python/)
