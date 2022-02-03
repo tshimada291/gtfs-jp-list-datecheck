@@ -74,6 +74,7 @@ f0200103,あおもりシャトルdeルートバス（ねぶたん号）,https://
 f0200104,浪岡地区コミュニティバス,https://www.city.aomori.aomori.jp/n-somu/documents/namioka_current.zip,namioka_current,CC BY 4.0
 f0200201,外ヶ浜町営バス,http://www.town.sotogahama.lg.jp/gyosei/jouhou/files/sotogahama_bus_gtfs.zip,sotogahama_bus_gtfs,CC BY 4.0
 f0401201,仙台市営バス,http://www.city.sendai.jp/joho-kikaku/shise/security/kokai/documents/gtfs-jp_sendaicitybus_current_data.zip,gtfs-jp_sendaicitybus_current_data,CC BY 2.1
+f0401301,タケヤ交通　路線定期バス,http://www.takeyakoutu.jp/assets/gtfs-hokan-takeyakotsu.zip,gtfs-hokan-takeyakotsu,CC BY 4.0
 f0500102,秋田市マイタウン・バス、中心市街地循環バス（ぐるる）（県バス協会掲載版）,https://www.akita-bus.or.jp/gtfs_jp/bus-akitacity.zip,bus-akitacity,CC BY 4.0
 f0500201,仙北市　市民バス（たっこちゃんバス・スマイルバス）,https://www.akita-bus.or.jp/~akita-gtfs/bus-city-semboku.zip,bus-city-semboku,CC BY 4.0
 f0600102,酒田市　るんるんバス（県サイト）,https://www.pref.yamagata.jp/documents/20978/sakata_gtfs.zip,sakata_gtfs,CC BY 2.1
@@ -184,7 +185,7 @@ f1700502,珠洲市営バス　小屋線,https://www.city.suzu.lg.jp/data/open/cn
 f1700503,珠洲市営バス　若山線,https://www.city.suzu.lg.jp/data/open/cnt/3/2185/1/gtfs-WakayamaLine.zip,gtfs-WakayamaLine,CC BY 2.1
 f1700504,珠洲市営バス　まちなかバス すずらん,https://www.city.suzu.lg.jp/data/open/cnt/3/2185/1/gtfs-SuzuranLine.zip,gtfs-SuzuranLine,CC BY 2.1
 f1700601,羽咋市　市内循環バス「るんるんバス」,https://www.city.hakui.lg.jp/material/files/group/1/rosen_bus.zip,rosen_bus_hakui,CC BY 4.0
-f1701402,金沢ふらっとバス,https://www4.city.kanazawa.lg.jp/data/open/cnt/3/24011/1/flatbus.zip,flatbus,CC BY 2.1
+f1701402,金沢ふらっとバス,https://catalog-data.city.kanazawa.ishikawa.jp/dataset/1196beb4-f9f9-463c-9723-5b38d8127425/resource/191bd7bd-8e97-4919-b3ad-a87757993a79/download/172014-flatbus.zip,flatbus,CC BY 2.1
 f1800102,鯖江市　つつじバス,https://www.pref.fukui.lg.jp/doc/toukei-jouhou/opendata/gtfs_jp_d/fil/gtfs_sabae.zip,gtfs_sabae,CC BY 2.1
 f1800201,福井市　海岸地域バス,https://www.pref.fukui.lg.jp/doc/toukei-jouhou/opendata/gtfs_jp_d/fil/kaigan_bus.zip,kaigan_bus,CC BY 2.1
 f1800202,福井市　清水地域バス,https://www.pref.fukui.lg.jp/doc/toukei-jouhou/opendata/gtfs_jp_d/fil/simizu_bus.zip,simizu_bus,CC BY 2.1
@@ -240,7 +241,7 @@ f2301801,豊山町　とよやまタウンバス,https://www.rosenzu.com/~gtfs/t
 f2302001,刈谷市公共施設連絡バス かりまる,https://www.rosenzu.com/~gtfs/kariya/kariya_GTFS.zip,kariya_GTFS,CC BY 4.0
 f2302101,豊明市　ひまわりバス,https://www.city.toyoake.lg.jp/secure/5217/toyoake.zip,toyoake,CC BY 4.0
 f2304401,東海市　らんらんバス(循環バス),http://www.city.tokai.aichi.jp/secure/47255/gtfs.zip,gtfs_tokaicity,CopyRight
-f2304501,大府市　ふれあいバス,https://www.city.obu.aichi.jp/_res/projects/default_project/_page_/001/017/133/obu-gtfs-current-data.zip,obu-gtfs-current-data,(オープンデータとして公開)
+f2304501,大府市　ふれあいバス,https://www.city.obu.aichi.jp/_res/projects/default_project/_page_/001/017/133/obu-gtfs-current-data.zip,obu-gtfs-current-data,CC BY 4.0
 f2400101,津ベルライン（津エアポートライン）,https://www.rosenzu.com/~gtfs/tsuairportline/tsuairportline_GTFS.zip,tsuairportline_GTFS,(オープンデータとして公開)
 f2400201,桑名市　K-バス,https://www.rosenzu.com/~gtfs/kuwana/kuwana_GTFS.zip,kuwana_GTFS,CC BY 4.0
 f2400301,伊勢市コミュニティバス（おかげバス、沼木バス）,https://www.rosenzu.com/~gtfs/ise/ise_GTFS.zip,ise_GTFS,CC BY 2.1
