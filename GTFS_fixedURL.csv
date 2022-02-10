@@ -73,6 +73,7 @@ f0200102,青森市市バス,https://www.city.aomori.aomori.jp/toshi-seisaku/open
 f0200103,あおもりシャトルdeルートバス（ねぶたん号）,https://www.city.aomori.aomori.jp/toshi-seisaku/opendata/documents/nebutango_current.zip,nebutango_current,CC BY 4.0
 f0200104,浪岡地区コミュニティバス,https://www.city.aomori.aomori.jp/n-somu/documents/namioka_current.zip,namioka_current,CC BY 4.0
 f0200201,外ヶ浜町営バス,http://www.town.sotogahama.lg.jp/gyosei/jouhou/files/sotogahama_bus_gtfs.zip,sotogahama_bus_gtfs,CC BY 4.0
+f0200902,階上町コミュニティバス,https://opendata.pref.aomori.lg.jp/dataset/1596/resource/16700/gtfs_hashikamicho_com.zip,gtfs_hashikamicho_com,CC 0
 f0401201,仙台市営バス,http://www.city.sendai.jp/joho-kikaku/shise/security/kokai/documents/gtfs-jp_sendaicitybus_current_data.zip,gtfs-jp_sendaicitybus_current_data,CC BY 2.1
 f0401301,タケヤ交通　路線定期バス,http://www.takeyakoutu.jp/assets/gtfs-hokan-takeyakotsu.zip,gtfs-hokan-takeyakotsu,CC BY 4.0
 f0500102,秋田市マイタウン・バス、中心市街地循環バス（ぐるる）（県バス協会掲載版）,https://www.akita-bus.or.jp/gtfs_jp/bus-akitacity.zip,bus-akitacity,CC BY 4.0
