@@ -69,6 +69,7 @@ if __name__ == '__main__':
       
       for row in listline:
         url = row['fixed_current_url']
+        print(url)
         result = checkURL(url)
         # print(result[0], result[1])
         if result[0] is not None:
