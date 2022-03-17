@@ -77,10 +77,10 @@ if __name__ == '__main__':
           stmp = result[0]
           license = row['license_name']
 
-          fpname = result[1][0]['feed_publisher_name']
-          start = result[1][0]['feed_start_date']
-          end = result[1][0]['feed_end_date']
-          ver = result[1][0]['feed_version']
+          fpname = result[1][0].get('feed_publisher_name')
+          start = result[1][0].get('feed_start_date')
+          end = result[1][0].get('feed_end_date')
+          ver = result[1][0].get('feed_version')
         else:
           label = ''
           stmp = ''
