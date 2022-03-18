@@ -65,31 +65,29 @@ if __name__ == '__main__':
     
     with open('GTFS_fixedURL_LastModified.csv', 'w', newline='', encoding='utf-8') as wf:
       writer = csv.writer(wf)
-      writer.writerow(['label', 'Last-Modified-JST', 'url', 'license_name', 'feed_publisher_name', 'feed_start_date', 'feed_end_date', 'feed_version'])
+      writer.writerow(['label', 'Last-Modified-JST', 'feed_start_date', 'feed_end_date', 'feed_version', 'feed_publisher_name', 'license_name', 'url'])
       
       for row in listline:
         url = row['fixed_current_url']
         print(url)
         result = checkURL(url)
         # print(result[0], result[1])
+        
+        label = row['label']
+        license = row['license_name']
         if result[0] is not None:
-          label = row['label']
           stmp = result[0]
-          license = row['license_name']
-
           fpname = result[1][0].get('feed_publisher_name')
           start = result[1][0].get('feed_start_date')
           end = result[1][0].get('feed_end_date')
           ver = result[1][0].get('feed_version')
         else:
-          label = ''
           stmp = ''
-          license = ''
           fpname = ''
           start = ''
           end = ''
           ver = ''
-        writer.writerow([label, stmp, url, license, fpname, start, end, ver])
+        writer.writerow([label, stmp, start, end, ver, fpname, license, url])
         time.sleep(1)
   
   print("Finished.")
