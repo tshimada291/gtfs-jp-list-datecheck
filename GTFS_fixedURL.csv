@@ -53,8 +53,6 @@ f0104701,［HODaP］ 上川町コミュニティ,https://ckan.hoda.jp/dataset/24
 f0104801,［HODaP］ 幕別町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/95c715ca-21de-4206-a345-b781e0952dd0/download/makubetsucho_com.zip,makubetsucho_com,CC BY 4.0
 f0104901,［HODaP］ 音更町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/2d430e06-7e0b-4ef7-86f3-64ccb709d270/download/otofukecho_com.zip,otofukecho_com,CC BY 4.0
 f0105001,［HODaP］ ひがし北海道エクスプレスバス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/4215a2dd-3491-4005-bf66-10fda633d1af/download/easthokkaido_expressbus.zip,easthokkaido_expressbus,CC BY 4.0
-f0105101,［HODaP］ 高速バス（道内・1期）,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/ccfd2358-c804-4cfe-b4fe-278c3f035c64/download/hokkaido-express_bus.zip,hokkaido-express_bus,CC BY 4.0
-f0105102,［HODaP］ 高速バス（道内・2期）,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/ccfd2358-c804-4cfe-b4fe-278c3f035c64/download/hokkaido-express_bus.zip,hokkaido-express_bus,CC BY 4.0
 f0105103,［HODaP］ 高速バス（北海道内）,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/ccfd2358-c804-4cfe-b4fe-278c3f035c64/download/hokkaido-express_bus.zip,hokkaido-express_bus,CC BY 4.0
 f0105301,［HODaP］ ニセコバス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/c46f9cd8-4c92-42eb-89a5-26e3fabb1dce/download/niseko_bus.zip,niseko_bus,CC BY 4.0
 f0105401,［HODaP］ おびうん観光,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/edc6b615-7308-4bd0-bfe4-6b3a510f9fc0/download/obiun-kanko.zip,obiun-kanko,CC BY 4.0
@@ -122,10 +120,7 @@ f0603001,朝日町路線バス,https://www.pref.yamagata.jp/documents/20978/asah
 f0603101,米沢市　市民バス,https://www.pref.yamagata.jp/documents/20978/yonezawa_gtfs.zip,yonezawa_gtfs,CC BY 2.1
 f0603201,西川町路線バス,https://www.pref.yamagata.jp/documents/20978/nishikawa_gtfs.zip,nishikawa_gtfs,CC BY 2.1
 f0900101,佐野市営バス（さーのって号）,https://www.city.sano.lg.jp/material/files/group/17/133.zip,133,CC BY 2.1
-f1000101,永井バス（永井運輸）（自主路線）,https://www.nagai-unyu.net/rosen/GTFS/nagai/GTFS-JP_nagaibus-gunma-jp.zip,GTFS-JP_nagaibus-gunma-jp,CC BY 4.0
-f1000102,永井バス（永井運輸）（補助路線）,https://www.nagai-unyu.net/rosen/GTFS/aux/GTFS-JP_nbaux-gunma-jp.zip,GTFS-JP_nbaux-gunma-jp,CC BY 4.0
 f1000103,玉村町乗合タクシー　たまりん,https://www.nagai-unyu.net/rosen/GTFS/tamarin/GTFS-JP_tamarin-gunma-jp.zip,GTFS-JP_tamarin-gunma-jp,CC BY 4.0
-f1000104,永井バス（永井運輸）（補助路線）（独自拡張版GTFS）,https://www.nagai-unyu.net/rosen/GTFS/aux/GTFS-JP_nbaux-gunma-jp_gyomu.zip,GTFS-JP_nbaux-gunma-jp_gyomu.zip,CC BY 4.0
 f1000105,永井バス（永井運輸）,https://www.nagai-unyu.net/rosen/GTFS/aux/GTFS-JP_nbaux-gunma-jp.zip,GTFS-JP_nbaux-gunma-jp,CC BY 4.0
 f1000106,永井バス（永井運輸）（独自拡張版GTFS）,https://www.nagai-unyu.net/rosen/GTFS/aux/GTFS-JP_nbaux-gunma-jp_gyomu.zip,GTFS-JP_nbaux-gunma-jp_gyomu.zip,CC BY 4.0
 f1000201,日本中央バス（奥多野線）,https://ncb.jp/route/GTFS/GTFS(OT).zip,GTFS_OT,CC BY 4.0
@@ -197,11 +192,6 @@ f1601703,加越能バス　瑞龍寺線シャトルバス,http://opendata.pref.t
 f1601704,加能越バス　氷見市街地周遊バス,https://toyama-pref.box.com/shared/static/tdu8l9t46rifwo2vx8a5o1qede4g3xhc.zip,kaetsunou_gtfs_himi,CC 0
 f1700201,野々市市　のっティ・のんキー,https://www.city.nonoichi.lg.jp/img/opendata/notty_current.zip,notty_current,CC BY 4.0
 f1700401,志賀町コミュニティバス（しかばす）,https://www.town.shika.lg.jp/data/open/cnt/3/4031/1/gtfs_data.zip,gtfs_data_shika,CC BY 4.0
-f1700501,珠洲市営バス　三崎線,https://www.city.suzu.lg.jp/data/open/cnt/3/2185/1/gtfs-MisakiLine.zip,gtfs-MisakiLine,CC BY 2.1
-f1700502,珠洲市営バス　小屋線,https://www.city.suzu.lg.jp/data/open/cnt/3/2185/1/gtfs-OyaLine.zip,gtfs-OyaLine,CC BY 2.1
-f1700503,珠洲市営バス　若山線,https://www.city.suzu.lg.jp/data/open/cnt/3/2185/1/gtfs-WakayamaLine.zip,gtfs-WakayamaLine,CC BY 2.1
-f1700504,珠洲市営バス　まちなかバス すずらん,https://www.city.suzu.lg.jp/data/open/cnt/3/2185/1/gtfs-SuzuranLine.zip,gtfs-SuzuranLine,CC BY 2.1
-f1700506,珠洲市営バス,,,CC BY 4.0
 f1700601,羽咋市　市内循環バス「るんるんバス」,https://www.city.hakui.lg.jp/material/files/group/1/rosen_bus.zip,rosen_bus_hakui,CC BY 4.0
 f1701402,金沢ふらっとバス,https://catalog-data.city.kanazawa.ishikawa.jp/dataset/1196beb4-f9f9-463c-9723-5b38d8127425/resource/191bd7bd-8e97-4919-b3ad-a87757993a79/download/172014-flatbus.zip,flatbus,CC BY 2.1
 f1701601,白山市コミュニティバス「めぐーる」,https://www.city.hakusan.lg.jp/_res/projects/default_project/_page_/001/003/950/bus-hakusancity-ishikawa-jp.zip,bus-hakusancity-ishikawa-jp,CC BY 4.0
