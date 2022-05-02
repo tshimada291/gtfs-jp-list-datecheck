@@ -159,9 +159,6 @@ f1003401,伊勢崎市　いせさきしコミュニティバス「あおぞら�
 f1003501,南牧村　南牧バス,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1037.nanmokumura_com.zip,gtfs.1037.nanmokumura_com,CC BY 4.0
 f1003601,空港バス【群馬】,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.0003.lim.GMA.zip,gtfs.0003.lim.GMA,CC BY 4.0
 f1003701,高速バス【群馬】,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.0002.express.GMA.zip,gtfs.0002.express.GMA,CC BY 4.0
-f1200101,千葉市若葉区泉地域コミュニティバス　さらしなバス,https://www.city.chiba.jp/toshi/toshi/kotsu/documents/sarashinabus-gtfs.zip,sarashinabus-gtfs,CC BY 2.1
-f1200102,千葉市若葉区泉地域コミュニティバス　おまごバス,https://www.city.chiba.jp/toshi/toshi/kotsu/documents/omagobus-gtfs.zip,omagobus-gtfs,CC BY 2.1
-f1200103,千葉市若葉区泉地域コミュニティバス　いずみバス,https://www.city.chiba.jp/toshi/toshi/kotsu/documents/izumibus-gtfs.zip,izumibus-gtfs,CC BY 2.1
 f1200201,京成トランジットバス,http://www.transitbus.co.jp/web/archive/KeiseiTransitBus_gtfs_jp.zip,KeiseiTransitBus_gtfs_jp,CC BY 4.0
 f1202801,我孫子市　あびバス（新木ルート、栄・泉・並木ルート、船戸・台田ルート、布施ルート）,https://www.city.abiko.chiba.jp/shisei/opendata/GTFS-JP.files/gtfs_Abibus_other_root.zip,gtfs_Abibus_other_root,CC BY 4.0
 f1202802,我孫子市　あびバス（根戸ルート）,https://www.city.abiko.chiba.jp/shisei/opendata/GTFS-JP.files/gtfs_Abibus_nedo_root.zip,gtfs_Abibus_nedo_root,CC BY 4.0
@@ -188,7 +185,6 @@ f1601503,富山地鉄市内電車,http://opendata.pref.toyama.jp/files/chitetsu_
 f1601601,西日本ジェイアールバス　名金線,https://toyama-pref.box.com/shared/static/supauq0zy11t8iqtqamnbyhqm0l8ylqt.zip,nishinihonjr_gtfs,CC 0
 f1601701,加越能バス　一般路線,https://toyama-pref.box.com/shared/static/ufgq55b2oxb6i0b15r9ih9q82w3q3jj5.zip,kaetsunou_gtfs_ippan,CC 0
 f1601702,加越能バス　世界遺産バス,https://toyama-pref.box.com/shared/static/ix5so7pza4m5d5yo3ikbfv4xk4tms80x.zip,kaetsunou_gtfs_sekaiisan,CC 0
-f1601703,加越能バス　瑞龍寺線シャトルバス,http://opendata.pref.toyama.jp/files/kaetsunou_gtfs_zuiryuji.zip,kaetsunou_gtfs_zuiryuji,CC 0
 f1601704,加能越バス　氷見市街地周遊バス,https://toyama-pref.box.com/shared/static/tdu8l9t46rifwo2vx8a5o1qede4g3xhc.zip,kaetsunou_gtfs_himi,CC 0
 f1700201,野々市市　のっティ・のんキー,https://www.city.nonoichi.lg.jp/img/opendata/notty_current.zip,notty_current,CC BY 4.0
 f1700401,志賀町コミュニティバス（しかばす）,https://www.town.shika.lg.jp/data/open/cnt/3/4031/1/gtfs_data.zip,gtfs_data_shika,CC BY 4.0
@@ -250,7 +246,6 @@ f2300901,武豊町「ゆめころん」,https://www.rosenzu.com/~gtfs/taketoyo/t
 f2301001,みよし市　さんさんバス,http://www.city.aichi-miyoshi.lg.jp/shisei/opendata/documents/sansanbus.zip,sansanbus,CC BY 4.0
 f2301501,西尾市　六万石くるりんバス,https://www.city.nishio.aichi.jp/_res/projects/default_project/_page_/001/003/763/k.zip,k,CC BY 4.0
 f2301502,西尾市　いっちゃんバス,https://www.city.nishio.aichi.jp/_res/projects/default_project/_page_/001/003/763/i.zip,i,CC BY 4.0
-f2301503,西尾市　ふれんどバス,https://www.city.nishio.aichi.jp/_res/projects/default_project/_page_/001/003/763/f.zip,f,CC BY 4.0
 f2301601,名鉄東部交通バス,https://www.city.nishio.aichi.jp/_res/projects/default_project/_page_/001/003/763/m.zip,m,CC BY 4.0
 f2301701,あおい交通,https://www.rosenzu.com/~gtfs/aoikotsu/aoikotsu_GTFS.zip,aoikotsu_GTFS,CC BY 4.0
 f2301801,豊山町　とよやまタウンバス,https://www.rosenzu.com/~gtfs/toyoyama/toyoyama_GTFS.zip,toyoyama_GTFS,CC BY 4.0
