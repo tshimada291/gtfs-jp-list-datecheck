@@ -10,7 +10,7 @@ import pprint
 def checkURL(url):
   try:
     req = urllib.request.Request(url)
-    with urllib.request.urlopen(req, timeout = 10) as res:
+    with urllib.request.urlopen(req, timeout = 15) as res:
       headers = res.info()
       #print(headers)
       if 'Last-Modified' in headers:
