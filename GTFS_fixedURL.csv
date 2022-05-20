@@ -12,12 +12,13 @@ f0100602,北海道北見バス　女満別空港線,https://drive.google.com/uc?
 f0100603,(HODaP) 北海道北見バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/ae0e85ab-b317-4acd-b982-2ceda019309f/download/kitami_bus.zip,kitami_bus,CC BY 4.0
 f0100701,阿寒バス　一般路線,http://www.akanbus.co.jp/gtfs/GTFS-JP-akanbus.zip,GTFS-JP-akanbus,CC BY 4.0
 f0100702,(HODaP) 阿寒バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/e3bb6e27-d2bb-4925-a42c-adb5f49bb924/download/akan_bus.zip,akan_bus,CC BY 4.0
+f0100801,函館市電,https://www.city.hakodate.hokkaido.jp/docs/2020052700015/files/GTFS-JP.zip,GTFS-JP,CC BY 2.1
 f0100901,(HODaP) 旭川電気軌道,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/41ea2ac6-c6e4-47b2-9c1c-b482feaee17c/download/gtfs-1.zip,gtfs-1,CC BY 4.0
 f0101001,［HODaP］ あつまバス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/40e699d6-03c7-4191-b328-5e9c13841ab2/download/atsuma_bus.zip,atsuma_bus,CC BY 4.0
 f0101101,［HODaP］ 札幌ばんけい,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/889906b8-eb1a-41c3-a7b3-75cd69aa891f/download/bankei_bus.zip,bankei_bus,CC BY 4.0
 f0101201,［HODaP］ 沿岸バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/0dd30c37-4d45-4a23-8f86-12b74f6e65e1/download/engan_bus.zip,engan_bus,CC BY 4.0
 f0101301,(HODaP) 恵庭市コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/5f05a49e-1bf0-4de3-918e-de6a1c6255b8/download/gtfs_eniwashi_com.zip,gtfs_eniwashi_com,CC BY 4.0
-f0101401,(HODaP) ふらのバス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/3623aa5b-7d0b-4621-a3c8-b09e55863d27/download/gtfs-1.zip,gtfs-1,CC BY 4.0
+f0101401,(HODaP) ふらのバス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/3623aa5b-7d0b-4621-a3c8-b09e55863d27/download/gtfs-2.zip,gtfs-2,CC BY 4.0
 f0101501,［HODaP］ 羽幌町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/635cdd26-246c-4bd7-a095-6705c1eebb91/download/haborocho_com.zip,haborocho_com,CC BY 4.0
 f0101601,［HODaP］ 北海道中央バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/dbadfccc-670e-49b9-be77-c3f346ee3160/download/hokkaido_chuo.zip,hokkaido_chuo,CC BY 4.0
 f0101701,［HODaP］ じょうてつ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/fef98fef-6fe2-472f-bde3-9d4f0a509a4a/download/joutetsu.zip,joutetsu,CC BY 4.0
@@ -37,7 +38,7 @@ f0103101,［HODaP］ 深川市コミュニティ,https://ckan.hoda.jp/dataset/24
 f0103201,［HODaP］ 三笠市コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/b529697a-82c2-4f78-b6b1-19fce6c9c3dc/download/mikasashi_com.zip,mikasashi_com,CC BY 4.0
 f0103301,(HODaP) ハートランドフェリー,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/677e45d0-45d1-4eaf-a679-319cdbfaa89e/download/heart-land-ferry.zip,heart-land-ferry,CC BY 4.0
 f0103401,(HODaP) 羽幌沿海フェリー,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/b1535cdf-9798-4990-afe2-5c5c5bcdfdfa/download/haboro-enkai-ferry.zip,haboro-enkai-ferry,CC BY 4.0
-f0103501,(HODaP) 道北バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/a89a7707-f346-45e7-8f98-0da0f3332531/download/gtfs-1.zip,gtfs-1,CC BY 4.0
+f0103501,(HODaP) 道北バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/a89a7707-f346-45e7-8f98-0da0f3332531/download/gtfs.zip,gtfs,CC BY 4.0
 f0103601,［HODaP］ 北紋バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/226fe0ae-79af-4971-b15f-332770cdc9c1/download/hokumon_bus.zip,hokumon_bus,CC BY 4.0
 f0103701,［HODaP］ 宗谷バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/04e3efd7-29fd-4295-ab8d-d27933f94bbc/download/soya_bus.zip,soya_bus,CC BY 4.0
 f0103801,［HODaP］ 北見市コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/d4ecb0d3-4b28-4fff-897f-f56979e9b5c9/download/kitamishi_com.zip,kitamishi_com,CC BY 4.0
