@@ -13,7 +13,7 @@ f0100603,(HODaP) 北海道北見バス,https://ckan.hoda.jp/dataset/24d1dd70-539
 f0100701,阿寒バス　一般路線,http://www.akanbus.co.jp/gtfs/GTFS-JP-akanbus.zip,GTFS-JP-akanbus,CC BY 4.0
 f0100702,(HODaP) 阿寒バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/e3bb6e27-d2bb-4925-a42c-adb5f49bb924/download/akan_bus.zip,akan_bus,CC BY 4.0
 f0100801,函館市電,https://www.city.hakodate.hokkaido.jp/docs/2020052700015/files/GTFS-JP.zip,GTFS-JP,CC BY 2.1
-f0100901,(HODaP) 旭川電気軌道,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/41ea2ac6-c6e4-47b2-9c1c-b482feaee17c/download/gtfs-1.zip,gtfs-1,CC BY 4.0
+f0100901,(HODaP) 旭川電気軌道,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/41ea2ac6-c6e4-47b2-9c1c-b482feaee17c/download/asahikawa_denki.zip,asahikawa_denki,CC BY 4.0
 f0101001,［HODaP］ あつまバス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/40e699d6-03c7-4191-b328-5e9c13841ab2/download/atsuma_bus.zip,atsuma_bus,CC BY 4.0
 f0101101,［HODaP］ 札幌ばんけい,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/889906b8-eb1a-41c3-a7b3-75cd69aa891f/download/bankei_bus.zip,bankei_bus,CC BY 4.0
 f0101201,［HODaP］ 沿岸バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/0dd30c37-4d45-4a23-8f86-12b74f6e65e1/download/engan_bus.zip,engan_bus,CC BY 4.0
@@ -221,6 +221,7 @@ f1801701,大和交通　乗合バス「流星」,https://www.pref.fukui.lg.jp/do
 f1801801,福鉄バス（福井鉄道）,https://www.pref.fukui.lg.jp/doc/dx-suishin/opendata/gtfs_jp_d/fil/gtfs_0211117.zip,gtfs_0211117,CC BY 2.1
 f1900001,山梨交通・富士急行・山梨県内コミュニティバス,http://opendata.busmaps.jp/yamanashi.zip,yamanashi,CC 0
 f2000101,南木曽町　地域バス,https://www.rosenzu.com/~gtfs/nagiso/nagiso_GTFS.zip,nagiso_GTFS,CC BY 4.0
+f2002302,立科町町営バス「たてしなスマイル交通」,https://www.town.tateshina.nagano.jp/cmsfiles/contents/0000001/1341/20324.zip,20324,CC BY 4.0
 f2002601,須坂市　すざか市民バス,https://www.city.suzaka.nagano.jp/opendata/file/gtfs_data.zip,gtfs_data.zip,CC BY 4.0
 f2100101,中津川市コミュニティバス,https://www.rosenzu.com/~gtfs/nakatsugawa/nakatsugawa_GTFS.zip,nakatsugawa_GTFS,CC BY 4.0
 f2100201,北恵那バス（北恵那交通）,https://www.rosenzu.com/~gtfs/kitaena/kitaena_GTFS.zip,kitaena_GTFS,CC BY 4.0
