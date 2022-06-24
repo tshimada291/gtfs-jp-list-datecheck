@@ -1,6 +1,6 @@
 feed_id,label,fixed_current_url,fixed_current_basename,license_name
 f0100102,(HODaP) 道南バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/a70d369c-405c-4c25-996c-c70aa53682bc/download/dounan_bus.zip,dounan_bus,CC BY 4.0
-f0100201,北海道拓殖バス　一般路線、コミュニティバス（音更町・新得町・清水町）,https://www.takubus.com/app/download/10941479479/GTFS_regular_line.zip,GTFS_regular_line,CC BY 4.0
+f0100201,北海道拓殖バス 一般路線、コミュニティバス（音更町・新得町・清水町）,https://www.takubus.com/app/download/10941479479/GTFS_regular_line.zip,GTFS_regular_line,CC BY 4.0
 f0100202,北海道拓殖バス 都市間高速バス・帯広空港連絡バス,https://www.takubus.com/app/download/11008674479/GTFS_highway_line.zip,GTFS_highway_line,CC BY 4.0
 f0100203,(HODaP) 北海道拓殖バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/3870b272-dabb-4527-9d51-67afc2c9a2d5/download/takushoku_bus.zip,takushoku_bus,CC BY 4.0
 f0100302,(HODaP) 十勝バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/9ad9de7f-73a9-4695-858f-c09cdf13437a/download/tokachi_bus.zip,tokachi_bus,CC BY 4.0
