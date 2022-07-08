@@ -90,6 +90,7 @@ f0500901,潟上市マイタウンバス,https://www.akita-bus.or.jp/~akita-gtfs/
 f0501001,南秋地域広域マイタウンバス,https://www.akita-bus.or.jp/~akita-gtfs/bus-nansyu.zip,bus-nansyu,CC BY 4.0
 f0501101,井川町　町内巡回バス,https://www.akita-bus.or.jp/~akita-gtfs/bus-ikawatown.zip,bus-ikawatown,CC BY 4.0
 f0501201,由利本荘市コミュニティバス,https://www.akita-bus.or.jp/~akita-gtfs/bus-yurihonjyocity.zip,bus-yurihonjyocity,CC BY 4.0
+f0501301,秋田中央交通,https://www.akita-bus.or.jp/~akita-gtfs/bus-akitachuoukotsu.zip,bus-akitachuoukotsu,CC BY 4.0
 f0600102,酒田市　るんるんバス（県サイト）,https://www.pref.yamagata.jp/documents/20978/sakata_gtfs.zip,sakata_gtfs,CC BY 4.0
 f0600202,大江町営バス,https://www.pref.yamagata.jp/documents/20978/oe_gtfs.zip,oe_gtfs,CC BY 4.0
 f0600302,鶴岡市　羽黒地域市営バス、朝日地域市営バス,https://www.pref.yamagata.jp/documents/20978/tsuruoka_gtfs.zip,tsuruoka_gtfs,CC BY 4.0
@@ -187,6 +188,7 @@ f1600402,魚津市　魚津市民バス,https://www.city.uozu.toyama.jp/contents
 f1600601,滑川市　のる my car,https://www.city.namerikawa.toyama.jp/material/files/group/10/city_namerikawa_gtfs.zip,city_namerikawa_gtfs,CC 0
 f1600801,砺波市　砺波市営バス,http://opendata.pref.toyama.jp/files/city_tonami_gtfs.zip,city_tonami_gtfs,CC 0
 f1601301,入善町　入善町営バス「のらんマイ・カー」,https://www.town.nyuzen.toyama.jp/material/files/group/3/town_nyuzen_noran_gtfs.zip,town_nyuzen_noran_gtfs,CC 0
+f1601303,入善町　入善町営バス「のらんマイ・カー」（県サイト掲載版）,https://toyama-pref.box.com/shared/static/5e0royc3l3tun4vpjie0qmqpfbztj08n.zip,town_nyuzen_noran_gtfs,CC 0
 f1601501,富山地鉄バス（富山地方鉄道）,https://toyama-pref.box.com/shared/static/96fo9k5gmz6qwlk8xfjz0bo8vl6mhta9.zip,chitetsu_gtfs,CC 0
 f1601502,富山地鉄バス　富山港線フィーダーバス,http://opendata.pref.toyama.jp/files/chitetsu_feeder_gtfs.zip,chitetsu_feeder_gtfs,CC 0
 f1601503,富山地鉄市内電車,http://opendata.pref.toyama.jp/files/chitetsu_tram_gtfs.zip,chitetsu_tram_gtfs,CC 0
@@ -286,17 +288,17 @@ f3000301,龍神自動車,https://www.pref.wakayama.lg.jp/prefg/062500/kotsu/open
 f3000401,熊野御坊南海バス（旧・熊野交通）,https://www.pref.wakayama.lg.jp/prefg/062500/kotsu/opendata_d/fil/GTFS_kumano.zip,GTFS_kumano,CC BY 4.0
 f3000501,南海りんかんバス,https://www.pref.wakayama.lg.jp/prefg/062500/kotsu/opendata_d/fil/GTFS_rinkan.zip,GTFS_rinkan,CC BY 4.0
 f3000701,橋本市コミュニティバス・デマンドタクシー,http://www.city.hashimoto.lg.jp/material/files/group/67/hashimoto_gtfsjp.zip,hashimoto_gtfsjp,CC BY 2.1
-f3200101,松江市コミュニティバス　美保関コミュニティバス,http://www.docodemo-bus.net/opendata/%E7%BE%8E%E4%BF%9D%E9%96%A2.zip,matsue_kihonoseki_gtfs,CC BY 4.0
-f3200102,松江市コミュニティバス　忌部コミュニティバス,http://www.docodemo-bus.net/opendata/%E5%BF%8C%E9%83%A8zip.zip,matsue_inbe_gtfs,CC BY 4.0
-f3200103,松江市コミュニティバス　玉湯コミュニティバス,http://www.docodemo-bus.net/opendata/%E7%8E%89%E6%B9%AFzip.zip,matsue_tamayu_gtfs,CC BY 4.0
-f3200104,松江市コミュニティバス　古江コミュニティバス,http://www.docodemo-bus.net/opendata/%E5%8F%A4%E6%B1%9Fzip.zip,matsue_furue_gtfs,CC BY 4.0
-f3200105,松江市コミュニティバス　鹿島コミュニティバス,http://www.docodemo-bus.net/opendata/%E9%B9%BF%E5%B3%B6zip.zip,matsue_kashima_gtfs,CC BY 4.0
-f3200106,松江市コミュニティバス　宍道コミュニティバス,http://www.docodemo-bus.net/opendata/%E5%AE%8D%E9%81%93zip.zip,matsue_shinji_gtfs,CC BY 4.0
-f3200107,松江市コミュニティバス　島根コミュニティバス,http://www.docodemo-bus.net/opendata/%E5%B3%B6%E6%A0%B9zip.zip,matsue_shimane_gtfs,CC BY 4.0
-f3200108,松江市コミュニティバス　東出雲町コミュニティバス,http://www.docodemo-bus.net/opendata/%E6%9D%B1%E5%87%BA%E9%9B%B2zip.zip,matsue_higashiizumo_gtfs,CC BY 4.0
-f3200109,松江市コミュニティバス　八雲コミュニティバス,http://www.docodemo-bus.net/opendata/%E5%85%AB%E9%9B%B2zip.zip,matsue_yakumo_gtfs,CC BY 4.0
-f3200110,松江市コミュニティバス　八束コミュニティバス,http://www.docodemo-bus.net/opendata/%E5%85%AB%E6%9D%9Fzip.zip,matsue_yatsuka_gtfs,CC BY 4.0
-f3200111,松江市コミュニティバス　本庄・持田コミュニティバス,http://www.docodemo-bus.net/opendata/%E6%9C%AC%E5%BA%84%E3%83%BB%E6%8C%81%E7%94%B0zip.zip,matsue_honjo_gtfs,CC BY 4.0
+f3200101,松江市コミュニティバス　美保関コミュニティバス,http://www.docodemo-bus.net/opendata/mihonoseki.zip,mihonoseki,CC BY 4.0
+f3200102,松江市コミュニティバス　忌部コミュニティバス,http://www.docodemo-bus.net/opendata/inbe.zip,inbe,CC BY 4.0
+f3200103,松江市コミュニティバス　玉湯コミュニティバス,http://www.docodemo-bus.net/opendata/tamayu.zip,tamayu,CC BY 4.0
+f3200104,松江市コミュニティバス　古江コミュニティバス,http://www.docodemo-bus.net/opendata/hurue.zip,hurue,CC BY 4.0
+f3200105,松江市コミュニティバス　鹿島コミュニティバス,http://www.docodemo-bus.net/opendata/kashima.zip,kashima,CC BY 4.0
+f3200106,松江市コミュニティバス　宍道コミュニティバス,http://www.docodemo-bus.net/opendata/shinji.zip,shinji,CC BY 4.0
+f3200107,松江市コミュニティバス　島根コミュニティバス,http://www.docodemo-bus.net/opendata/shimane.zip,shimane,CC BY 4.0
+f3200108,松江市コミュニティバス　東出雲町コミュニティバス,http://www.docodemo-bus.net/opendata/higashi-izumo.zip,higashi-izumo,CC BY 4.0
+f3200109,松江市コミュニティバス　八雲コミュニティバス,http://www.docodemo-bus.net/opendata/yakumo.zip,yakumo,CC BY 4.0
+f3200110,松江市コミュニティバス　八束コミュニティバス,http://www.docodemo-bus.net/opendata/yatsuka.zip,yatsuka,CC BY 4.0
+f3200111,松江市コミュニティバス　本庄・持田コミュニティバス,http://www.docodemo-bus.net/opendata/honjomochida.zip,honjomochida,CC BY 4.0
 f3300101,宇野バス（宇野自動車）,http://www3.unobus.co.jp/opendata/GTFS-JP.zip,UnobusGTFS-JP,CC 0
 f3300102,宇野バス（宇野自動車）（独自拡張版）,http://www3.unobus.co.jp/opendata/GTFS-JP-GYOUMU.zip,GTFS-JP-GYOUMU,CC 0
 f3300201,下電バス（下津井電鉄）,http://shimoden.net/busmada/opendata/GTFS-JP.zip,ShimodenGTFS-JP,CC BY 4.0
