@@ -68,6 +68,7 @@ f0106601,［HODaP］ 喜茂別町コミュニティ,https://ckan.hoda.jp/dataset
 f0106701,［HODaP］ 月形町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/d5e7795d-6c36-4468-ac2c-245e7f3378e1/download/tsukigatacho_com.zip,tsukigatacho_com,CC BY 4.0
 f0106801,［HODaP］ 佐呂間町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/be66e348-db27-423f-8668-8b90b828c871/download/saromacho_com.zip,saromacho_com.zip,CC BY 4.0
 f0106901,(HODaP) 青函フェリー,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/16a31295-1709-4e5e-abcf-fa17ae7853b7/download/seikan_ferry.zip,seikan_ferry,CC BY 4.0
+f0107001,(HODaP) 千歳相互観光バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/a0b5a3ab-5207-4974-94aa-7886afb138fc/download/gtfs.zip,gtfs,CC BY 4.0
 f0200101,青森市営バス,https://www.city.aomori.aomori.jp/kotsu-kanri/koutsu/oshirase/documents/gtfs-aomoricitybus.zip,gtfs-aomoricitybus,CC BY 4.0
 f0200102,青森市市バス,https://www.city.aomori.aomori.jp/toshi-seisaku/opendata/documents/shibus_current.zip,shibus_current,CC BY 4.0
 f0200103,あおもりシャトルdeルートバス（ねぶたん号）,https://www.city.aomori.aomori.jp/toshi-seisaku/opendata/documents/nebutango_current.zip,nebutango_current,CC BY 4.0
@@ -191,7 +192,7 @@ f1601301,入善町　入善町営バス「のらんマイ・カー」,https://ww
 f1601303,入善町　入善町営バス「のらんマイ・カー」（県サイト掲載版）,https://toyama-pref.box.com/shared/static/5e0royc3l3tun4vpjie0qmqpfbztj08n.zip,town_nyuzen_noran_gtfs,CC 0
 f1601501,富山地鉄バス（富山地方鉄道）,https://toyama-pref.box.com/shared/static/96fo9k5gmz6qwlk8xfjz0bo8vl6mhta9.zip,chitetsu_gtfs,CC 0
 f1601502,富山地鉄バス　富山港線フィーダーバス,http://opendata.pref.toyama.jp/files/chitetsu_feeder_gtfs.zip,chitetsu_feeder_gtfs,CC 0
-f1601503,富山地鉄市内電車,http://opendata.pref.toyama.jp/files/chitetsu_tram_gtfs.zip,chitetsu_tram_gtfs,CC 0
+f1601503,富山地鉄市内電車,https://toyama-pref.box.com/shared/static/asr4jglw9sm038qq20h1pqxdg7eqk669.zip,chitetsu_tram_gtfs,CC 0
 f1601601,西日本ジェイアールバス　名金線,https://toyama-pref.box.com/shared/static/supauq0zy11t8iqtqamnbyhqm0l8ylqt.zip,nishinihonjr_gtfs,CC 0
 f1601701,加越能バス　一般路線,https://toyama-pref.box.com/shared/static/ufgq55b2oxb6i0b15r9ih9q82w3q3jj5.zip,kaetsunou_gtfs_ippan,CC 0
 f1601702,加越能バス　世界遺産バス,https://toyama-pref.box.com/shared/static/ix5so7pza4m5d5yo3ikbfv4xk4tms80x.zip,kaetsunou_gtfs_sekaiisan,CC 0
