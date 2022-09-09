@@ -5,9 +5,9 @@ label,Last-Modified-JST,feed_start_date,feed_end_date,feed_version,feed_publishe
 (HODaP) 北海道拓殖バス,2022-02-04 17:29,20220113,20230112,20211210_2021年12月10日（★一般路線改正 仕業入り全体4.3） その筋屋 1.550,北海道拓殖バス株式会社,CC BY 4.0,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/3870b272-dabb-4527-9d51-67afc2c9a2d5/download/takushoku_bus.zip
 (HODaP) 十勝バス,2021-11-24 16:09,20211121,20221120,20211121_2021年11月21日（ダイヤ改正　十勝バス 最新版） その筋屋 1.537,十勝バス株式会社 ,CC BY 4.0,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/9ad9de7f-73a9-4695-858f-c09cdf13437a/download/tokachi_bus.zip
 (HODaP) 網走バス,2022-06-03 15:30,20220601,20220630,20220601,網走バス株式会社,CC BY 4.0,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/c84abf64-f7ba-4d22-8cc1-acac7adbdc6f/download/abashiri_bus.zip
-網走バス,2022-09-08 17:03,20220801,20220831,20220801,網走バス株式会社,CC BY 4.0,https://www.abashiribus.com/open_data/gtfs_abashiribus_current_data.zip
+網走バス,2022-09-09 13:04,20220901,20220930,20220901,網走バス株式会社,CC BY 4.0,https://www.abashiribus.com/open_data/gtfs_abashiribus_current_data.zip
 網走観光交通バス,2019-11-25 13:32,20190501,20200501,2019v01,網走観光交通株式会社,CC BY 4.0,http://www.abashiri-kk.com/wp/wp-content/uploads/2019/11/abashirikankokotu.zip
-北海道北見バス　一般路線,,,,,,CC BY 4.0,https://drive.google.com/uc?export=view&id=13MQ00Oq6pJgHpB2jz5nG1iay0fEyXpAj
+北海道北見バス,,20220901,20221130,20220401_2022年04月01日（20220401改正 夏ダイヤGoogle maps掲載用） その筋屋 1.595,北海道北見バス株式会社,CC BY 4.0,https://drive.google.com/uc?export=view&id=13MQ00Oq6pJgHpB2jz5nG1iay0fEyXpAj
 北海道北見バス　女満別空港線,,20220415,20221130,20220415_2022年04月15日（女満別空港線オープンデータ用） その筋屋 1.575,北海道北見バス株式会社,CC BY 4.0,https://drive.google.com/uc?export=view&id=1Pekt6M8SaXCS4iX8Q8u-Q6pRBbKyeqqU
 (HODaP) 北海道北見バス,2022-02-04 17:28,20211201,20220331,20211201_2021年12月01日（20211201改正 冬ダイヤ編集温根湯変更） その筋屋 1.540,北海道北見バス株式会社,CC BY 4.0,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/ae0e85ab-b317-4acd-b982-2ceda019309f/download/kitami_bus.zip
 阿寒バス　一般路線,2022-04-28 14:01,20220423,20230422,20220419_2022年04月19日（復旧） その筋屋 1.552,阿寒バス株式会社,CC BY 4.0,http://www.akanbus.co.jp/gtfs/GTFS-JP-akanbus.zip
@@ -75,7 +75,7 @@ label,Last-Modified-JST,feed_start_date,feed_end_date,feed_version,feed_publishe
 浪岡地区コミュニティバス,2022-04-07 11:00,20220401,20230331,20220401_2022年04月01日（Ｒ４浪岡地区コミュニティバス） その筋屋 1.445,青森市浪岡振興部総務課,CC BY 4.0,https://www.city.aomori.aomori.jp/n-somu/documents/namioka_current.zip
 外ヶ浜町営バス,2022-05-18 02:05,20220312,20230311,20220312_SB001,外ヶ浜町,CC BY 4.0,http://www.town.sotogahama.lg.jp/gyosei/jouhou/files/sotogahama_bus_gtfs.zip
 階上町コミュニティバス,,,,,,CC 0,https://opendata.pref.aomori.lg.jp/dataset/1596/resource/16700/gtfs_hashikamicho_com.zip
-西和賀町 町民バス,,20220401,20221211,20220401_20220909,西和賀町,CC BY 4.0,https://mc.bus-vision.jp/gtfs/nishiwaga/gtfsFeed
+西和賀町 町民バス,,20220401,20221212,20220401_20220910,西和賀町,CC BY 4.0,https://mc.bus-vision.jp/gtfs/nishiwaga/gtfsFeed
 仙台市　宮城野区燕沢地区「のりあい・つばめ」,2022-04-01 00:45,20220308,20230307,20210401_2021年04月01日（★のりあいつばめ）,仙台市公共交通推進課,CC BY 2.1,http://www.city.sendai.jp/kokyo/documents/gtfstubame.zip
 仙台市営バス,2022-04-11 08:00,20220401,20230331,20220401,仙台市交通局,CC BY 2.1,http://www.city.sendai.jp/joho-kikaku/shise/security/kokai/documents/gtfs-jp_sendaicitybus_current_data.zip
 タケヤ交通　路線定期バス,2022-07-29 22:14,20220801,20221130,2022-2022年07月29日 11時59分15秒-西沢ツールver8.18,株式会社タケヤ交通,CC BY 4.0,http://www.takeyakoutu.jp/assets/gtfs-hokan-takeyakotsu.zip
@@ -92,7 +92,7 @@ label,Last-Modified-JST,feed_start_date,feed_end_date,feed_version,feed_publishe
 井川町　町内巡回バス,2022-03-04 14:48,20220304,20230303,2020/07/01改正-見える化ver2.6,井川町,CC BY 4.0,https://www.akita-bus.or.jp/~akita-gtfs/bus-ikawatown.zip
 由利本荘市コミュニティバス,2022-05-06 11:48,20220401,20230331,2022/04/01改正-見える化ver2.6,由利本荘市,CC BY 4.0,https://www.akita-bus.or.jp/~akita-gtfs/bus-yurihonjyocity.zip
 秋田中央交通,2022-08-31 08:56,20220901,20230831,20220901_2022年09月01日（秋田中央交通　AIU改正） その筋屋 1.571,秋田中央交通,CC BY 4.0,https://www.akita-bus.or.jp/~akita-gtfs/bus-akitachuoukotsu.zip
-酒田市　るんるんバス（県サイト）,2022-07-11 16:30,20220801,20250731,20220801-2022年06月27日 17時30分05秒-西沢ツールver8.05,酒田市,CC BY 4.0,https://www.pref.yamagata.jp/documents/20978/sakata_gtfs.zip
+酒田市　るんるんバス,2022-07-11 16:30,20220801,20250731,20220801-2022年06月27日 17時30分05秒-西沢ツールver8.05,酒田市,CC BY 4.0,https://www.pref.yamagata.jp/documents/20978/sakata_gtfs.zip
 大江町営バス,2021-12-21 17:15,20211220,20221219,2020/04/01改正,大江町,CC BY 4.0,https://www.pref.yamagata.jp/documents/20978/oe_gtfs.zip
 鶴岡市　羽黒地域市営バス、朝日地域市営バス,2022-07-11 16:30,20220708,20230531,2022/06/01改正,鶴岡市,CC BY 4.0,https://www.pref.yamagata.jp/documents/20978/tsuruoka_gtfs.zip
 山形市　ベニちゃんバス、コミュニティバス高瀬線、地域交流バス南部線,2022-03-22 16:45,20220401,20230401,2022/04/01改正-見える化ver2.6,山形市,CC BY 4.0,https://www.pref.yamagata.jp/documents/20978/yamagata_gtfs.zip
@@ -145,10 +145,10 @@ JRバス関東（長野原支店）,2022-05-13 13:43,20220512,20250512,20220512_
 沼田市路線バス,2022-04-13 15:06,20220413,20250413,20220413_K001_9,ジョルダン株式会社,CC BY 4.0,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1021.numatashi_com.zip
 館林市内路線バス,2021-04-01 09:19,20210401,20240401,20210401_K002_9,ジョルダン株式会社,CC BY 4.0,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1024.tatebayashishi_com.zip
 渋川市内バス（市内路線・伊香保タウンバス）,2022-08-31 13:16,20220831,20250831,20220831_K001_9,ジョルダン株式会社,CC BY 4.0,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1018.shibukawashi_com.zip
-藤岡市　めぐるん,2022-08-31 13:49,20220831,20250831,20220831_K004_9,ジョルダン株式会社,CC BY 4.0,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1028.fujiokashi_com.zip
+藤岡市　めぐるん,2022-09-07 14:17,20220907,20250907,20220907_K001_9,ジョルダン株式会社,CC BY 4.0,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1028.fujiokashi_com.zip
 みどり市　東町路線バス,2022-02-16 15:12,20220216,20250216,20220216_K001_9,ジョルダン株式会社,CC BY 4.0,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1031.midorishi_com.zip
 上野村乗合タクシー,2020-09-24 17:09,20200901,20230831,20200901_K001_9,ジョルダン株式会社,CC BY 4.0,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1034.uenomura_com.zip
-中之条町　六合地区路線バス,2022-03-08 13:51,20220308,20250308,20220308_K001_9,ジョルダン株式会社,CC BY 4.0,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1038.nakanojomachi_com.zip
+中之条町　六合地区路線バス,2022-09-09 10:50,20220308,20250308,20220308_K001_9,ジョルダン株式会社,CC BY 4.0,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1038.nakanojomachi_com.zip
 高山村　たかやまバス,2022-05-25 17:20,20220525,20250525,20220525_K001_9,ジョルダン株式会社,CC BY 4.0,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1040.gunma_takayamamura_com.zip
 東吾妻町乗合バス,2022-08-17 14:20,20220817,20250817,20220817_K001_9,ジョルダン株式会社,CC BY 4.0,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1041.higashiagatsumamachi_com.zip
 川場村循環バス,2022-03-09 15:01,20220309,20250309,20220309_K001_9,ジョルダン株式会社,CC BY 4.0,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1042.kawabamura_com.zip
@@ -162,36 +162,37 @@ JRバス関東（長野原支店）,2022-05-13 13:43,20220512,20250512,20220512_
 伊勢崎市　いせさきしコミュニティバス「あおぞら」,2022-06-16 15:28,20220615,20250615,20220615_K001_9,ジョルダン株式会社,CC BY 4.0,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1026.isesakishi_com.zip
 南牧村　南牧バス,2021-11-04 11:08,20211104,20241104,20211104_K001_9,ジョルダン株式会社,CC BY 4.0,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.1037.nanmokumura_com.zip
 空港バス【群馬】,2022-06-17 17:11,20220616,20250616,20220616_K001_9,ジョルダン株式会社,CC BY 4.0,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.0003.lim.GMA.zip
-高速バス【群馬】,2022-08-10 11:29,20220810,20250810,20220810_K001_9,ジョルダン株式会社,CC BY 4.0,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.0002.express.GMA.zip
+高速バス【群馬】,2022-09-08 11:40,20220908,20250908,20220908_K001_9,ジョルダン株式会社,CC BY 4.0,https://gma.jcld.jp/GMA_OPENDATA/GTFS/gtfs.0002.express.GMA.zip
 京成トランジットバス,2022-08-22 10:05,20220801,20230331,20220801_20220822_0953,京成トランジットバス株式会社,CC BY 4.0,http://www.transitbus.co.jp/web/archive/KeiseiTransitBus_gtfs_jp.zip
 我孫子市　あびバス（新木ルート、栄・泉・並木ルート、船戸・台田ルート、布施ルート）,2022-04-20 16:17,20200401,20230331,2022年4月20日更新,我孫子市,CC BY 4.0,https://www.city.abiko.chiba.jp/shisei/opendata/GTFS-JP.files/gtfs_Abibus_other_root.zip
 我孫子市　あびバス（根戸ルート）,2022-04-20 16:18,20200401,20230331,2022年4月20日更新,我孫子市,CC BY 4.0,https://www.city.abiko.chiba.jp/shisei/opendata/GTFS-JP.files/gtfs_Abibus_nedo_root.zip
 我孫子市　アイバス,2022-04-20 16:18,20200507,20230331,2022年4月20日更新,我孫子市,CC BY 4.0,https://www.city.abiko.chiba.jp/shisei/opendata/GTFS-JP.files/gtfs_Aibus.zip
 渋谷区コミュニティバス「ハチ公バス」,2022-08-04 10:20,20220111,20230110,2021/10/17改正,渋谷区,CC BY 4.0,https://www.city.shibuya.tokyo.jp/assets/mng/131130_gtfs-jp_hachiko_bus.zip
 横須賀市　ハマちゃんバス,2021-12-07 15:00,20210701,20230331,20210701,横須賀市,CC BY 4.0,https://www.city.yokosuka.kanagawa.jp/0830/opendata/documents/gtfs.zip
-ときライナー　新潟交通,,20220413,20230210,20220413_20220908,新潟交通(株),CC BY 4.0,https://loc.bus-vision.jp/gtfs_v2/niigatakotsu/gtfsFeed
-ときライナー　越後交通,,20220413,20230210,20220413_20220908,越後交通(株),CC BY 4.0,https://loc.bus-vision.jp/gtfs_v2/echigokotsu/gtfsFeed
-ときライナー　頸城自動車,,20211201,20230210,20211201_20220908,頸城自動車(株),CC BY 4.0,https://loc.bus-vision.jp/gtfs_v2/kubikijidosha/gtfsFeed
-ときライナー　新潟交通観光バス,,20220401,20230210,20220401_20220908,新潟交通観光バス(株),CC BY 4.0,https://loc.bus-vision.jp/gtfs_v2/niigatakotsukanko/gtfsFeed
-ときライナー　蒲原鉄道,,20210916,20230210,20210916_20220908,蒲原鉄道(株),CC BY 4.0,https://loc.bus-vision.jp/gtfs_v2/kanbaratetsudo/gtfsFeed
-ときライナー　アイ・ケーアライアンス,,20220328,20230210,20220328_20220908,アイ・ケーアライアンス(株),CC BY 4.0,https://loc.bus-vision.jp/gtfs_v2/ikalliance/gtfsFeed
+ときライナー　新潟交通,,20220413,20230211,20220413_20220909,新潟交通(株),CC BY 4.0,https://loc.bus-vision.jp/gtfs_v2/niigatakotsu/gtfsFeed
+ときライナー　越後交通,,20220413,20230211,20220413_20220909,越後交通(株),CC BY 4.0,https://loc.bus-vision.jp/gtfs_v2/echigokotsu/gtfsFeed
+ときライナー　頸城自動車,,20211201,20230211,20211201_20220909,頸城自動車(株),CC BY 4.0,https://loc.bus-vision.jp/gtfs_v2/kubikijidosha/gtfsFeed
+ときライナー　新潟交通観光バス,,20220401,20230211,20220401_20220909,新潟交通観光バス(株),CC BY 4.0,https://loc.bus-vision.jp/gtfs_v2/niigatakotsukanko/gtfsFeed
+ときライナー　蒲原鉄道,,20210916,20230211,20210916_20220909,蒲原鉄道(株),CC BY 4.0,https://loc.bus-vision.jp/gtfs_v2/kanbaratetsudo/gtfsFeed
+ときライナー　アイ・ケーアライアンス,,20220328,20230211,20220328_20220909,アイ・ケーアライアンス(株),CC BY 4.0,https://loc.bus-vision.jp/gtfs_v2/ikalliance/gtfsFeed
 富山市　まいどはやバス,2022-03-31 17:31,20220401,20230331,,富山県富山市,CC 0,https://opdt.city.toyama.lg.jp/dataset/8de65493-0af7-49d3-aab6-b495fc3ea2b0/resource/43903d9f-1d9c-42f0-bd01-8a5fc1cb828c/download/city-toyama-maidohaya-gtfs.zip
 富山市　呉羽いきいきバス,2022-03-31 17:31,20220401,20230331,2022v1-2022年03月08日 13時48分12秒-西沢ツールver8.15,富山県富山市,CC 0,https://opdt.city.toyama.lg.jp/dataset/8de65493-0af7-49d3-aab6-b495fc3ea2b0/resource/26db7690-aa7e-41b2-8596-0d8bdcd5c885/download/city-toyama-kureha-gtfs.zip
 富山市　水橋ふれあいコミュニティバス,2022-05-23 14:32,20220401,20230331,2022v1-2022年05月13日 09時36分42秒-西沢ツールver8.15,富山県富山市,CC 0,https://opdt.city.toyama.lg.jp/dataset/8de65493-0af7-49d3-aab6-b495fc3ea2b0/resource/ff01c4dd-14e7-4dbc-acea-09bff6b7d40e/download/city-toyama-mizuhashi-gtfs.zip
 富山市　婦中コミュニティバス,2022-06-08 13:11,20220401,20230331,2022v2-2022年05月31日 17時46分27秒-西沢ツールver8.15,富山県富山市,CC 0,https://opdt.city.toyama.lg.jp/dataset/8de65493-0af7-49d3-aab6-b495fc3ea2b0/resource/61a024ce-a377-4dd3-a3c0-b46183896597/download/city-toyama-fuchu-gtfs.zip
 富山市　八尾コミュニティバス,2022-07-28 15:02,20220801,20230331,2022v2-2022年06月10日 13時53分56秒-西沢ツールver8.15,富山県富山市,CC 0,https://opdt.city.toyama.lg.jp/dataset/8de65493-0af7-49d3-aab6-b495fc3ea2b0/resource/927992fb-e889-43cb-aa55-3bc3cab2e0aa/download/city-toyama-yatsuo-gtfs.zip
 富山市　大山コミュニティバス,2022-04-26 08:42,20220401,20230331,2022v3-2022年04月19日 12時10分25秒-西沢ツールver8.18,富山県富山市,CC 0,https://opdt.city.toyama.lg.jp/dataset/8de65493-0af7-49d3-aab6-b495fc3ea2b0/resource/378bcf3e-8f32-477a-857d-2d3917b6e84d/download/city-toyama-oyama-gtfs.zip
-富山市　山田コミュニティバス,,,,,,CC 0,https://opdt.city.toyama.lg.jp/dataset/8de65493-0af7-49d3-aab6-b495fc3ea2b0/resource/665ab7b2-e434-4a4a-8175-32a433b60008/download/city-toyama-yamada-gtfs.zip
+富山市　山田コミュニティバス,2022-04-26 08:42,20220401,20230331,2022v2-2022年04月14日 10時22分23秒-西沢ツールver8.18,富山県富山市,CC 0,https://opdt.city.toyama.lg.jp/dataset/8de65493-0af7-49d3-aab6-b495fc3ea2b0/resource/665ab7b2-e434-4a4a-8175-32a433b60008/download/city-toyama-yamada-gtfs.zip
 富山市　堀川南地域コミュニティバス,2022-03-31 17:34,20220401,20230331,2022v1-2022年03月08日 14時41分24秒-西沢ツールver8.15,富山市,CC 0,https://opdt.city.toyama.lg.jp/dataset/8de65493-0af7-49d3-aab6-b495fc3ea2b0/resource/5cb228a9-8a44-4db5-bbe5-3dcbabf1c1f6/download/city-toyama-horikawaminami-gtfs.zip
 高岡市　高岡市公営バス（福岡地域）,2022-09-02 10:58,20220815,20230814,20220815_2022年08月15日（高岡市公営バス  南・東右回0815改正） その筋屋 1.571,高岡市,CC 0,https://www.city.takaoka.toyama.jp/joho/shise/opendata/documents/city_takaoka_gtfs.zip
 魚津市　予約式あいのりタクシー おもてなし魚津直行便,2021-09-07 09:30,20210313,20220312,2021,魚津タクシー協会,CC 0,https://www.city.uozu.toyama.jp/contents/busdata/city_uozu_ainori_gtfs.zip
 魚津市　魚津市民バス,2022-03-29 15:17,20220401,20230331,2022,魚津市産業建設部都市計画課,CC 0,https://www.city.uozu.toyama.jp/contents/busdata/city_uozu_shimin_gtfs.zip
 滑川市　のる my car,2022-06-21 15:12,20220518,20230531,20220601_2022年06月01日（改正） その筋屋 1.473,滑川市,CC 0,https://www.city.namerikawa.toyama.jp/material/files/group/10/city_namerikawa_gtfs.zip
 砺波市　砺波市営バス,2021-12-20 14:00,20211215,20230930,20210401_2021年04月01日（改正） その筋屋 1.542,砺波市,CC 0,http://opendata.pref.toyama.jp/files/city_tonami_gtfs.zip
+上市町　上市町営バス（県サイト掲載版）,,20220901,20230331,2020ｖ1-2022年08月16日 13時55分21秒-西沢ツールver8.18,富山県上市町企画課,CC 0,https://toyama-pref.box.com/shared/static/endsdhfeo2xhkrx4pghgflixbj9zy35i.zip
 入善町　入善町営バス「のらんマイ・カー」,2022-06-20 17:44,20180801,20200331,2018v,富山県入善町,CC 0,https://www.town.nyuzen.toyama.jp/material/files/group/3/town_nyuzen_noran_gtfs.zip
 入善町　入善町営バス「のらんマイ・カー」（県サイト掲載版）,,20220401,20240331,2022v,富山県入善町,CC 0,https://toyama-pref.box.com/shared/static/5e0royc3l3tun4vpjie0qmqpfbztj08n.zip
+朝日町　あさひまちバス（県サイト掲載版）,,20220314,20230313,20220314_2022年03月14日（2022年03月14日【改正】あさひまちバス） その筋屋 1.552,朝日町役場　住民・子ども課,CC 0,https://toyama-pref.box.com/shared/static/etmkuksc9ynw52uhu4lr9bgfehxthea6.zip
 富山地鉄バス（富山地方鉄道）,,20220712,20230711,20220401_2022年04月01日（富山地鉄バス R4.4.1ダイヤ改正） その筋屋 1.486,富山地方鉄道株式会社,CC 0,https://toyama-pref.box.com/shared/static/96fo9k5gmz6qwlk8xfjz0bo8vl6mhta9.zip
-富山地鉄バス　富山港線フィーダーバス,2021-03-15 17:58,20210321,20220320,20210321_2021年03月21日（R3.3.21フィーダーのみ）,富山地方鉄道株式会社,CC 0,http://opendata.pref.toyama.jp/files/chitetsu_feeder_gtfs.zip
 富山地鉄市内電車,,20220601,20230315,20210721_2021年07月21日（令和3年3月21日改正 仮2） その筋屋 1.436,富山地方鉄道株式会社,CC 0,https://toyama-pref.box.com/shared/static/asr4jglw9sm038qq20h1pqxdg7eqk669.zip
 西日本ジェイアールバス　名金線,,20220401,20220630,20220401_gtfs-jp_v3,富山県交通政策局,CC 0,https://toyama-pref.box.com/shared/static/supauq0zy11t8iqtqamnbyhqm0l8ylqt.zip
 加越能バス　一般路線,,20220908,20230907,20220401_2022年04月01日（【作業用】加越能バスproj一般路線ひみ番屋街なし　くりから　法科大） その筋屋 1.595,加越能バス株式会社,CC 0,https://toyama-pref.box.com/shared/static/ufgq55b2oxb6i0b15r9ih9q82w3q3jj5.zip
@@ -262,9 +263,9 @@ JRバス関東（長野原支店）,2022-05-13 13:43,20220512,20250512,20220512_
 岡崎市コミュニティバス（額田地域コミュニティ交通）,2022-09-08 17:22,20220401,20230331,2022/04/01改正,岡崎市,CC BY 4.0,https://www.city.okazaki.lg.jp/1550/1553/208000/p015630_d/fil/232025_gtfs.zip
 刈谷市公共施設連絡バス かりまる,2021-08-01 00:04,20210801,20221231,2021/08/01改正,愛知県刈谷市,CC BY 4.0,https://www.rosenzu.com/~gtfs/kariya/kariya_GTFS.zip
 豊明市　ひまわりバス,2022-04-13 10:48,20220401,20220505,20220401,豊明市,CC BY 4.0,https://www.city.toyoake.lg.jp/secure/5217/toyoake.zip
-豊鉄バス,,20220901,20221211,20220901_20220909,豊鉄バス,CC BY 4.0,https://loc.bus-vision.jp/gtfs/toyotetsu/gtfsFeed
+豊鉄バス,,20220901,20221212,20220901_20220910,豊鉄バス,CC BY 4.0,https://loc.bus-vision.jp/gtfs/toyotetsu/gtfsFeed
 あま市巡回バス,2022-01-24 13:49,20220117,20230501,2.1,あま市,CC BY 4.0,https://www.city.ama.aichi.jp/_res/projects/default_project/_page_/001/002/512/ama_GTFS.zip
-東海市　らんらんバス(循環バス),2022-07-15 10:03,20220715,20230714,2021/02/01改正,東海市,CopyRight,http://www.city.tokai.aichi.jp/secure/47255/gtfs.zip
+東海市　らんらんバス(循環バス),2022-09-09 09:59,20220909,20230908,2021/02/01改正,東海市,CopyRight,http://www.city.tokai.aichi.jp/secure/47255/gtfs.zip
 ふれあいバス（大府市循環バス）,,,,,,CC BY 4.0,https://www.city.obu.aichi.jp/_res/projects/default_project/_page_/001/017/133/obu-gtfs-current-data.zip
 津ベルライン（津エアポートライン）,2022-08-13 12:50,20220716,20220930,2022年7月16日改正ダイヤ 9月まで,津エアポートライン株式会社,CC BY 4.0,https://www.rosenzu.com/~gtfs/tsuairportline/tsuairportline_GTFS.zip
 桑名市　K-バス,2021-08-11 00:59,20210810,20221231,2021/08/10改正,桑名市,CC BY 4.0,https://www.rosenzu.com/~gtfs/kuwana/kuwana_GTFS.zip
@@ -282,8 +283,10 @@ JRバス関東（長野原支店）,2022-05-13 13:43,20220512,20250512,20220512_
 熊野市　市街地周遊バス,2022-04-28 09:06,20220330,20231231,2021/04/01改正-見える化ver2.6d,熊野市,CC BY 4.0,https://www.rosenzu.com/~gtfs/kumano_shuyu/kumano_shuyu_GTFS.zip
 バスネット津　ぐるっと・つーバス,2022-03-09 09:50,20220206,20231231,2015/04/01改正-見える化ver2.6_0301ファイル更新,バスネット津,CC BY 4.0,https://www.rosenzu.com/~gtfs/busnettsu/busnettsu_GTFS.zip
 伊勢鉄道,2022-03-28 12:36,20220328,20230331,2021/03/13改正-見える化ver2.6,伊勢鉄道,CC BY 4.0,https://www.rosenzu.com/~gtfs/iserailway/iserailway_GTFS.zip
+生活バスよっかいち,2022-08-11 09:49,20220802,20231231,2022/07/01改正-見える化ver2.6d,生活バス四日市,CC BY 4.0,https://www.rosenzu.com/~gtfs/sbusyokkaichi/sbusyokkaichi_GTFS.zip
+川越町　ふれあいバス,2022-08-17 10:22,20220812,20230331,2022/08/01改正-見える化ver2.6d,川越町,CC BY 4.0,https://www.town.kawagoe.mie.jp/wp-content/themes/kawagoecho/images/fureai_bus_gtfs-jp.zip
 加古川市　かこバス（市サイト版）,2022-05-16 14:53,20211201,20221231,,加古川市,CC BY 4.0,https://opendata-api-kakogawa.jp/ckan/dataset/e6353d20-66e3-4d17-8cb4-dd91836d8195/resource/5773f858-07dc-4168-a2fc-0879ec273a84/download/_gtfs.zip
-和歌山バス,,20220723,20221211,20220723_20220909,和歌山バス,CC BY 4.0,http://loc.bus-vision.jp/gtfs/wakayama/gtfsFeed
+和歌山バス,,20220723,20221212,20220723_20220910,和歌山バス,CC BY 4.0,http://loc.bus-vision.jp/gtfs/wakayama/gtfsFeed
 明光バス,2022-09-08 02:15,20220906,20230905,2022/03/12改正-見える化ver2.6d,明光バス,CC BY 4.0,https://www.pref.wakayama.lg.jp/prefg/062500/kotsu/opendata_d/fil/GTFS_meiko.zip
 龍神自動車,2022-09-08 02:15,20220904,20230903,2022/04/01改正-見える化ver2.6d,龍神自動車,CC BY 4.0,https://www.pref.wakayama.lg.jp/prefg/062500/kotsu/opendata_d/fil/GTFS_ryujin.zip
 熊野御坊南海バス（旧・熊野交通）,2022-09-08 02:15,20220312,20230311,2022/03/12改正-見える化ver2.6,熊野御坊南海バス,CC BY 4.0,https://www.pref.wakayama.lg.jp/prefg/062500/kotsu/opendata_d/fil/GTFS_kumano.zip
@@ -303,9 +306,9 @@ JRバス関東（長野原支店）,2022-05-13 13:43,20220512,20250512,20220512_
 宇野バス（宇野自動車）,2022-08-15 07:20,20220815,20230814,20220701_2022年07月01日（22-07-24 本番） その筋屋 1.592,宇野自動車株式会社,CC 0,http://www3.unobus.co.jp/opendata/GTFS-JP.zip
 宇野バス（宇野自動車）（独自拡張版）,2022-08-15 07:21,20220815,20230814,20220701_2022年07月01日（22-07-24 本番） その筋屋 1.592,宇野自動車株式会社,CC 0,http://www3.unobus.co.jp/opendata/GTFS-JP-GYOUMU.zip
 下電バス（下津井電鉄）,2022-07-23 09:23,20220723,20230722,20220401_2022年04月01日（本番22-07-23 お盆追加） その筋屋 1.590,下津井電鉄株式会社,CC BY 4.0,http://shimoden.net/busmada/opendata/GTFS-JP.zip
-両備バス,,20220401,20221211,20220401_20220909,両備バス,CC BY 4.0,http://loc.bus-vision.jp/gtfs/ryobi/gtfsFeed
-岡電バス（岡山電気軌道）,,20220815,20221211,20220815_20220909,岡山電気軌道(バス),CC BY 4.0,http://loc.bus-vision.jp/gtfs/okaden/gtfsFeed
-中鉄バス,,20220815,20221211,20220815_20220909,中鉄バス株式会社,CC BY 4.0,http://loc.bus-vision.jp/gtfs/chutetsu/gtfsFeed
+両備バス,,20220401,20221212,20220401_20220910,両備バス,CC BY 4.0,http://loc.bus-vision.jp/gtfs/ryobi/gtfsFeed
+岡電バス（岡山電気軌道）,,20220815,20221212,20220815_20220910,岡山電気軌道(バス),CC BY 4.0,http://loc.bus-vision.jp/gtfs/okaden/gtfsFeed
+中鉄バス,,20220815,20221212,20220815_20220910,中鉄バス株式会社,CC BY 4.0,http://loc.bus-vision.jp/gtfs/chutetsu/gtfsFeed
 赤磐市広域路線バス・市民バス,2022-08-03 18:23,20220803,20230802,20220803_2022年08月03日（赤磐市民バス_和気線修正） その筋屋 1.590,赤磐市,CC 0,https://www.city.akaiwa.lg.jp/material/files/group/5/GTFS.zip
 江田島バス（広島県バス協会サイト掲載版）,,,,,株式会社タウンクリエーション,CC 0,https://gtfs-st.busit.jp/api/etajimabus
 芸陽バス（広島県バス協会サイト掲載版）,2022-07-08 09:55,20220706,20230706,20220707,芸陽バス,CC 0,https://ajt-mobusta-gtfs.mcapps.jp/static/11/current_data.zip
@@ -348,7 +351,7 @@ JRバス関東（長野原支店）,2022-05-13 13:43,20220512,20250512,20220512_
 西讃観光　高松空港リムジンバス,2022-06-01 01:41,20220601,20230531,2022/06/01改正-見える化ver2.6d,西讃観光,CC BY 4.0,https://www.rosenzu.com/~gtfs/seisankanko/seisankanko_GTFS.zip
 高松琴平電鉄（ことでん）,2021-12-09 17:09,20211127,20251231,ことでん電車_2021年11月27日改正_志度線ダイヤ改正,高松琴平電気鉄道株式会社,CC BY 4.0,https://www.kotoden.co.jp/publichtm/gtfs/gtfsdata/latest/gtfs_kd.zip
 ことでんバス,2022-07-01 17:11,20220701,20220930,ことでんバス_20220701-20220930,ことでんバス株式会社,CC BY 4.0,https://www.kotoden.co.jp/publichtm/gtfs/gtfsdata/latest/gtfs_kb.zip
-坂出市営バス,2022-09-09 04:00,20220401,20230331,20210401_2021年04月01日（改正　坂出市営バス） その筋屋 1.580,坂出市政策課公共交通係,CC BY 4.0,https://www.city.sakaide.lg.jp/uploaded/library/sakaide_city_bus.zip
+坂出市営バス,2022-09-10 04:00,20220401,20230331,20210401_2021年04月01日（改正　坂出市営バス） その筋屋 1.580,坂出市政策課公共交通係,CC BY 4.0,https://www.city.sakaide.lg.jp/uploaded/library/sakaide_city_bus.zip
 伊予市コミュニティバス「あいくる」,2021-11-30 11:00,20211022,20221021,20210226_2021年02月26日（伊予市） その筋屋 1.462,伊予市,利用制限なし明示,https://www.city.iyo.lg.jp/keizaikoyou/matidukuri/documents/gtfs.zip
 宿毛市　はなちゃんバス,,20220502,20230430,2022/05/02改正-見える化ver2.6(電話番号変更),宿毛市,CC BY 4.0,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Sukumo-Hanachan.zip
 宿毛市　沖の島循環バス（ゆるりんバス）,,20220701,20230630,2017/04/01改正-見える化ver2.6-電話番号更新,宿毛市,CC BY 4.0,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Sukumo-Yururin-Bus.zip
@@ -363,7 +366,8 @@ JRバス関東（長野原支店）,2022-05-13 13:43,20220512,20250512,20220512_
 中土佐町コミュニティバス,,20220101,20221231,2021/01/12改正-見える化ver2.6,中土佐町,CC BY 4.0,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Nakatosa-Town.zip
 南国市　NACOバス,,20211116,20220930,2021/10/01改正-見える化ver2.6(へんろ石移動a),南国市,CC BY 4.0,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Nankoku-City.zip
 安芸市　元気バス,,20220829,20221015,2022/08/29改正-見える化ver2.6,安芸市,CC BY 4.0,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Aki-Genkibus.zip
-田野町　	たのくるバス,,20221001,20231001,2022/10/01改正-見える化ver2.6d,田野町,CC BY 4.0,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Tano-Town.zip
+本山町　さくらバス,,20220401,20230331,2022/04/01改正-見える化ver2.6c,本山町,CC BY 4.0,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Motoyama-Town.zip
+田野町　たのくるバス,,20221001,20231001,2022/10/01改正-見える化ver2.6d,田野町,CC BY 4.0,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Tano-Town.zip
 高知西南交通　一般路線,,20220801,20230808,20220801_2022年08月01日（路線バス：大蔵移設） その筋屋 1.587,高知西南交通株式会社,CC BY 4.0,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Seinan-Localbus.zip
 高知西南交通　しまんとトロリーバス,,20220401,20230331,20220401_2022年04月01日（トロリーバス：R4年度） その筋屋 1.571,高知西南交通株式会社,CC BY 4.0,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Seinan-Trolleybus.zip
 高知西南交通　しまんと・あしずり号,,20220401,20230331,20220401_2022年04月01日（しまんと・あしずり号：R4年度） その筋屋 1.571,高知西南交通株式会社,CC BY 4.0,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Seinan-Shimaashi.zip
@@ -398,14 +402,14 @@ JR四国バス（高知支店）　大栃線,,20211001,20220930,20211001_2021年
 北九州市　おでかけ交通・八幡西区木屋瀬・楠橋・星ヶ丘地区,2019-12-23 10:26,20191023,20201022,20181201_2018年12月01日（第一観光バス）,第一観光株式会社,CC BY 2.1,https://ckan.open-governmentdata.org/dataset/e3689c3c-d7e4-40a8-9d21-89aa95311bb8/resource/6185c93d-76cd-4287-a306-428216f7a285/download/401005_odekakekotsugtfs_koyanosekusubashihoshigaoka.zip
 宮若市・飯塚市共同運行コミュニティバス,2021-04-20 09:35,20201001,20211130,20201001,飯塚市,CC BY 4.0,https://data.bodik.jp/dataset/341b6046-0030-4a78-a54d-87b1a1335563/resource/5627c6c0-533f-4d4a-926d-a60ec5c9d139/download/27miyawakaiizuka_gtfs-jp.zip
 苅田町コミュニティバス,2022-03-14 13:04,20210601,20230331,20210601,福岡県京都郡苅田町,CC BY 4.0,https://data.bodik.jp/dataset/6d93f594-6b28-417b-a1df-931e93690a78/resource/6a0eaa15-185b-4156-8b98-9b680a65ad93/download/current_gtfs.zip
-佐賀県内バス路線,2022-09-09 03:04,20220901,20230901,20220901-1-88-3-24-4-16-81-7-89-5,佐賀県,CC BY 4.0,http://opendata.sagabus.info/saga-current.zip
+佐賀県内バス路線,2022-09-10 03:04,20220901,20230901,20220901-1-88-3-24-4-16-81-7-89-5,佐賀県,CC BY 4.0,http://opendata.sagabus.info/saga-current.zip
 三池島原ライン,2022-02-16 18:02,,,,やまさ海運株式会社,CC BY 4.0,https://data.bodik.jp/dataset/2b03e4b2-83a1-4c53-b884-22c05e53da9a/resource/ea3aa42e-f03f-471b-850a-daa87c07e61b/download/miike-shimabara.zip
 軍艦島上陸周遊クルーズ,,,,,,CC BY 4.0,https://data.bodik.jp/dataset/c507ab86-fa09-4ee6-91cd-d0a865a31229/resource/54ebdbe4-63ae-4f04-b2a3-094f9a04aee0/download/gunkanjima.zip
 五島産業汽船 鯛ノ浦～長崎航路,2022-02-16 18:03,20190301,20200228,0.1,五島産業汽船株式会社,CC BY 4.0,https://data.bodik.jp/dataset/80da3e1f-5e26-4b85-a9f1-61fa560b91b1/resource/5acda669-d9be-4610-9df0-0d82a098b579/download/tainoura-nagasaki_gtfs.zip
-九州産交バス・産交バス,,20220909,20221211,20220909_20220909,九州産交バス,CC BY 4.0,http://km.bus-vision.jp/gtfs/sankobus/gtfsFeed
-熊本電鉄バス,,20220806,20221211,20220806_20220909,熊本電鉄バス,CC BY 4.0,http://km.bus-vision.jp/gtfs/dentetsu/gtfsFeed
-熊本バス,,20220829,20221211,20220829_20220909,熊本バス,CC BY 4.0,http://km.bus-vision.jp/gtfs/kumabus/gtfsFeed
-熊本都市バス,,20220725,20221211,20220725_20220909,熊本都市バス,CC BY 4.0,http://km.bus-vision.jp/gtfs/toshibus/gtfsFeed
+九州産交バス・産交バス,,20220910,20221212,20220910_20220910,九州産交バス,CC BY 4.0,http://km.bus-vision.jp/gtfs/sankobus/gtfsFeed
+熊本電鉄バス,,20220806,20221212,20220806_20220910,熊本電鉄バス,CC BY 4.0,http://km.bus-vision.jp/gtfs/dentetsu/gtfsFeed
+熊本バス,,20220829,20221212,20220829_20220910,熊本バス,CC BY 4.0,http://km.bus-vision.jp/gtfs/kumabus/gtfsFeed
+熊本都市バス,,20220725,20221212,20220725_20220910,熊本都市バス,CC BY 4.0,http://km.bus-vision.jp/gtfs/toshibus/gtfsFeed
 中津市コミュニティバス,2021-08-24 09:20,20210401,20230331,,中津市,CC BY 4.0,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/GTFS_Nakatsu_city.zip
 中津市コミュニティバス　中津地域　三保線,2021-08-24 09:20,20210401,20240331,,中津市,CC BY 4.0,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/M1_Miho.zip
 中津市コミュニティバス　中津地域　豊前・中津線,2021-08-24 09:20,20200401,20240331,,中津市,CC BY 4.0,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/B01_Buzen_Nakatsu.zip
