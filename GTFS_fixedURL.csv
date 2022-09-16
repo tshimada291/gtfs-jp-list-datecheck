@@ -247,6 +247,7 @@ f2101901,御嵩町　ふれあいバス,https://www.rosenzu.com/~gtfs/mitake/mit
 f2102001,美濃加茂市コミュニティバス「あい愛バス」,https://www.rosenzu.com/~gtfs/minokamo/minokamo_GTFS.zip,minokamo_GTFS,CC BY 4.0
 f2102101,土岐市　市民バス,https://www.rosenzu.com/~gtfs/toki/toki_GTFS.zip,toki_GTFS,CC BY 4.0
 f2102201,七宗町営バス,https://www.rosenzu.com/~gtfs/hichiso/hichiso_GTFS.zip,hichiso_GTFS,CC BY 4.0
+f2102301,瑞浪市コミュニティバス,https://www.rosenzu.com/~gtfs/mizunami/mizunami_GTFS.zip,mizunami_GTFS,CC BY 4.0
 f2300101,日進市巡回バス　くるりんばす（市サイト）,http://www.city.nisshin.lg.jp/material/files/group/108/kururin-gtfs.zip,kururin-gtfs,CC BY 4.0
 f2300102,日進市巡回バス　くるりんばす,https://www.rosenzu.com/~gtfs/nisshin/nisshin_GTFS.zip,nisshin_GTFS,CC BY 4.0
 f2300401,碧南市　くるくるバス,https://www.city.hekinan.lg.jp/material/files/group/3/GTFS.zip,GTFS_hekinan,CC BY 4.0
@@ -352,6 +353,7 @@ f3700101,西讃観光　高松空港リムジンバス,https://www.rosenzu.com/~
 f3700201,高松琴平電鉄（ことでん）,https://www.kotoden.co.jp/publichtm/gtfs/gtfsdata/latest/gtfs_kd.zip,gtfs_kd,CC BY 4.0
 f3700303,ことでんバス,https://www.kotoden.co.jp/publichtm/gtfs/gtfsdata/latest/gtfs_kb.zip,gtfs_kb,CC BY 4.0
 f3701101,坂出市営バス,https://www.city.sakaide.lg.jp/uploaded/library/sakaide_city_bus.zip,sakaide_city_bus,CC BY 4.0
+f3701203,小豆島オリーブバス（香川県サイト）,https://opendata.pref.kagawa.lg.jp/dataset/543/resource/7280/GTFS-JP.zip,GTFS-JP,CC BY 4.0
 f3800801,伊予市コミュニティバス「あいくる」,https://www.city.iyo.lg.jp/keizaikoyou/matidukuri/documents/gtfs.zip,iyoshi_gtfs,利用制限なし明示
 f3900101,宿毛市　はなちゃんバス,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Sukumo-Hanachan.zip,GTFSJP-Sukumo-Hanachan,CC BY 4.0
 f3900102,宿毛市　沖の島循環バス（ゆるりんバス）,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Sukumo-Yururin-Bus.zip,GTFSJP-Sukumo-Yururin-Bus,CC BY 4.0
