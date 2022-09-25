@@ -293,6 +293,26 @@ f3000301,龍神自動車,https://www.pref.wakayama.lg.jp/prefg/062500/kotsu/open
 f3000401,熊野御坊南海バス（旧・熊野交通）,https://www.pref.wakayama.lg.jp/prefg/062500/kotsu/opendata_d/fil/GTFS_kumano.zip,GTFS_kumano,CC BY 4.0
 f3000501,南海りんかんバス,https://www.pref.wakayama.lg.jp/prefg/062500/kotsu/opendata_d/fil/GTFS_rinkan.zip,GTFS_rinkan,CC BY 4.0
 f3000701,橋本市コミュニティバス・デマンドタクシー,http://www.city.hashimoto.lg.jp/material/files/group/67/hashimoto_gtfsjp.zip,hashimoto_gtfsjp,CC BY 2.1
+f3100102,米子市循環バス(だんだんバス),https://odp-pref-tottori.tori-info.co.jp/bus_data/29.zip,29,CC BY 2.1
+f3100103,米子市淀江町循環バス(どんぐりコロコロ),https://odp-pref-tottori.tori-info.co.jp/bus_data/20.zip,20,CC BY 2.1
+f3100202,岩美町営バス,https://odp-pref-tottori.tori-info.co.jp/bus_data/4.zip,4,CC BY 2.1
+f3100301,日本交通（鳥取地区）,https://odp-pref-tottori.tori-info.co.jp/bus_data/2.zip,2,CC BY 2.1
+f3100302,日本交通（倉吉地区）,https://odp-pref-tottori.tori-info.co.jp/bus_data/12.zip,12,CC BY 2.1
+f3100303,日本交通（米子地区）,https://odp-pref-tottori.tori-info.co.jp/bus_data/13.zip,13,CC BY 2.1
+f3100401,日ノ丸バス（日ノ丸自動車）（鳥取地区）,https://odp-pref-tottori.tori-info.co.jp/bus_data/1.zip,1,CC BY 2.1
+f3100402,日ノ丸バス（日ノ丸自動車）（倉吉地区）,https://odp-pref-tottori.tori-info.co.jp/bus_data/10.zip,10,CC BY 2.1
+f3100403,日ノ丸バス（日ノ丸自動車）（米子地区）,https://odp-pref-tottori.tori-info.co.jp/bus_data/11.zip,11,CC BY 2.1
+f3100501,日本交通・日の丸バス　鳥取砂丘線・ループ麒麟獅子,https://odp-pref-tottori.tori-info.co.jp/bus_data/9_1.zip,9_1,CC BY 2.1
+f3100601,鳥取市　循環バス(くる梨),https://odp-pref-tottori.tori-info.co.jp/bus_data/9_2.zip,9_2,CC BY 2.1
+f3100602,鳥取市　気高循環線,https://odp-pref-tottori.tori-info.co.jp/bus_data/21.zip,21,CC BY 2.1
+f3100701,若桜町営バス(おにっこバス),https://odp-pref-tottori.tori-info.co.jp/bus_data/24.zip,24,CC BY 2.1
+f3100801,智頭町営バス(すぎっ子バス),https://odp-pref-tottori.tori-info.co.jp/bus_data/5.zip,5,CC BY 2.1
+f3100901,八頭町営バス(やずバス),https://odp-pref-tottori.tori-info.co.jp/bus_data/23.zip,23,CC BY 2.1
+f3101001,琴浦町営バス(ことうらバス),https://odp-pref-tottori.tori-info.co.jp/bus_data/63.zip,63,CC BY 2.1
+f3101101,境港市　循環バス(はまるーぷバス),https://odp-pref-tottori.tori-info.co.jp/bus_data/18.zip,18,CC BY 2.1
+f3101201,日南町　巡回バス(たったもバス),https://odp-pref-tottori.tori-info.co.jp/bus_data/14.zip,14,CC BY 2.1
+f3101301,日野町営バス,https://odp-pref-tottori.tori-info.co.jp/bus_data/22.zip,22,CC BY 2.1
+f3101401,江府町営バス,https://odp-pref-tottori.tori-info.co.jp/bus_data/16.zip,16,CC BY 2.1
 f3200101,松江市コミュニティバス　美保関コミュニティバス,http://www.docodemo-bus.net/opendata/mihonoseki.zip,mihonoseki,CC BY 4.0
 f3200102,松江市コミュニティバス　忌部コミュニティバス,http://www.docodemo-bus.net/opendata/inbe.zip,inbe,CC BY 4.0
 f3200103,松江市コミュニティバス　玉湯コミュニティバス,http://www.docodemo-bus.net/opendata/tamayu.zip,tamayu,CC BY 4.0
@@ -405,6 +425,7 @@ f4000707,北九州市　おでかけ交通・八幡西区木屋瀬・楠橋・�
 f4001202,宮若市・飯塚市共同運行コミュニティバス,https://data.bodik.jp/dataset/341b6046-0030-4a78-a54d-87b1a1335563/resource/5627c6c0-533f-4d4a-926d-a60ec5c9d139/download/27miyawakaiizuka_gtfs-jp.zip,27miyawakaiizuka_gtfs-jp,CC BY 4.0
 f4002201,苅田町コミュニティバス,https://data.bodik.jp/dataset/6d93f594-6b28-417b-a1df-931e93690a78/resource/6a0eaa15-185b-4156-8b98-9b680a65ad93/download/current_gtfs.zip,current_gtfs,CC BY 4.0
 f4100001,佐賀県内バス路線,http://opendata.sagabus.info/saga-current.zip,saga-current,CC BY 4.0
+f4100002,佐賀県内バス路線,http://opendata.sagabus.info/saga-current.zip,saga-current,CC BY 4.0
 f4200101,三池島原ライン,https://data.bodik.jp/dataset/2b03e4b2-83a1-4c53-b884-22c05e53da9a/resource/ea3aa42e-f03f-471b-850a-daa87c07e61b/download/miike-shimabara.zip,miike-shimabara,CC BY 4.0
 f4200201,軍艦島上陸周遊クルーズ,https://data.bodik.jp/dataset/c507ab86-fa09-4ee6-91cd-d0a865a31229/resource/54ebdbe4-63ae-4f04-b2a3-094f9a04aee0/download/gunkanjima.zip,gunkanjima,CC BY 4.0
 f4200401,五島産業汽船 鯛ノ浦～長崎航路,https://data.bodik.jp/dataset/80da3e1f-5e26-4b85-a9f1-61fa560b91b1/resource/5acda669-d9be-4610-9df0-0d82a098b579/download/tainoura-nagasaki_gtfs.zip,tainoura-nagasaki_gtfs,CC BY 4.0
