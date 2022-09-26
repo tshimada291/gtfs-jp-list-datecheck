@@ -167,6 +167,7 @@ f1200201,京成トランジットバス,http://www.transitbus.co.jp/web/archive/
 f1202801,我孫子市　あびバス（新木ルート、栄・泉・並木ルート、船戸・台田ルート、布施ルート）,https://www.city.abiko.chiba.jp/shisei/opendata/GTFS-JP.files/gtfs_Abibus_other_root.zip,gtfs_Abibus_other_root,CC BY 4.0
 f1202802,我孫子市　あびバス（根戸ルート）,https://www.city.abiko.chiba.jp/shisei/opendata/GTFS-JP.files/gtfs_Abibus_nedo_root.zip,gtfs_Abibus_nedo_root,CC BY 4.0
 f1202803,我孫子市　アイバス,https://www.city.abiko.chiba.jp/shisei/opendata/GTFS-JP.files/gtfs_Aibus.zip,gtfs_Aibus,CC BY 4.0
+f1300101,[ODPT]　東京都交通局　都営バス,https://api-public.odpt.org/api/v4/files/Toei/data/ToeiBus-GTFS.zip,ToeiBus-GTFS,CC BY 4.0
 f1301701,渋谷区コミュニティバス「ハチ公バス」,https://www.city.shibuya.tokyo.jp/assets/mng/131130_gtfs-jp_hachiko_bus.zip,131130_gtfs-jp_hachiko_bus,CC BY 4.0
 f1400602,横須賀市　ハマちゃんバス,https://www.city.yokosuka.kanagawa.jp/0830/opendata/documents/gtfs.zip,yokosuka_gtfs,CC BY 4.0
 f1501101,ときライナー　新潟交通,https://loc.bus-vision.jp/gtfs_v2/niigatakotsu/gtfsFeed,niigatakotsu,CC BY 4.0
