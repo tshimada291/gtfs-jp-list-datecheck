@@ -43,7 +43,6 @@ f0103501,(HODaP) 道北バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b4
 f0103601,［HODaP］ 北紋バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/226fe0ae-79af-4971-b15f-332770cdc9c1/download/hokumon_bus.zip,hokumon_bus,CC BY 4.0
 f0103701,［HODaP］ 宗谷バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/04e3efd7-29fd-4295-ab8d-d27933f94bbc/download/soya_bus.zip,soya_bus,CC BY 4.0
 f0103801,［HODaP］ 北見市コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/d4ecb0d3-4b28-4fff-897f-f56979e9b5c9/download/kitamishi_com.zip,kitamishi_com,CC BY 4.0
-f0103901,［HODaP］ 蘭越町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/595f0db5-9e55-43a5-8b85-74c3edcd7da7/download/rankoshicho_com.zip,rankoshicho_com,CC BY 4.0
 f0103902,（HODaP) 蘭越町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/595f0db5-9e55-43a5-8b85-74c3edcd7da7/download/rankoshicho_com.zip,rankoshicho_com,CC BY 4.0
 f0104001,［HODaP］ 岩内町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/a3be17ab-40ab-4b7d-9051-03562baf2ed4/download/iwanaicho_com.zip,iwanaicho_com,CC BY 4.0
 f0104101,［HODaP］ 白老町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/120a024f-c2b5-4183-aa90-802398e010fd/download/shiraoicho_com.zip,shiraoicho_com,CC BY 4.0
@@ -57,7 +56,6 @@ f0104801,［HODaP］ 幕別町コミュニティ,https://ckan.hoda.jp/dataset/24
 f0104901,［HODaP］ 音更町コミュニティ,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/2d430e06-7e0b-4ef7-86f3-64ccb709d270/download/otofukecho_com.zip,otofukecho_com,CC BY 4.0
 f0105001,［HODaP］ ひがし北海道エクスプレスバス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/4215a2dd-3491-4005-bf66-10fda633d1af/download/easthokkaido_expressbus.zip,easthokkaido_expressbus,CC BY 4.0
 f0105107,［HODaP］ 高速バス（北海道内）,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/ccfd2358-c804-4cfe-b4fe-278c3f035c64/download/hokkaido-express_bus.zip,hokkaido-express_bus,CC BY 4.0
-f0105301,［HODaP］ ニセコバス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/c46f9cd8-4c92-42eb-89a5-26e3fabb1dce/download/niseko_bus.zip,niseko_bus,CC BY 4.0
 f0105302,(HODaP) ニセコバス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/c46f9cd8-4c92-42eb-89a5-26e3fabb1dce/download/niseko_bus.zip,niseko_bus,CC BY 4.0
 f0105401,［HODaP］ おびうん観光,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/edc6b615-7308-4bd0-bfe4-6b3a510f9fc0/download/obiun-kanko.zip,obiun-kanko,CC BY 4.0
 f0105801,［HODaP］ 空知交通,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/9a28fbf9-69fe-4a5c-8d26-b12fc2440074/download/sorachi_kotsu.zip,sorachi_kotsu,CC BY 4.0
@@ -440,7 +438,7 @@ f3901604,高知西南交通　四万十川バス,https://www.pref.kochi.lg.jp/op
 f3901605,高知西南交通　高速バス（しまんとブルーライナー、しまんとエクスプレス）,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Seinan-Expressbus.zip,GTFSJP-Seinan-Expressbus,CC BY 4.0
 f3901701,須崎市営バス,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Susaki-Bus.zip,GTFSJP-Susaki-Bus,CC BY 4.0
 f3901702,須崎市営巡航船,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Susaki-Ferry.zip,GTFSJP-Susaki-Ferry,CC BY 4.0
-f3901802,"とさでん交通	　空港連絡バス",https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFS-Tosaden-Traffic_Airportbus.zip,GTFS-Tosaden-Traffic_Airportbus,CC BY 4.0
+f3901802,とさでん交通	空港連絡バス,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFS-Tosaden-Traffic_Airportbus.zip,GTFS-Tosaden-Traffic_Airportbus,CC BY 4.0
 f3901903,高知高陵交通,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Koryo-Traffic_Localbus.zip,GTFSJP-Koryo-Traffic_Localbus,CC BY 4.0
 f3902001,黒岩観光バス,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Kuroiwa-Localbus.zip,GTFSJP-Kuroiwa-Localbus,CC BY 4.0
 f3902101,嶺北観光自動車,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Reihoku-Kanko_Localbus.zip,GTFSJP-Reihoku-Kanko_Localbus,CC BY 4.0
