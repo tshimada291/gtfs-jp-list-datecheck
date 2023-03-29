@@ -65,7 +65,7 @@ if __name__ == '__main__':
     
     with open('GTFS_fixedURL_LastModified.csv', 'w', newline='', encoding='utf-8') as wf:
       writer = csv.writer(wf)
-      writer.writerow(['label', 'Last-Modified-JST', 'feed_start_date', 'feed_end_date', 'feed_version', 'feed_publisher_name', 'license_name', 'url'])
+      writer.writerow(['label', 'Ver','Last-Modified-JST', 'feed_start_date', 'feed_end_date', 'feed_version', 'feed_publisher_name', 'license_name', 'url'])
       
       for row in listline:
         url = row['fixed_current_url']
@@ -74,6 +74,7 @@ if __name__ == '__main__':
         # print(result[0], result[1])
         
         label = row['label']
+        version = row['Management']
         license = row['license_name']
         if result[0] is not None:
           stmp = result[0]
@@ -87,7 +88,7 @@ if __name__ == '__main__':
           start = ''
           end = ''
           ver = ''
-        writer.writerow([label, stmp, start, end, ver, fpname, license, url])
+        writer.writerow([label, version, stmp, start, end, ver, fpname, license, url])
         time.sleep(1)
   
   print("Finished.")
