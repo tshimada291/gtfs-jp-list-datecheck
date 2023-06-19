@@ -71,7 +71,7 @@ if __name__ == '__main__':
         url = row['fixed_current_url']
         print(url)
         result = checkURL(url)
-        # print(result[0], result[1])
+        print(result[0], result[1])
         
         label = row['label']
         version = row['Management']
