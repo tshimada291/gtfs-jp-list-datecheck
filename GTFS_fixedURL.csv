@@ -720,7 +720,7 @@ f3300201,33,下電バス（下津井電鉄）,2,http://shimoden.net/busmada/open
 f3300301,33,両備バス,1,https://loc.bus-vision.jp/gtfs/ryobi/gtfsFeed,CC BY 4.0
 f3300401,33,岡電バス（岡山電気軌道）,1,https://loc.bus-vision.jp/gtfs/okaden/gtfsFeed,CC BY 4.0
 f3300501,33,中鉄バス,1,https://loc.bus-vision.jp/gtfs/chutetsu/gtfsFeed,CC BY 4.0
-f3300601,33,赤磐市広域路線バス・市民バス,1,https://www.city.akaiwa.lg.jp/material/files/group/5/GTFS.zip,CC 0
+f3300601,33,赤磐市広域路線バス・市民バス,1,https://www.city.akaiwa.lg.jp/material/files/group/5/GTFS-JP.zip,CC 0
 f3300803,33,早島町コミュニティバス,1,https://api.gtfs-data.jp/v2/organizations/hayashimatown/feeds/hayashimatowncommunitybus/files/feed.zip,CC BY 4.0
 f3300803,33,早島町コミュニティバス,2,https://api.gtfs-data.jp/v2/organizations/hayashimatown/feeds/hayashimatowncommunitybus/files/feed.zip?rid=next,CC BY 4.0
 f3301402,33,津山市　市営阿波バス,1,https://api.gtfs-data.jp/v2/organizations/tsuyamacity/feeds/bus-tsuyamacity-okayama-jp/files/feed.zip,CC BY 4.0
