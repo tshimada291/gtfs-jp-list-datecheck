@@ -716,7 +716,6 @@ f3300103,33,[ODPT]　宇野バス（宇野自動車）,1,https://api-public.odpt
 f3300103,33,[ODPT]　宇野バス（宇野自動車）,2,https://api-public.odpt.org/api/v4/files/odpt/UnoBus/AllLines.zip?date=next,CC 0
 f3300103,33,[ODPT]　宇野バス（宇野自動車）,3,https://api-public.odpt.org/api/v4/files/odpt/UnoBus/AllLines.zip?date=latest,CC 0
 f3300201,33,下電バス（下津井電鉄）,1,http://shimoden.net/busmada/opendata/GTFS-JP.zip,CC BY 4.0
-f3300201,33,下電バス（下津井電鉄）,1,http://shimoden.net/busmada/opendata/GTFS-JP.zip,CC BY 4.0
 f3300201,33,下電バス（下津井電鉄）,2,http://shimoden.net/busmada/opendata/next/GTFS-JP.zip,CC BY 4.0
 f3300301,33,両備バス,1,https://loc.bus-vision.jp/gtfs/ryobi/gtfsFeed,CC BY 4.0
 f3300401,33,岡電バス（岡山電気軌道）,1,https://loc.bus-vision.jp/gtfs/okaden/gtfsFeed,CC BY 4.0
@@ -740,7 +739,6 @@ f3400102,34,江田島バス（広島県バス協会サイト掲載版）,1,https
 f3400202,34,芸陽バス（広島県バス協会サイト掲載版）,1,https://ajt-mobusta-gtfs.mcapps.jp/static/11/current_data.zip,CC 0
 f3400202,34,芸陽バス（広島県バス協会サイト掲載版）,2,https://ajt-mobusta-gtfs.mcapps.jp/static/11/latest.zip,CC 0
 f3400203,34,芸陽バス（サイネージ用）,1,http://www.geiyo.co.jp/Unyu/gtfs/GTFS-JPgeiyobus.zip,CC BY 4.0
-f3400203,34,芸陽バス（サイネージ用）,1,http://www.geiyo.co.jp/Unyu/gtfs/GTFS-Jpgeiyobus.zip,CC BY 4.0
 f3400901,34,広電バス（広島電鉄）,1,https://ajt-mobusta-gtfs.mcapps.jp/static/8/current_data.zip,CC 0
 f3400901,34,広電バス（広島電鉄）,2,https://ajt-mobusta-gtfs.mcapps.jp/static/8/latest.zip,CC 0
 f3401001,34,広島バス,1,https://ajt-mobusta-gtfs.mcapps.jp/static/9/current_data.zip,CC 0
@@ -748,7 +746,7 @@ f3401001,34,広島バス,2,https://ajt-mobusta-gtfs.mcapps.jp/static/9/latest.zi
 f3401101,34,広島交通・広交観光,1,https://ajt-mobusta-gtfs.mcapps.jp/static/10/current_data.zip,CC 0
 f3401101,34,広島交通・広交観光,2,https://ajt-mobusta-gtfs.mcapps.jp/static/10/latest.zip,CC 0
 f3401201,34,備北交通,1,https://ajt-mobusta-gtfs.mcapps.jp/static/12/current_data.zip,CC 0
-f3401201,34,備北交通,2,https://ajt-mobusta-gtfs.mcapps.jp/static/12/current_data.zip,CC 0
+f3401201,34,備北交通,2,https://ajt-mobusta-gtfs.mcapps.jp/static/12/latest.zip,CC 0
 f3401301,34,中国ジェイアールバス,1,https://ajt-mobusta-gtfs.mcapps.jp/static/15/current_data.zip,CC 0
 f3401301,34,中国ジェイアールバス,2,https://ajt-mobusta-gtfs.mcapps.jp/static/15/latest.zip,CC 0
 f3401401,34,ボン・バス（エイチ・ディー西広島）,1,https://ajt-mobusta-gtfs.mcapps.jp/static/13/current_data.zip,CC 0
@@ -907,10 +905,10 @@ f4100001,41,佐賀県内バス路線,2,http://opendata.sagabus.info/saga-2023-07
 f4200101,42,三池島原ライン,1,https://data.bodik.jp/dataset/2b03e4b2-83a1-4c53-b884-22c05e53da9a/resource/ea3aa42e-f03f-471b-850a-daa87c07e61b/download/miike-shimabara.zip,CC BY 4.0
 f4200201,42,軍艦島上陸周遊クルーズ,1,https://data.bodik.jp/dataset/c507ab86-fa09-4ee6-91cd-d0a865a31229/resource/54ebdbe4-63ae-4f04-b2a3-094f9a04aee0/download/gunkanjima.zip,CC BY 4.0
 f4200401,42,五島産業汽船 鯛ノ浦～長崎航路,1,https://data.bodik.jp/dataset/80da3e1f-5e26-4b85-a9f1-61fa560b91b1/resource/5acda669-d9be-4610-9df0-0d82a098b579/download/tainoura-nagasaki_gtfs.zip,CC BY 4.0
-f4300101,43,九州産交バス・産交バス,1,http://km.bus-vision.jp/gtfs/sankobus/gtfsFeed,CC BY 4.0
-f4300201,43,熊本電鉄バス,1,http://km.bus-vision.jp/gtfs/dentetsu/gtfsFeed,CC BY 4.0
-f4300301,43,熊本バス,1,http://km.bus-vision.jp/gtfs/kumabus/gtfsFeed,CC BY 4.0
-f4300401,43,熊本都市バス,1,http://km.bus-vision.jp/gtfs/toshibus/gtfsFeed,CC BY 4.0
+f4300101,43,九州産交バス・産交バス,1,https://km.bus-vision.jp/gtfs/sankobus/gtfsFeed,CC BY 4.0
+f4300201,43,熊本電鉄バス,1,https://km.bus-vision.jp/gtfs/dentetsu/gtfsFeed,CC BY 4.0
+f4300301,43,熊本バス,1,https://km.bus-vision.jp/gtfs/kumabus/gtfsFeed,CC BY 4.0
+f4300401,43,熊本都市バス,1,https://km.bus-vision.jp/gtfs/toshibus/gtfsFeed,CC BY 4.0
 f4300902,43,[gtfs-data] 熊本市電,1,https://api.gtfs-data.jp/v2/organizations/kumamoto-shiden/feeds/kumamotoshiden/files/feed.zip,CC BY 2.1
 f4300902,43,[gtfs-data] 熊本市電,2,https://api.gtfs-data.jp/v2/organizations/kumamoto-shiden/feeds/kumamotoshiden/files/feed.zip?rid=next,CC BY 2.1
 f4400100,44,中津市コミュニティバス,1,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/GTFS_Nakatsu_city.zip,CC BY 4.0
