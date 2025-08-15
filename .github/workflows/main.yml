@@ -5,7 +5,7 @@ name: GTFS DATECHECK
 # Controls when the workflow will run
 on:
   schedule:
-    - cron: '20 19 * * *'
+    - cron: '35 19 * * *'
   # Triggers the workflow on push or pull request events but only for the main branch
   #push:
   #  branches: [ main ]
