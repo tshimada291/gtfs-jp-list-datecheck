@@ -4,7 +4,6 @@ f0100201,01,北海道拓殖バス　一般路線、コミュニティバス（�
 f0100201,01,北海道拓殖バス　一般路線、コミュニティバス（音更町・新得町・清水町）,1,https://www.takubus.com/app/download/10941479479/GTFS_regular_line.zip,CC BY 4.0
 f0100202,01,北海道拓殖バス 都市間高速バス・帯広空港連絡バス,1,https://www.takubus.com/app/download/11135470279/GTFS_highway_line.zip,CC BY 4.0
 f0100202,01,北海道拓殖バス 都市間高速バス・帯広空港連絡バス,1,https://www.takubus.com/app/download/11238066179/GTFS_highway_line20230601.zip?t=1685428757,CC BY 4.0
-f0100203,01,(HODaP) 北海道拓殖バス,1,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/3870b272-dabb-4527-9d51-67afc2c9a2d5/download/gtfs_takushoku_bus.zip,CC BY 4.0
 f0100403,01,(HODaP) 網走バス,1,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/c84abf64-f7ba-4d22-8cc1-acac7adbdc6f/download/abashiri_bus.zip,CC BY 4.0
 f0100405,01,網走バス,1,https://www.abashiribus.com/open_data/gtfs_abashiribus_current_data.zip,CC BY 4.0
 f0100405,01,網走バス,2,https://www.abashiribus.com/open_data/gtfs_abashiribus_latest.zip,CC BY 4.0
@@ -1013,5 +1012,6 @@ f4704701,47,東京バス（沖縄営業所）,1,https://api3.ottop.org/download/
 f4704801,47,神谷観光　フェリーくがに・高速船ニューくがに,1,https://api3.ottop.org/download/gtfs/ooXuXei4op7y/6360002013009,CC BY 4.0
 f4704901,47,うるま市公共施設間連絡バス（実証運行）,1,https://api3.ottop.org/download/gtfs/ooXuXei4op7y/5000020472131,CC BY 4.0
 f4705001,47,名護市コミュニティバス,1,https://api3.ottop.org/download/gtfs/ooXuXei4op7y/1000020472093,CC BY 4.0
+
 
 
