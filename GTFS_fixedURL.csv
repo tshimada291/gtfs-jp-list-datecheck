@@ -11,7 +11,6 @@ f0100403,01,(HODaP) 網走バス,1,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d
 f0100405,01,網走バス,1,https://www.abashiribus.com/open_data/gtfs_abashiribus_current_data.zip,CC BY 4.0
 f0100405,01,網走バス,2,https://www.abashiribus.com/open_data/gtfs_abashiribus_latest.zip,CC BY 4.0
 f0100601,01,北海道北見バス,1,https://drive.google.com/uc?export=view&id=13MQ00Oq6pJgHpB2jz5nG1iay0fEyXpAj,CC BY 4.0
-f0100603,01,(HODaP) 北海道北見バス,1,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/ae0e85ab-b317-4acd-b982-2ceda019309f/download/kitami_bus-1.zip,CC BY 4.0
 f0100701,01,阿寒バス　一般路線,1,http://www.akanbus.co.jp/gtfs/GTFS-JP-akanbus.zip,CC BY 4.0
 f0100702,01,(HODaP) 阿寒バス,1,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/e3bb6e27-d2bb-4925-a42c-adb5f49bb924/download/akan_bus.zip,CC BY 4.0
 f0100801,01,函館市電,1,https://www.city.hakodate.hokkaido.jp/docs/2020052700015/files/GTFS-JP.zip,CC BY 2.1
@@ -1014,3 +1013,4 @@ f4704701,47,東京バス（沖縄営業所）,1,https://api3.ottop.org/download/
 f4704801,47,神谷観光　フェリーくがに・高速船ニューくがに,1,https://api3.ottop.org/download/gtfs/ooXuXei4op7y/6360002013009,CC BY 4.0
 f4704901,47,うるま市公共施設間連絡バス（実証運行）,1,https://api3.ottop.org/download/gtfs/ooXuXei4op7y/5000020472131,CC BY 4.0
 f4705001,47,名護市コミュニティバス,1,https://api3.ottop.org/download/gtfs/ooXuXei4op7y/1000020472093,CC BY 4.0
+
