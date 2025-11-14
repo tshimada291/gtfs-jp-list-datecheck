@@ -268,7 +268,15 @@ f1003102,10,下仁田町　しもにたバス,1,https://www.town.shimonita.lg.jp
 f1003201,10,[ODPT]　上信観光バス,1,https://api-public.odpt.org/api/v4/files/odpt/JoshinKankoBus/AllLines.zip?date=current,CC BY 4.0
 f1003201,10,[ODPT]　上信観光バス,2,https://api-public.odpt.org/api/v4/files/odpt/JoshinKankoBus/AllLines.zip?date=next,CC BY 4.0
 f1003201,10,[ODPT]　上信観光バス,3,https://api-public.odpt.org/api/v4/files/odpt/JoshinKankoBus/AllLines.zip?date=latest,CC BY 4.0
-f1102401,11,杉戸町町内巡回バス「あいあい号」,1,https://opendata.pref.saitama.lg.jp/data/dataset/ae39c95f-917a-4f60-80ef-6341c0783092/resource/6fbd7a95-2759-4ee3-8d2a-e1e2b55f4002/download/sugitogtfs.zip,CC BY 4.0
+f1102401,11,杉戸町町内巡回バス「あいあい号」,1,https://opendata.pref.saitama.lg.jp/resource_download/3750,CC BY 4.0
+f1102501,11,熊谷市ゆうゆうバス,1,https://opendata.pref.saitama.lg.jp/resource_download/3194,CC BY 4.0
+f1102601,11,本庄市はにぽんシャトル,1,https://opendata.pref.saitama.lg.jp/resource_download/1684,CC BY 4.0
+f1102701,11,和光市内循環バス,1,https://opendata.pref.saitama.lg.jp/resource_download/5210,CC BY 4.0
+f1102801,11,秩父市営バス（浦山線、川又線）,1,https://opendata.pref.saitama.lg.jp/resource_download/1499,CC BY 4.0
+f1102901,11,川越市内循環バス「川越シャトル」,1,https://opendata.pref.saitama.lg.jp/resource_download/91,CC BY 4.0
+f1103001,11,さいたま市見沼区大砂土東地区乗合タクシー「みぬま号」,1,https://opendata.pref.saitama.lg.jp/resource_download/6357,CC BY 4.0
+f1103101,11,ふじみ野市内循環バス「ふじみん号」,1,http://cms2nd.nec.asp.lgwan.jp/material/local/1177/files/group/5/112453_basujoho.zip,CC BY 4.0
+f1103201,11,春日部市コミュニティバス,1,https://opendata.pref.saitama.lg.jp/resource_download/6515,CC BY 4.0
 f1200203,12,[gtfs-data]　京成トランジットバス,1,https://api.gtfs-data.jp/v2/organizations/keisei-transitbus/feeds/keiseitransitbus/files/feed.zip,CC BY 4.0
 f1200203,12,[gtfs-data]　京成トランジットバス,2,https://api.gtfs-data.jp/v2/organizations/keisei-transitbus/feeds/keiseitransitbus/files/feed.zip?rid=next,CC BY 4.0
 f1200204,12,[ODPT]　京成トランジットバス,1,https://api-public.odpt.org/api/v4/files/odpt/KeiseiTransitBus/AllLines.zip?date=current,CC BY 4.0
@@ -478,13 +486,14 @@ f1601802,16,[gtfs-data] 万葉線,1,https://api.gtfs-data.jp/v2/organizations/ma
 f1601802,16,[gtfs-data] 万葉線,2,https://api.gtfs-data.jp/v2/organizations/manyosen/feeds/manyosen/files/feed.zip?rid=next,CC 0
 f1700101,17,能美市　のみバス,1,https://www.city.nomi.ishikawa.jp/www/contents/1683514558086/simple/GTFS_nomi_20230401.zip,CC BY 4.0
 f1700201,17,野々市市　のっティ・のんキー,1,https://www.city.nonoichi.lg.jp/img/opendata/notty_current.zip,CC BY 4.0
-f1700401,17,志賀町コミュニティバス（しかばす）,1,https://www.town.shika.lg.jp/data/open/cnt/3/4031/1/gtfs_data.zip,CC BY 4.0
+f1700401,17,志賀町コミュニティバス（しかばす）,1,https://ckan.opendata.pref.ishikawa.lg.jp/dataset/65de3540-4781-4329-bc8f-634870e5a69c/resource/cfb1baaa-4808-408b-ab09-2f3a0a08aacb/download,CC BY 4.0
 f1700601,17,羽咋市　市内循環バス「るんるんバス」,1,https://www.city.hakui.lg.jp/material/files/group/2/GTFS20230401.zip,CC BY 4.0
 f1701402,17,金沢ふらっとバス,1,https://catalog-data.city.kanazawa.ishikawa.jp/dataset/1196beb4-f9f9-463c-9723-5b38d8127425/resource/191bd7bd-8e97-4919-b3ad-a87757993a79/download/20230401.zip,CC BY 2.1
 f1701601,17,白山市コミュニティバス「めぐーる」,1,https://www.city.hakusan.lg.jp/_res/projects/default_project/_page_/001/003/950/bus-hakusancity-ishikawa-jp.zip,CC BY 4.0
 f1701602,17,[gtfs-data] 白山市コミュニティバス「めぐーる」,1,https://api.gtfs-data.jp/v2/organizations/hakusancity/feeds/hakusan_bus_meguru/files/feed.zip,CC BY 4.0
 f1701602,17,[gtfs-data] 白山市コミュニティバス「めぐーる」,2,https://api.gtfs-data.jp/v2/organizations/hakusancity/feeds/hakusan_bus_meguru/files/feed.zip?rid=next,CC BY 4.0
-f1701702,17,中日本ツアーバス,1,https://loc.bus-vision.jp/gtfs_v2/cjt-bus/gtfsFeed,CC BY 4.0
+f1701701,17,中日本ツアーバス,1,https://loc.bus-vision.jp/gtfs_v2/cjt-bus/gtfsFeed,CC BY 4.0
+f1701801,17,津幡町営バス,1,https://ckan.opendata.pref.ishikawa.lg.jp/dataset/26e2ba58-a46f-4f53-8350-8588ad8aacf1/resource/8f63902b-c8f7-40e3-b5b7-0fe3d12f5950/download,CC BY 4.0
 f1800102,18,鯖江市　つつじバス,1,https://www.pref.fukui.lg.jp/doc/dx-suishin/opendata/gtfs_jp_d/fil/gtfs_sabae.zip,CC BY 4.0
 f1800201,18,福井市　海岸地域バス,1,https://www.pref.fukui.lg.jp/doc/dx-suishin/opendata/gtfs_jp_d/fil/kaigan_bus.zip,CC BY 4.0
 f1800202,18,福井市　清水地域バス,1,https://www.pref.fukui.lg.jp/doc/dx-suishin/opendata/gtfs_jp_d/fil/simizu_bus.zip,CC BY 4.0
@@ -638,6 +647,16 @@ f2402408,24,三重交通（南紀営業所）,1,https://bus-vision.jp/gtfs_v2/na
 f2400303,24,伊勢市コミュニティバス（おかげバス）,1,https://bus-vision.jp/gtfs_v2/iseshi/gtfsFeed,CC BY 4.0
 f2402601,24,菰野町かもしか号,1,https://bus-vision.jp/gtfs_v2/komono/gtfsFeed,CC BY 4.0
 f2500801,25,日野町営バス（県ポータル）,1,https://data.bodik.jp/dataset/e3f3ad12-171c-442b-95b5-896f4b50e5a7/resource/e431dddb-dc3a-4699-b570-9d77043306fa/download/gtfs.zip,CC BY 4.0
+f2500901,25,東近江市コミュニティバス（県ポータル）,1,https://data.bodik.jp/dataset/e3f3ad12-171c-442b-95b5-896f4b50e5a7/resource/faf0ff1b-fcba-4bd2-91bc-c6937db08c3c/download,CC BY 4.0
+f2501001,25,高島市コミュニティバス（県ポータル）,1,https://data.bodik.jp/dataset/e3f3ad12-171c-442b-95b5-896f4b50e5a7/resource/36f2f369-a1e9-4e90-a22e-ee75caec11e2/download,CC BY 4.0
+f2501101,25,草津市まめバス（県ポータル）,1,https://data.bodik.jp/dataset/e3f3ad12-171c-442b-95b5-896f4b50e5a7/resource/e4ea2950-0943-4591-93d7-2dbaf78fc9dc/download,CC BY 4.0
+f2501201,25,草津守山栗東くるっとバス（県ポータル）,1,https://data.bodik.jp/dataset/e3f3ad12-171c-442b-95b5-896f4b50e5a7/resource/60630fde-20f8-4426-ac53-6a865d0ddf54/download,CC BY 4.0
+f2501301,25,野洲市コミュニティバスおのりやす（県ポータル）,1,https://data.bodik.jp/dataset/e3f3ad12-171c-442b-95b5-896f4b50e5a7/resource/be6ed01b-16e3-4ad8-ad6c-0aec0a8a686a/download,CC BY 4.0
+f2501401,25,栗東市コミュニティバスクリちゃん（県ポータル）,1,https://data.bodik.jp/dataset/e3f3ad12-171c-442b-95b5-896f4b50e5a7/resource/4b30b3c0-034d-4184-8d8e-2c4f8a1a8975/download,CC BY 4.0
+f2501501,25,湖南市コミュニティバスめぐるくん（県ポータル）,1,https://data.bodik.jp/dataset/e3f3ad12-171c-442b-95b5-896f4b50e5a7/resource/5e2804f1-aa74-4f3d-a877-daa365429f08/download,CC BY 4.0
+f2501601,25,長浜市西浅井おでかけワゴン（県ポータル）,1,https://data.bodik.jp/dataset/e3f3ad12-171c-442b-95b5-896f4b50e5a7/resource/b54a0fa2-b064-4c59-b2a3-766c0c51f5b7/download,CC BY 4.0
+f2501701,25,甲賀市コミュニティバス（県ポータル）,1,https://data.bodik.jp/dataset/e3f3ad12-171c-442b-95b5-896f4b50e5a7/resource/1748c826-cdb3-4e42-af85-6b8781a4aaff/download,CC BY 4.0
+f2501801,25,近江八幡市あかこんバス（県ポータル）,1,https://data.bodik.jp/dataset/e3f3ad12-171c-442b-95b5-896f4b50e5a7/resource/cbc115a2-2798-47f3-9033-383bce7dce2d/download,CC BY 4.0
 f2800101,28,加古川市　かこバス・かこバスミニ（市サイト版）,1,https://opendata-api-kakogawa.jp/ckan/dataset/e6353d20-66e3-4d17-8cb4-dd91836d8195/resource/5773f858-07dc-4168-a2fc-0879ec273a84/download/gtfs.zip,CC BY 4.0
 f2800103,28,[gtfs-data] 加古川市　かこバス・かこバスミニ,1,https://api.gtfs-data.jp/v2/organizations/kakogawacity/feeds/kakobuskakobusmini/files/feed.zip,CC BY 2.1
 f2800103,28,[gtfs-data] 加古川市　かこバス・かこバスミニ,2,https://api.gtfs-data.jp/v2/organizations/kakogawacity/feeds/kakobuskakobusmini/files/feed.zip?rid=next,CC BY 2.1
