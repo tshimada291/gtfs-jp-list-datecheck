@@ -581,6 +581,7 @@ f2202301,22,磐田市生活路線バス（浜松バス 掛塚磐田駅線）,1,h
 f2300101,23,日進市巡回バス　くるりんばす（市サイト）,1,http://www.city.nisshin.lg.jp/material/files/group/108/kururin-gtfs.zip,CC BY 4.0
 f2300103,23,日進市巡回バス　くるりんばす,1,https://api.gtfs-data.jp/v2/organizations/nisshincity/feeds/communitybus/files/feed.zip,CC BY 4.0
 f2300103,23,日進市巡回バス　くるりんばす,2,https://api.gtfs-data.jp/v2/organizations/nisshincity/feeds/communitybus/files/feed.zip?rid=next,CC BY 4.0
+f2300202,23,豊橋市「地域生活」バス（コミュニティバス）,1,https://loc.bus-vision.jp/gtfs_v2/toyohashishi/gtfsFeed,CC BY 4.0
 f2300401,23,碧南市　くるくるバス,1,https://www.city.hekinan.lg.jp/material/files/group/3/GTFS.zip,CC BY 4.0
 f2300603,23,豊田市　とよたおいでんバス,1,https://api.gtfs-data.jp/v2/organizations/toyotacity/feeds/kikanbus/files/feed.zip,CC BY 4.0
 f2300603,23,豊田市　とよたおいでんバス,2,https://api.gtfs-data.jp/v2/organizations/toyotacity/feeds/kikanbus/files/feed.zip?rid=next,CC BY 4.0
@@ -607,6 +608,7 @@ f2301802,23,豊山町　とよやまタウンバス,2,https://api.gtfs-data.jp/v
 f2301901,23,岡崎市コミュニティバス（額田地域コミュニティ交通）,1,https://www.city.okazaki.lg.jp/1550/1553/208000/p015630_d/fil/232025_gtfs.zip,CC BY 4.0
 f2302101,23,豊明市　ひまわりバス,1,https://www.city.toyoake.lg.jp/secure/5217/toyoake.zip,CC BY 4.0
 f2302202,23,豊鉄バス,1,https://loc.bus-vision.jp/gtfs/toyotetsu/gtfsFeed,CC BY 4.0
+f2302203,23,豊橋鉄道　渥美線・市内線,1,https://loc.bus-vision.jp/gtfs_v2/toyohashitetsudo/gtfsFeed,CC BY 4.0
 f2302702,23,知立市　ミニバス,1,https://www.city.chiryu.aichi.jp/ikkrwebBrowse/material/files/group/4/gtfs_data.zip,CC BY 2.1
 f2303602,23,あま市巡回バス,1,https://www.city.ama.aichi.jp/_res/projects/default_project/_page_/001/002/512/ama_GTFS.zip,CC BY 4.0
 f2304401,23,東海市　らんらんバス(循環バス),1,http://www.city.tokai.aichi.jp/secure/47255/gtfs.zip,(オープンデータとして公開)
