@@ -99,6 +99,9 @@ f0301801,03,西和賀町 町民バス,1,https://mc.bus-vision.jp/gtfs/nishiwaga/
 f0401101,04,仙台市　宮城野区燕沢地区「のりあい・つばめ」,1,http://www.city.sendai.jp/kokyo/documents/gtfstubame.zip,CC BY 2.1
 f0401201,04,仙台市営バス,1,https://www.city.sendai.jp/joho-kikaku/shise/security/kokai/documents/gtfs-jp_sendaicitybus_current_data.zip,CC BY 2.1
 f0401202,04,仙台市営バス,1,https://www.city.sendai.jp/joho-kikaku/shise/security/kokai/documents/gtfs-jp_sendaicitybus_current_date.zip,CC BY 2.1
+f0401203,04,[ODPT]　仙台市営バス（2026.3.2～）,1,https://api-public.odpt.org/api/v4/files/odpt/SendaiMunicipal/bus.zip?date=current,CC BY 4.0
+f0401203,04,[ODPT]　仙台市営バス（2026.3.2～）,2,https://api-public.odpt.org/api/v4/files/odpt/SendaiMunicipal/bus.zip?date=next,CC BY 4.0
+f0401203,04,[ODPT]　仙台市営バス（2026.3.2～）,3,https://api-public.odpt.org/api/v4/files/odpt/SendaiMunicipal/bus.zip?date=latest,CC BY 4.0
 f0401301,04,タケヤ交通　路線定期バス,1,http://www.takeyakoutu.jp/assets/gtfs-hokan-takeyakotsu.zip,CC BY 4.0
 f0401401,04,石巻市　住民バス・市民バス,1,https://miyagi.dataeye.jp/resource_download/340,CC BY 4.0
 f0401501,04,[ODPT]　七ヶ浜町民バス「ぐるりんこ」,1,https://api-public.odpt.org/api/v4/files/odpt/ShichigahamaTown/All_Gururinko.zip?date=current,CC BY 4.0
