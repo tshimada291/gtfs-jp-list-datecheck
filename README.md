@@ -3,7 +3,7 @@ GTFS/GTFS-JP固定URLデータ　日付チェック
 
 日本国内で公開されているGTFS / GTFS-JP データのうち、固定URLで公開されている静的データの更新日と feed_info.txt の内容をチェックします。
 * 毎朝1回、リスト（GTFS_fixedURL.csv）に登録されているURLを自動でチェックし、結果を GTFS_fixedURL_LastModified.csv に出力します。
-  * 2025.3 現在、毎朝 5:30～6:00 ごろに内容確定
+  * 2026.7 現在、毎朝 6:00～6:30 ごろに内容確定
 * URLで指定されているデータのファイル情報を取得し、Last-Modified（最終更新日）プロパティに記載されている日付を csv に出力します。
   * 取得日時はJST（日本標準時）に変換してあります。（2022/1/24更新分より）
   * 以下の場合は日付欄が空欄となっています。
@@ -16,7 +16,8 @@ GTFS/GTFS-JP固定URLデータ　日付チェック
 * サーバへの問い合わせ時に応答がなくタイムアウトとなった場合は、当該データの情報が取得できないため空欄となります。
 
 ## URL
-https://tshimada291.github.io/gtfs-jp-list-datecheck/GTFS_fixedURL_LastModified.csv
+* データ：　https://tshimada291.github.io/gtfs-jp-list-datecheck/GTFS_fixedURL_LastModified.csv
+* ダッシュボード：　https://tshimada291.github.io/gtfs-jp-list-datecheck/dashboard.html
 
 ## License
 [cc0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)（プログラム、生成データともに）
@@ -26,6 +27,7 @@ https://tshimada291.github.io/gtfs-jp-list-datecheck/GTFS_fixedURL_LastModified.
 * 2021.12.13　チェック開始時間変更（JST 9:00 → 4:00）
 * 2022.01.24　JST対応
 * 2022.03.18　feed_infoチェック機能追加
+* 2026.07.29　ダッシュボード追加
 
 ## References
 * [GitHub ActionsでPythonスクリプトを実行する（Helve Tech Blog）](https://helve-blog.com/posts/git/github-actions-python/)
