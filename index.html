@@ -1,0 +1,744 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>GTFS更新監視ダッシュボード</title>
+
+<style>
+body{
+    font-family:"Yu Gothic","Meiryo",sans-serif;
+    margin:20px;
+    background:#fafafa;
+}
+
+h1{
+    margin-bottom:5px;
+}
+
+.csv-info{
+    margin:10px 0;
+    padding:10px;
+    background:#f0f7ff;
+    border-left:5px solid #1976d2;
+}
+
+.summary{
+    margin:10px 0;
+    padding:10px;
+    background:white;
+    border:1px solid #ddd;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    background:white;
+}
+
+th,td{
+    border:1px solid #ccc;
+    padding:8px;
+    vertical-align:top;
+}
+
+th{
+    background:#f5f5f5;
+}
+
+.changed{
+    color:#d50000;
+    font-weight:bold;
+}
+
+.badge{
+    display:inline-block;
+    color:white;
+    font-weight:bold;
+    border-radius:4px;
+    padding:4px 8px;
+}
+
+.badge-critical{
+    background:#b71c1c;
+    color:white;
+}
+.badge-good{
+    background:#43a047;
+    color:white;
+}
+.badge-check{
+    background:#ff9800;
+    color:white;
+}
+.badge-error{
+    background:#6a1b9a;
+    color:white;
+}
+.badge-recovery{
+    background:#00897b;
+    color:white;
+}
+
+.download-btn{
+    background:#1976d2;
+    color:white;
+    border:none;
+    padding:8px 16px;
+    cursor:pointer;
+    border-radius:4px;
+}
+
+.downloaded{
+    background:#43a047;
+}
+
+.small{
+    font-size:12px;
+    color:#666;
+}
+
+.change-item{
+    margin-bottom:8px;
+}
+
+.filter-box{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.toolbar{
+    margin-bottom:10px;
+}
+
+.sortable{
+    cursor:pointer;
+    user-select:none;
+}
+
+.sortable:hover{
+    background:#87cefa;
+}
+
+</style>
+</head>
+<body>
+
+<h1>GTFS更新監視ダッシュボード</h1>
+
+<div id="csvUpdated" class="csv-info">
+CSV更新日時：取得中...
+</div>
+
+<div class="toolbar">
+
+<select id="compareDays">
+    <option value="1">1日前（昨日）との差分</option>
+    <option value="2">2日前との差分</option>
+    <option value="3">3日前との差分</option>
+    <option value="4">4日前との差分</option>
+    <option value="5">5日前との差分</option>
+    <option value="6">6日前との差分</option>
+    <option value="7">7日前（1週間前）との差分</option>
+    <option value="14">14日前（2週間前）との差分</option>
+    <option value="30">30日前（1か月前）との差分</option>
+</select>
+<button onclick="loadData()">取得</button>
+
+</div>
+
+<div class="filter-box">
+
+<label>
+<input type="checkbox" id="showCritical" checked>
+GTFS更新の可能性大
+</label>
+
+<label>
+<input type="checkbox" id="showGood" checked>
+通常更新
+</label>
+
+<label>
+<input type="checkbox" id="showCheck" checked>
+要確認
+</label>
+
+<label>
+<input type="checkbox" id="showWarning" checked>
+通信エラー
+</label>
+
+</div>
+
+<div id="summary" class="summary">
+読込中...
+</div>
+
+<table>
+
+<thead>
+<tr>
+<th id="sortNo" class="sortable">No.</th>
+<th id="sortName" class="sortable">データ名</th>
+<th id="sortType" class="sortable">更新種別</th>
+<th>変更内容</th>
+<th>ダウンロード</th>
+</tr>
+</thead>
+
+<tbody id="tbody">
+</tbody>
+
+</table>
+
+<script>
+
+const OWNER = "tshimada291";
+const REPO = "gtfs-jp-list-datecheck";
+const CSV_FILE = "GTFS_fixedURL_LastModified.csv";
+
+let currentSort = "no";
+let sortAsc = true;
+
+const feedInfoColumns = [
+
+    "feed_start_date",
+    "feed_end_date",
+    "feed_version",
+
+    "feed_publisher_name",
+    "feed_publisher_url",
+
+    "feed_lang",
+    "default_lang",
+
+    "feed_contact_email",
+    "feed_contact_url",
+
+    "license_name",
+    "license_url"
+
+];
+
+///// コミット情報取得（日時基準）
+async function getCommitInfo(days){
+
+    const commits =
+        await fetch(
+            `https://api.github.com/repos/`
+            + `${OWNER}/${REPO}/commits`
+            + `?path=${CSV_FILE}&per_page=100`
+        ).then(r=>r.json());
+
+    const targetDate = new Date();
+
+    targetDate.setDate(targetDate.getDate() - days);
+
+    let oldCommit = commits[commits.length - 1];
+
+    for(const commit of commits){
+        const commitDate = new Date(commit.commit.author.date);
+
+        if(commitDate <= targetDate){
+            oldCommit = commit;
+            break;
+        }
+    }
+
+    return {
+        latest: commits[0].sha,
+        old: oldCommit.sha
+    };
+}
+
+/////リスト更新日時取得
+async function getCsvUpdatedTime(){
+
+    const api = `https://api.github.com/repos/${OWNER}/${REPO}/commits?path=${CSV_FILE}&per_page=1`;
+
+    const data = await fetch(api).then(r=>r.json());
+
+    if(data.length){
+        const dt = new Date(data[0].commit.author.date);
+
+        document.getElementById("csvUpdated")
+            .innerHTML =
+             `<a href="https://tshimada291.github.io/gtfs-jp-list-datecheck/GTFS_fixedURL_LastModified.csv">GTFS_fixedURL_LastModified.csv</a> 更新日時 :  `
+            + dt.toLocaleString("ja-JP");
+    }
+}
+
+/////リストファイル取得
+async function getCSV(sha){
+    const url = `https://raw.githubusercontent.com/${OWNER}/${REPO}/${sha}/${CSV_FILE}`;
+    const text = await fetch(url).then(r=>r.text());
+    const rows = parseCSV(text);
+
+    return rows;
+}
+
+/////リストファイル解析
+function parseCSV(text){
+
+    const lines = text.trim().split(/\r?\n/);
+    const headers = splitCsv(lines[0]);
+    const rows = [];
+
+    for(let i=1;i<lines.length;i++){
+        const cols = splitCsv(lines[i]);
+        const row = {};
+
+        headers.forEach((h,index)=>{
+            row[h] = cols[index] || "";
+        });
+
+        row.originalNo = i;
+        rows.push(row);
+    }
+
+    return rows;
+}
+
+function splitCsv(line){
+
+    let current="";
+    let inQuote=false;
+
+    const result=[];
+
+    for(let c of line){
+        if(c === '"'){
+            inQuote=!inQuote;
+        }
+        else if(c===',' && !inQuote){
+            result.push(current);
+            current="";
+        }
+        else{
+            current += c;
+        }
+    }
+
+    result.push(current);
+
+    return result;
+}
+
+///// 通信エラー判定関数
+function isCommunicationError(row){
+    return (
+        !(row["Last-Modified-JST"] || "").trim()
+        &&
+        !(row.feed_start_date || "").trim()
+        &&
+        !(row.feed_end_date || "").trim()
+        &&
+        !(row.feed_version || "").trim()
+    );
+}
+
+function becameCommunicationError(oldRow,newRow){
+    return (
+        !isCommunicationError(oldRow)
+        &&
+        isCommunicationError(newRow)
+    );
+}
+
+function recoveredFromError(oldRow,newRow){
+    return (
+        isCommunicationError(oldRow)
+        &&
+        !isCommunicationError(newRow)
+    );
+}
+
+
+///// 直近更新判定
+function isRecentUpdate(newRow,compareDays){
+    // 1日前比較 → 2日以内
+    // 2日前比較 → 3日以内 など
+    const thresholdDays = compareDays + 1;
+
+    const now = new Date();
+    const limitDate = new Date(now.getTime() - thresholdDays * 24 * 60 * 60 * 1000);
+
+    // feed_start_date
+    const startDate = (newRow.feed_start_date || "").trim();
+
+    if(/^\d{8}$/.test(startDate)){
+        const feedStartDate =
+            new Date(
+                Number(startDate.substring(0,4)),
+                Number(startDate.substring(4,6))-1,
+                Number(startDate.substring(6,8))
+            );
+
+        if(feedStartDate >= limitDate){
+            return true;
+        }
+    }
+
+    // Last-Modified-JST
+    const lm = (newRow["Last-Modified-JST"] || "").trim();
+
+    if(lm){
+        const lmDate = new Date(lm.replace(" ","T"));
+
+        if(!isNaN(lmDate) && lmDate >= limitDate){
+            return true;
+        }
+    }
+    return false;
+}
+
+///// 更新種別
+function classifyUpdate(oldRow,newRow){
+
+    if(becameCommunicationError(oldRow,newRow)){
+        return {
+            type:"通信エラー",
+            badge:"badge-error",
+            priority:1,
+            level:"warning"
+        };
+    }
+
+    if(recoveredFromError(oldRow,newRow)){
+        if((newRow.feed_start_date || "") && isRecentUpdate(newRow,compareDays)){
+            return {
+                type:"★★★★★ GTFS更新の可能性大（通信復旧）",
+                badge:"badge-critical",
+                priority:9,
+                level:"critical"
+            };
+        }
+
+        return {
+            type:"通信復旧",
+            badge:"badge-recovery",
+            priority:4,
+            level:"good"
+        };
+    }
+
+    // feed_start_date変更
+    if((oldRow.feed_start_date || "") !== (newRow.feed_start_date || "")){
+        return {
+            type:"★★★★★ GTFS更新の可能性大",
+            badge:"badge-critical",
+            priority:10,
+            level:"critical"
+        };
+    }
+
+    // feed_version変更
+    if((oldRow.feed_version || "") !== (newRow.feed_version || "")){
+        return {
+            type:"★★★★ feed_version更新",
+            badge:"badge-good",
+            priority:8,
+            level:"good"
+        };
+    }
+
+    // feed_end_date変更
+    if((oldRow.feed_end_date || "") !== (newRow.feed_end_date || "")){
+        return {
+            type:"★★★ feed_end_date更新",
+            badge:"badge-feed-end",
+            priority:7,
+            level:"good"
+        };
+    }
+
+    // feed_infoその他変更
+    const feedChanged = feedInfoColumns.some(col => (oldRow[col] || "") !== (newRow[col] || ""));
+
+    if(feedChanged){
+        return {
+            type:"★★ feed_info更新",
+            badge:"badge-feed-info",
+            priority:6,
+            level:"good"
+        };
+    }
+
+    // Last-Modifiedのみ
+    if((oldRow["Last-Modified-JST"] || "") !== (newRow["Last-Modified-JST"] || "")){
+        return {
+            type:"★ 要確認（Last-Modifiedのみ更新）",
+            badge:"badge-check",
+            priority:5,
+            level:"check"
+        };
+    }
+
+    return null;
+}
+
+function getChanges(oldRow,newRow){
+    const changes=[];
+
+    Object.keys(newRow).forEach(key=>{
+        const before = oldRow[key] || "";
+        const after = newRow[key] || "";
+
+        if(before !== after){
+            changes.push({
+                field: key,
+                before: before,
+                after: after
+            });
+        }
+    });
+
+    return changes;
+}
+
+function badgeClass(priority){
+    return "priority-" + priority;
+}
+
+function buildDiff(changes){
+    let html="";
+
+    changes.forEach(c=>{
+        html += `
+        <div class="change-item">
+        <b>${c.field}</b><br>
+        ${c.before}
+        →
+        <span class="changed">${c.after}</span>
+        </div>
+        `;
+    });
+
+    return html;
+}
+
+///// ソート用
+function sortUpdates(updates){
+    //console.log("SORT",currentSort,sortAsc);
+    updates.sort((a,b)=>{
+        let av;
+        let bv;
+
+        switch(currentSort){
+            case "name":
+                av = a.newRow.label || "";
+                bv = b.newRow.label || "";
+                break;
+
+            case "type":
+                av = a.update.priority || 0;
+                bv = b.update.priority || 0;
+                break;
+
+            case "no":
+            case "priority":
+            default:
+                av = a.newRow.originalNo;
+                bv = b.newRow.originalNo;
+        }
+
+        if(av < bv)
+            return sortAsc ? -1 : 1;
+
+        if(av > bv)
+            return sortAsc ? 1 : -1;
+
+        return 0;
+    });
+    
+
+    return updates;
+}
+
+function updateSortHeader(){
+    const noHeader = document.getElementById("sortNo");
+    const nameHeader = document.getElementById("sortName");
+    const typeHeader = document.getElementById("sortType");
+
+    noHeader.textContent = "No";
+    nameHeader.textContent = "データ名";
+    typeHeader.textContent = "更新種別";
+
+    let mark = sortAsc ? " ▲" : " ▼";
+
+    switch(currentSort){
+        case "no":
+            noHeader.textContent += mark;
+            break;
+
+        case "name":
+            nameHeader.textContent += mark;
+            break;
+
+        case "type":
+            typeHeader.textContent += mark;
+            break;
+    }
+}
+
+///// ファイルDLボタン用
+function downloadFile(url){
+
+    localStorage.setItem("gtfs_" + url, new Date().toLocaleString("ja-JP"));
+
+    const a = document.createElement("a");
+
+    a.href=url;
+    a.target="_blank";
+
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+
+    loadData();
+}
+
+///// main
+async function loadData(){
+
+    await getCsvUpdatedTime();
+
+    const days = Number(document.getElementById("compareDays").value);
+    const commitInfo = await getCommitInfo(days);
+    const oldRows = await getCSV(commitInfo.old);
+    const newRows = await getCSV(commitInfo.latest);
+    const oldMap = {};
+
+    oldRows.forEach(r=>{
+        const key = r.url || r.URL;
+
+        if(key){
+            oldMap[key]=r;
+        }
+    });
+
+    const updates=[];
+
+    newRows.forEach(newRow=>{
+        const url = newRow.url || newRow.URL;
+        const oldRow = oldMap[url];
+        const update = classifyUpdate(oldRow,newRow);
+
+        if(!update) return;
+
+        updates.push({
+            oldRow,
+            newRow,
+            url,
+            update,
+            changes:getChanges(oldRow,newRow)
+        });
+    });
+
+
+    sortUpdates(updates);
+    //updates.sort((a,b) => b.update.priority - a.update.priority);
+
+    let critical=0;
+    let good=0;
+    let check=0;
+    let warning=0;
+
+    const tbody = document.getElementById("tbody");
+
+    tbody.innerHTML="";
+
+    updates.forEach((item,index)=>{
+        const level = item.update.level;
+
+        if(level==="critical") critical++;
+        if(level==="good")     good++;
+        if(level==="check")    check++;
+        if(level==="warning")  warning++;
+
+        if(level==="critical" && !showCritical.checked)
+          return;
+
+        if(level==="good" && !showGood.checked)
+          return;
+
+        if(level==="check" && !showCheck.checked)
+          return;
+
+        if(level==="warning" && !showWarning.checked)
+          return;
+
+        const dlTime   = localStorage.getItem("gtfs_" + item.url);
+        const btnClass = dlTime ? "download-btn downloaded" : "download-btn";
+        const btnText  = dlTime ? "再DL" : "DL";
+        const tr   = document.createElement("tr");
+        const name = item.newRow["データ名"] || item.newRow["name"] || item.newRow["label"] || item.url;
+
+        tr.innerHTML=`
+        <td>${item.newRow.originalNo}</td>
+
+        <td><b>${name}</b></td>
+
+        <td><span class="badge ${item.update.badge}">${item.update.type}</span></td>
+
+        <td>${buildDiff(item.changes)}</td>
+
+        <td><button class="${btnClass}" onclick="downloadFile('${item.url}')">${btnText}</button>
+
+        <div class="small">${dlTime?"前回DL: "+dlTime:""}</div>
+        </td>
+        `;
+
+        tbody.appendChild(tr);
+    });
+
+    document.getElementById("summary").innerHTML =
+
+    `
+    <b>更新件数: ${updates.length}</b><br>
+    <ul>
+    <li>GTFS更新の可能性大 : ${critical} 件</li>
+    <li>更新(feed_version/feed_info等) : ${good} 件</li>
+    <li>要確認(Last-Modifiedのみ更新) : ${check} 件</li>
+    <li>通信エラー : ${warning} 件</li>
+    `;
+
+    updateSortHeader();
+}
+
+loadData();
+
+document.getElementById("sortNo").addEventListener("click",()=>{
+    if(currentSort === "no"){
+        sortAsc =! sortAsc;
+    }else{
+        currentSort = "no";
+        sortAsc = true;
+    }
+    loadData();
+});
+
+document.getElementById("sortName").addEventListener("click",()=>{
+    if(currentSort === "name"){
+        sortAsc =! sortAsc;
+    }else{
+        currentSort = "name";
+        sortAsc = true;
+    }
+    loadData();
+});
+
+document.getElementById("sortType").addEventListener("click",()=>{
+    if(currentSort === "type"){
+        sortAsc =! sortAsc;
+    }else{
+        currentSort = "type";
+        sortAsc = true;
+    }
+    loadData();
+});
+
+</script>
+
+</body>
+</html>
