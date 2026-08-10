@@ -772,7 +772,7 @@ f3300202,33,[ODPT]　下津井電鉄株式会社（路線バス GTFS-RUライセ
 f3300202,33,[ODPT]　下津井電鉄株式会社（路線バス GTFS-RUライセンス版）,3,https://api-public.odpt.org/api/v4/files/odpt/Shimoden/Shimoden_GTFS_Static.zip?date=latest,GTFS Responsible Use License (GTFS-RU)
 f3300301,33,両備バス,1,https://loc.bus-vision.jp/gtfs/ryobi/gtfsFeed,CC BY 4.0
 f3300401,33,岡電バス（岡山電気軌道）,1,https://loc.bus-vision.jp/gtfs/okaden/gtfsFeed,CC BY 4.0
-f3300501,33,中鉄バス,1,https://loc.bus-vision.jp/gtfs/chutetsu/gtfsFeed,CC BY 4.0
+f3300501,33,中鉄バス,1,https://loc.bus-vision.jp/gtfs_v2/chutetsu/gtfsFeed,CC BY 4.0
 f3302301,33,岡山電気軌道（路面電車）,1,https://okdweb.jcld.jp/gtfs/gtfs.zip,CC BY 4.0
 f3302401,33,岡山市支線バス FLAt（八晃運輸）,1,https://loc.bus-vision.jp/gtfs_v2/hakkou/gtfsFeed,CC BY 4.0
 f3300601,33,赤磐市広域路線バス・市民バス,1,https://www.city.akaiwa.lg.jp/material/files/group/5/GTFS-JP.zip,CC 0
