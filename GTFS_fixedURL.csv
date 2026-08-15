@@ -523,12 +523,12 @@ f1800701,18,若狭町　町営バス,1,https://www.pref.fukui.lg.jp/doc/dx-suish
 f1800801,18,あわら市北部周遊バス「あわらぐるっとバス」,1,https://www.pref.fukui.lg.jp/doc/dx-suishin/opendata/gtfs_jp_d/fil/awara_bus.zip,CC BY 4.0
 f1800902,18,敦賀市コミュニティバス,1,https://www.pref.fukui.lg.jp/doc/dx-suishin/opendata/gtfs_jp_d/fil/tsuruga_bus.zip,CC BY 4.0
 f1801001,18,永平寺町コミュニティバス,1,https://www.pref.fukui.lg.jp/doc/dx-suishin/opendata/gtfs_jp_d/fil/eiheiji_bus.zip,CC BY 4.0
-f1801102,18,越前町コミュニティバス　フレンドリー号,1,https://www.pref.fukui.lg.jp/doc/dx-suishin/opendata/gtfs_jp_d/fil/gtfs_fukui_ikedacho_com.zip,CC BY 4.0
+f1801102,18,越前町コミュニティバス　フレンドリー号,1,https://www.pref.fukui.lg.jp/doc/dx-suishin/opendata/gtfs_jp_d/fil/gtfs_echizenchou_com.zip,CC BY 4.0
 f1801302,18,勝山市コミュニティバス,1,https://www.pref.fukui.lg.jp/doc/dx-suishin/opendata/gtfs_jp_d/fil/gtfs_katsuyamashi.zip,CC BY 4.0
 f1801402,18,小浜市　あいあいバス,1,https://www.pref.fukui.lg.jp/doc/dx-suishin/opendata/gtfs_jp_d/fil/gtfs_obamashi.zip,CC BY 4.0
 f1801402,18,池田町コミュニティバス,1,https://www.pref.fukui.lg.jp/doc/dx-suishin/opendata/gtfs_jp_d/fil/gtfs_fukui_ikedacho_com.zip,CC BY 4.0
 f1801601,18,京福バス,1,https://www.pref.fukui.lg.jp/doc/dx-suishin/opendata/gtfs_jp_d/fil/keifuku_bus.zip,CC BY 4.0
-f1801701,18,大和交通　乗合バス「流星」,1,https://www.pref.fukui.lg.jp/doc/dx-suishin/opendata/gtfs_jp_d/fil/yamato_kotsu.zip,CC BY 4.0
+f1801701,18,大和交通（daiwa kotsu）乗合バス「流星」,1,https://www.pref.fukui.lg.jp/doc/dx-suishin/opendata/gtfs_jp_d/fil/yamato_kotsu.zip,CC BY 4.0
 f1801801,18,福鉄バス（福井鉄道）,1,https://www.pref.fukui.lg.jp/doc/dx-suishin/opendata/gtfs_jp_d/fil/gtfs_fukutetu.zip,CC BY 4.0
 f1801602,18,[ODPT]　京福バス,1,https://api-public.odpt.org/api/v4/files/odpt/KeifukuBus/keifuku_rosen.zip?date=current,CC BY 4.0
 f1801602,18,[ODPT]　京福バス,2,https://api-public.odpt.org/api/v4/files/odpt/KeifukuBus/keifuku_rosen.zip?date=next,CC BY 4.0
