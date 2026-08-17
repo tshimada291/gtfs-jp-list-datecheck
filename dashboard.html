@@ -78,6 +78,10 @@ th{
     background:#00897b;
     color:white;
 }
+.badge-url-change{
+    background:#1565c0;
+    color:white;
+}
 
 .download-btn{
     background:#1976d2;
@@ -166,6 +170,11 @@ GTFS更新の可能性大
 <label>
 <input type="checkbox" id="showWarning" checked>
 通信エラー
+</label>
+<label>
+
+<input type="checkbox" id="showInfo" checked>
+データURL修正・変更（内容確認推奨）
 </label>
 
 </div>
@@ -326,6 +335,10 @@ function splitCsv(line){
 
 ///// 通信エラー判定関数
 function isCommunicationError(row){
+    if(!row){
+        return false;
+    }
+
     return (
         !(row["Last-Modified-JST"] || "").trim()
         &&
@@ -338,6 +351,7 @@ function isCommunicationError(row){
 }
 
 function becameCommunicationError(oldRow,newRow){
+    //console.log(oldRow, newRow);
     return (
         !isCommunicationError(oldRow)
         &&
@@ -353,7 +367,20 @@ function recoveredFromError(oldRow,newRow){
     );
 }
 
+///// URL変更検出
+function detectUrlChange(oldRows, newRow)
+{
+    const label = newRow.label || "";
 
+    const ver = newRow.Ver || "";
+
+    return oldRows.find(row =>
+        (row.label || "") === label
+        &&
+        (row.Ver || "") === ver
+    );
+
+}
 ///// 直近更新判定
 function isRecentUpdate(newRow,compareDays){
     // 1日前比較 → 2日以内
@@ -621,8 +648,68 @@ async function loadData(){
 
     newRows.forEach(newRow=>{
         const url = newRow.url || newRow.URL;
-        const oldRow = oldMap[url];
-        const update = classifyUpdate(oldRow,newRow);
+        let oldRow = oldMap[url];
+
+        // URL変更を検出
+        if(!oldRow){
+            const oldRowByLabel = detectUrlChange(oldRows, newRow);
+
+            if(oldRowByLabel){
+
+                const urlChanges = [
+                    {
+                        field:"URL",
+                        before:oldRowByLabel.url,
+                        after:newRow.url
+                    }
+                ];
+
+                [
+                    "feed_start_date",
+                    "feed_end_date",
+                    "feed_version",
+                    "feed_publisher_name"
+                ]
+                .forEach(field => {
+                    const before = oldRowByLabel[field] || "";
+                    const after = newRow[field] || "";
+
+                    if(before !== after){
+                        urlChanges.push({
+                            field:field,
+                            before:before,
+                            after:after
+                        });
+                    }
+                });
+
+                const hasGtfsChange = urlChanges.length > 2;
+
+                updates.push({
+                    oldRow: oldRowByLabel,
+                    newRow: newRow,
+                    url: url,
+                    update:{
+                        type:
+                            hasGtfsChange
+                            ? "データURL修正・変更（データ更新あり）"
+                            : "データURL修正・変更",
+
+                        badge:"badge-url-change",
+                        priority:2,
+                        level:"info"
+                    },
+                    changes:urlChanges
+                });
+
+                // URL変更時はここで終了
+                return;
+            }else{
+                return;
+            }
+        }
+
+        const update = classifyUpdate(oldRow, newRow);
 
         if(!update) return;
 
@@ -643,6 +730,7 @@ async function loadData(){
     let good=0;
     let check=0;
     let warning=0;
+    let info=0;
 
     const tbody = document.getElementById("tbody");
 
@@ -655,6 +743,7 @@ async function loadData(){
         if(level==="good")     good++;
         if(level==="check")    check++;
         if(level==="warning")  warning++;
+        if(level==="info")     info++;
 
         if(level==="critical" && !showCritical.checked)
           return;
@@ -667,6 +756,9 @@ async function loadData(){
 
         if(level==="warning" && !showWarning.checked)
           return;
+
+        if(level==="info" && !showInfo.checked)
+            return;
 
         const dlTime   = localStorage.getItem("gtfs_" + item.url);
         const btnClass = dlTime ? "download-btn downloaded" : "download-btn";
@@ -701,6 +793,7 @@ async function loadData(){
     <li>更新(feed_version/feed_info等) : ${good} 件</li>
     <li>要確認(Last-Modifiedのみ更新) : ${check} 件</li>
     <li>通信エラー : ${warning} 件</li>
+    <li>URL変更 : ${info} 件</li>
     `;
 
     updateSortHeader();
@@ -739,6 +832,9 @@ document.getElementById("sortType").addEventListener("click",()=>{
 });
 
 </script>
+
+<hr>
+<div>tshimada291, 2026-07-29 (Last Update: 2026-08-17)</div>
 
 </body>
 </html>
